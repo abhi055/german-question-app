@@ -1,0 +1,33 @@
+[
+    {
+        "text":"Arabisch",
+        "image":"assets/images/languages/Arabisch.png"
+    },{
+        "text":"Deutsch",
+        "image":"assets/images/languages/Deutsch.png"
+    },{
+        "text":"Englisch",
+        "image":"assets/images/languages/Englisch.png"
+    },{
+        "text":"Französisch",
+        "image":"assets/images/languages/Französisch.png"
+    },{
+        "text":"Italienisch",
+        "image":"assets/images/languages/Italienisch.png"
+    },{
+        "text":"Polnisch",
+        "image":"assets/images/languages/Polnisch.png"
+    },{
+        "text":"Russisch",
+        "image":"assets/images/languages/Russisch.png"
+    },{
+        "text":"Spanisch",
+        "image":"assets/images/languages/Spanisch.png"
+    },{
+        "text":"Türkisch",
+        "image":"assets/images/languages/Türkisch.png"
+    },{
+        "text":"Ukrainisch",
+        "image":"assets/images/languages/Ukrainisch.png"
+    }
+]

@@ -1,0 +1,5225 @@
+{
+    "1": {
+        "question": "Almanya'da insanlar hükümete karşı açıkça bir şey söyleyebilir çünkü …",
+        "options": [
+            "burada din özgürlüğü geçerlidir.",
+            "insanlar vergi öder.",
+            "insanların oy hakkı vardır.",
+            "burada ifade özgürlüğü geçerlidir."
+        ],
+        "correctAnswer": "burada ifade özgürlüğü geçerlidir.",
+        "category": "Temel Haklar"
+    },
+    "2": {
+        "question": "Almanya'da ebeveynler çocuğun 14 yaşına gelene kadar çocuğun … derslerine katılıp katılmayacağına karar verebilir.",
+        "options": [
+            "tarih.",
+            "din.",
+            "siyaset.",
+            "dil."
+        ],
+        "correctAnswer": "din.",
+        "category": "Temel Haklar"
+    },
+    "3": {
+        "question": "Almanya bir hukuk devletidir. Bu ne anlama gelir?",
+        "options": [
+            "Tüm sakinler ve devlet yasalara uymak zorundadır.",
+            "Devlet yasalara uymak zorunda değildir.",
+            "Sadece Almanlar yasalara uymak zorundadır.",
+            "Yasaları mahkemeler çıkarır."
+        ],
+        "correctAnswer": "Tüm sakinler ve devlet yasalara uymak zorundadır.",
+        "category": "Anayasal İlkeler"
+    },
+    "4": {
+        "question": "Almanya'da temel haklara ait olan hangi haktır?",
+        "options": [
+            "silah bulundurma",
+            "güçlünün hakkı",
+            "ifade özgürlüğü",
+            "kendi adaleti"
+        ],
+        "correctAnswer": "ifade özgürlüğü",
+        "category": "Temel Haklar"
+    },
+    "5": {
+        "question": "Almanya'daki seçimler serbesttir. Bu ne anlama gelir?",
+        "options": [
+            "Belirli bir adaya oy verirseniz para alabilirsiniz.",
+            "Sadece hapishaneye girmemiş olanlar oy kullanabilir.",
+            "Seçmenler hiçbir şekilde etkilenmemeli veya belirli bir şekilde oy vermeye zorlanmamalı ve oy verdikleri için herhangi bir dezavantaj yaşamamalıdır.",
+            "Oy hakkı olan herkes oy kullanmak zorundadır."
+        ],
+        "correctAnswer": "Seçmenler hiçbir şekilde etkilenmemeli veya belirli bir şekilde oy vermeye zorlanmamalı ve oy verdikleri için herhangi bir dezavantaj yaşamamalıdır.",
+        "category": "Seçimler ve Katılım"
+    },
+    "6": {
+        "question": "Almanya'nın anayasasına ne denir?",
+        "options": [
+            "Halk Yasası",
+            "Federal Yasa",
+            "Alman Yasası",
+            "Temel Yasa"
+        ],
+        "correctAnswer": "Temel Yasa",
+        "category": "Anayasal İlkeler"
+    },
+    "7": {
+        "question": "Almanya Anayasası tarafından garanti edilen temel haklardan hangisi? … özgürlüğü hakkı",
+        "options": [
+            "inanç ve vicdan özgürlüğü",
+            "eğlence",
+            "çalışma",
+            "konut"
+        ],
+        "correctAnswer": "inanç ve vicdan özgürlüğü",
+        "category": "Temel Haklar"
+    },
+    "8": {
+        "question": "Almanya Temel Yasası'nda ne yer almaz?",
+        "options": [
+            "İnsan onuru dokunulmazdır.",
+            "Herkesin aynı miktarda parası olmalıdır.",
+            "Herkes fikrini açıklayabilir.",
+            "Herkes yasa önünde eşittir."
+        ],
+        "correctAnswer": "Herkesin aynı miktarda parası olmalıdır.",
+        "category": "Temel Haklar"
+    },
+    "9": {
+        "question": "Almanya'da sadece yabancılar için geçerli olan temel hak hangisidir? … temel hakkı",
+        "options": [
+            "aile koruması",
+            "insan onuru",
+            "sığınma",
+            "ifade özgürlüğü"
+        ],
+        "correctAnswer": "sığınma",
+        "category": "Temel Haklar"
+    },
+    "10": {
+        "question": "Almanya Temel Yasası ile uyumlu olan nedir?",
+        "options": [
+            "bedensel cezalar",
+            "işkence",
+            "idam cezası",
+            "para cezası"
+        ],
+        "correctAnswer": "para cezası",
+        "category": "Temel Haklar"
+    },
+    "11": {
+        "question": "Almanya Federal Cumhuriyeti'nin anayasasına ne denir?",
+        "options": [
+            "Temel Yasa",
+            "Federal Anayasa",
+            "Yasa Kodu",
+            "Anayasal Antlaşma"
+        ],
+        "correctAnswer": "Temel Yasa",
+        "category": "Anayasal İlkeler"
+    },
+    "12": {
+        "question": "Almanya Bundestag'ındaki bir parti basın özgürlüğünü kaldırmak istiyor. Bu mümkün mü?",
+        "options": [
+            "Evet, Bundestag üyelerinin yarısından fazlası kabul ederse.",
+            "Evet, ancak Bundestag üyelerinin üçte ikisi kabul etmelidir.",
+            "Hayır, çünkü basın özgürlüğü temel haktır. Kaldırılamaz.",
+            "Hayır, çünkü basın özgürlüğünü sadece Bundesrat kaldırabilir."
+        ],
+        "correctAnswer": "Hayır, çünkü basın özgürlüğü temel haktır. Kaldırılamaz.",
+        "category": "Temel Haklar"
+    },
+    "13": {
+        "question": "Parlamentoda \"muhalefet\" terimi … anlamına gelir",
+        "options": [
+            "iktidar partilerine.",
+            "en fazla üyeye sahip parlamento fraksiyonuna.",
+            "son seçimlerde %5 barajını aşan tüm partilere.",
+            "iktidar partisi veya partilerine ait olmayan tüm parlamento üyelerine."
+        ],
+        "correctAnswer": "iktidar partisi veya partilerine ait olmayan tüm parlamento üyelerine.",
+        "category": "Anayasal Organlar"
+    },
+    "14": {
+        "question": "Almanya'da ifade özgürlüğü şu anlama gelir: Ben …",
+        "options": [
+            "sokaktaki yayalara hakaret edebilirim.",
+            "editöre mektuplarda fikrimi açıklayabilirim.",
+            "kamuya açık olarak Nazi, Hamas veya IŞİD sembolleri taşıyabilirim.",
+            "hükümete karşı çıkmadığım sürece fikrimi açıklayabilirim."
+        ],
+        "correctAnswer": "editöre mektuplarda fikrimi açıklayabilirim.",
+        "category": "Temel Haklar"
+    },
+    "15": {
+        "question": "Almanya Temel Yasası neyi yasaklar?",
+        "options": [
+            "askerlik hizmetini",
+            "zorla çalıştırmayı",
+            "meslek seçim özgürlüğünü",
+            "yurtdışında çalışmayı"
+        ],
+        "correctAnswer": "zorla çalıştırmayı",
+        "category": "Temel Haklar"
+    },
+    "16": {
+        "question": "Almanya'da ifade özgürlüğü ne zaman sınırlandırılır?",
+        "options": [
+            "kişiler hakkında kamuya açık yanlış iddialar yayıldığında",
+            "federal hükümet hakkında görüş bildirildiğinde",
+            "dinler hakkında tartışmalar sırasında",
+            "devleti eleştirdiğinde"
+        ],
+        "correctAnswer": "kişiler hakkında kamuya açık yanlış iddialar yayıldığında",
+        "category": "Temel Haklar"
+    },
+    "17": {
+        "question": "Alman yasaları … yasaklar",
+        "options": [
+            "sakinlerin ifade özgürlüğünü.",
+            "vatandaşların dilekçelerini.",
+            "sakinlerin toplanma özgürlüğünü.",
+            "devletin vatandaşlara karşı eşitsiz muamelesini."
+        ],
+        "correctAnswer": "devletin vatandaşlara karşı eşitsiz muamelesini.",
+        "category": "Temel Haklar"
+    },
+    "18": {
+        "question": "Almanya Federal Cumhuriyeti Temel Yasası'nın 1. maddesinde hangi temel hak garanti edilir?",
+        "options": [
+            "insan onurunun dokunulmazlığı",
+            "yaşam hakkı",
+            "din özgürlüğü",
+            "ifade özgürlüğü"
+        ],
+        "correctAnswer": "insan onurunun dokunulmazlığı",
+        "category": "Temel Haklar"
+    },
+    "19": {
+        "question": "Almanya'da \"serbest dolaşım\" hakkı ne anlama gelir?",
+        "options": [
+            "İkamet yerini seçebilirsiniz.",
+            "Mesleğinizi değiştirebilirsiniz.",
+            "Başka bir din seçebilirsiniz.",
+            "Hafif kıyafetlerle kamusal alanlarda dolaşabilirsiniz."
+        ],
+        "correctAnswer": "İkamet yerini seçebilirsiniz.",
+        "category": "Temel Haklar"
+    },
+    "20": {
+        "question": "Almanya'da bir parti diktatörlük kurmak istiyor. Bu nedenle …",
+        "options": [
+            "hoşgörülüdür.",
+            "hukuk devletine yöneliktir.",
+            "yasalara uyar.",
+            "anayasaya aykırıdır."
+        ],
+        "correctAnswer": "anayasaya aykırıdır.",
+        "category": "Anayasal Organlar"
+    },
+    "21": {
+        "question": "Almanya Federal Cumhuriyeti'nin arması hangisidir?",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 1",
+        "state": "Federal Kartal",
+        "category": "Ulusal Semboller"
+    },
+    "22": {
+        "question": "Almanya'nın yönetim biçimi nedir?",
+        "options": [
+            "Monarşi",
+            "Diktatörlük",
+            "Cumhuriyet",
+            "Prenslik"
+        ],
+        "correctAnswer": "Cumhuriyet",
+        "category": "Anayasal İlkeler"
+    },
+    "23": {
+        "question": "Almanya'da çalışan insanların çoğu …",
+        "options": [
+            "küçük aile işletmelerinde çalışır.",
+            "federal eyalet için gönüllü çalışır.",
+            "kendi şirketiyle serbest çalışır.",
+            "bir şirkette veya devlet kurumunda çalışır."
+        ],
+        "correctAnswer": "bir şirkette veya devlet kurumunda çalışır.",
+        "category": "Sosyal Sistem"
+    },
+    "24": {
+        "question": "Almanya Federal Cumhuriyeti'nde kaç eyalet vardır?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "correctAnswer": "16",
+        "category": "Federalizm"
+    },
+    "25": {
+        "question": "Almanya Federal Cumhuriyeti'nin eyaletlerinden olmayan hangisidir?",
+        "options": [
+            "Alsace-Lorraine",
+            "Kuzey Ren-Vestfalya",
+            "Mecklenburg-Vorpommern",
+            "Saksonya-Anhalt"
+        ],
+        "correctAnswer": "Alsace-Lorraine",
+        "category": "Federalizm"
+    },
+    "26": {
+        "question": "Almanya …",
+        "options": [
+            "komünist bir cumhuriyettir.",
+            "demokratik ve sosyal federal bir devlettir.",
+            "kapitalist ve sosyal bir monarşidir.",
+            "sosyalist ve sosyal federal bir devlettir."
+        ],
+        "correctAnswer": "demokratik ve sosyal federal bir devlettir.",
+        "category": "Anayasal İlkeler"
+    },
+    "27": {
+        "question": "Almanya …",
+        "options": [
+            "sosyalist bir devlettir.",
+            "federal bir devlettir.",
+            "diktatörlüktür.",
+            "monarşidir."
+        ],
+        "correctAnswer": "federal bir devlettir.",
+        "category": "Anayasal İlkeler"
+    },
+    "28": {
+        "question": "Almanya'da Bundestag üyelerini kim seçer?",
+        "options": [
+            "askerler",
+            "iş dünyası",
+            "oy kullanma hakkına sahip seçmenler",
+            "idare"
+        ],
+        "correctAnswer": "oy kullanma hakkına sahip seçmenler",
+        "category": "Anayasal Organlar"
+    },
+    "29": {
+        "question": "Almanya Federal Cumhuriyeti'nin armasında hangi hayvan vardır?",
+        "options": [
+            "Aslan",
+            "Kartal",
+            "Ayı",
+            "At"
+        ],
+        "correctAnswer": "Kartal",
+        "category": "Ulusal Semboller"
+    },
+    "30": {
+        "question": "Demokrasimizin bir özelliği olmayan nedir?",
+        "options": [
+            "düzenli seçimler",
+            "basın sansürü",
+            "ifade özgürlüğü",
+            "farklı siyasi partiler"
+        ],
+        "correctAnswer": "basın sansürü",
+        "category": "Anayasal İlkeler"
+    },
+    "31": {
+        "question": "Almanya'da hükümet kurmak için partilerin işbirliği … olarak adlandırılır",
+        "options": [
+            "birlik",
+            "koalisyon",
+            "bakanlık",
+            "parlamento fraksiyonu"
+        ],
+        "correctAnswer": "koalisyon",
+        "category": "Anayasal Organlar"
+    },
+    "32": {
+        "question": "Almanya'da devlet gücünün dallarından olmayan nedir?",
+        "options": [
+            "yasama gücü",
+            "hükümet",
+            "basın",
+            "yargı gücü"
+        ],
+        "correctAnswer": "basın",
+        "category": "Anayasal İlkeler"
+    },
+    "33": {
+        "question": "Hangi ifade doğrudur? Almanya'da …",
+        "options": [
+            "devlet ve dini topluluklar birbirinden ayrılmıştır.",
+            "dini topluluklar devleti oluşturur.",
+            "devlet dini topluluklara bağımlıdır.",
+            "devlet ve dini topluluklar bir bütündür."
+        ],
+        "correctAnswer": "devlet ve dini topluluklar birbirinden ayrılmıştır.",
+        "category": "Dini Çeşitlilik"
+    },
+    "34": {
+        "question": "Almanya … değildir",
+        "options": [
+            "demokrasi",
+            "hukuk devleti",
+            "monarşi",
+            "sosyal devlet"
+        ],
+        "correctAnswer": "monarşi",
+        "category": "Anayasal İlkeler"
+    },
+    "35": {
+        "question": "Alman devleti sosyal sigortayı nasıl finanse eder?",
+        "options": [
+            "kilise vergisi",
+            "sosyal sigorta primleri",
+            "bağışlar",
+            "üyelik aidatları"
+        ],
+        "correctAnswer": "sosyal sigorta primleri",
+        "category": "Sosyal Sistem"
+    },
+    "36": {
+        "question": "Almanya'da sosyal korumayı sağlayan hangi önlemdir?",
+        "options": [
+            "sağlık sigortası",
+            "araç sigortası",
+            "ev sigortası",
+            "sorumluluk ve yangın sigortası"
+        ],
+        "correctAnswer": "sağlık sigortası",
+        "category": "Sosyal Sistem"
+    },
+    "37": {
+        "question": "Almanya'daki çoğu eyaletin hükümet başkanlarına ne denir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Senatör",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "category": "Federalizm"
+    },
+    "38": {
+        "question": "Almanya Federal Cumhuriyeti demokratik ve sosyal bir … devlettir",
+        "options": [
+            "devletler konfederasyonu",
+            "federal devlet",
+            "devletler birliği",
+            "merkezi devlet"
+        ],
+        "correctAnswer": "federal devlet",
+        "category": "Federalizm"
+    },
+    "39": {
+        "question": "Almanya'daki her eyaletin neyi vardır?",
+        "options": [
+            "kendi dışişleri bakanı",
+            "kendi para birimi",
+            "kendi ordusu",
+            "kendi hükümeti"
+        ],
+        "correctAnswer": "kendi hükümeti",
+        "category": "Federalizm"
+    },
+    "40": {
+        "question": "Almanya milli marşı hangi sözlerle başlar?",
+        "options": [
+            "Halklar, işaretleri dinleyin …",
+            "Birlik ve Hukuk ve Özgürlük …",
+            "Sevinç, tanrıların güzel kıvılcımı …",
+            "Almanya, birleşik vatan …"
+        ],
+        "correctAnswer": "Birlik ve Hukuk ve Özgürlük …",
+        "category": "Ulusal Semboller"
+    },
+    "41": {
+        "question": "Neden bir demokraside birden fazla parti vardır?",
+        "options": [
+            "çünkü vatandaşların farklı görüşlerini temsil etmeyi sağlar",
+            "siyasette rüşveti sınırlamak için",
+            "siyasi gösterileri önlemek için",
+            "ekonomik rekabeti teşvik etmek için"
+        ],
+        "correctAnswer": "çünkü vatandaşların farklı görüşlerini temsil etmeyi sağlar",
+        "category": "Anayasal İlkeler"
+    },
+    "42": {
+        "question": "Almanya'da yeni bir yasayı kim kabul eder?",
+        "options": [
+            "hükümet",
+            "parlamento",
+            "mahkemeler",
+            "polis"
+        ],
+        "correctAnswer": "parlamento",
+        "category": "Anayasal Organlar"
+    },
+    "43": {
+        "question": "Almanya'da bir siyasi parti ne zaman yasaklanabilir?",
+        "options": [
+            "seçim kampanyası çok pahalıysa",
+            "anayasaya karşı mücadele ediyorsa",
+            "devlet başkanını eleştiriyorsa",
+            "programı yeni bir yön öneriyorsa"
+        ],
+        "correctAnswer": "anayasaya karşı mücadele ediyorsa",
+        "category": "Anayasal Organlar"
+    },
+    "44": {
+        "question": "Almanya'da vatandaşların doğrudan seçemediği görev hangisidir?",
+        "options": [
+            "Avrupa Parlamentosu üyeleri",
+            "Federal Cumhurbaşkanı",
+            "eyalet parlamentosu üyeleri",
+            "Bundestag üyeleri"
+        ],
+        "correctAnswer": "Federal Cumhurbaşkanı",
+        "category": "Anayasal Organlar"
+    },
+    "45": {
+        "question": "Bakım sigortası hangi tür sigortaya girer?",
+        "options": [
+            "sosyal sigortaya",
+            "kaza sigortasına",
+            "ev eşyası sigortasına",
+            "sorumluluk ve yangın sigortasına"
+        ],
+        "correctAnswer": "sosyal sigortaya",
+        "category": "Sosyal Sistem"
+    },
+    "46": {
+        "question": "Alman devletinin birçok görevi vardır. Aşağıdakilerden hangisi bunlardan biridir?",
+        "options": [
+            "Yollar ve okullar inşa eder.",
+            "Yiyecek ve giyecek satar.",
+            "Tüm sakinlere ücretsiz gazete sağlar.",
+            "Otomobil ve otobüs üretir."
+        ],
+        "correctAnswer": "Yollar ve okullar inşa eder.",
+        "category": "Devletin Görevleri"
+    },
+    "47": {
+        "question": "Alman devletinin birçok görevi vardır. Aşağıdakilerden hangisi bunlardan biri değildir?",
+        "options": [
+            "Tüm vatandaşlara tatil gezilerini öder.",
+            "Çocuk yardımı öder.",
+            "Müzeleri destekler.",
+            "Sporcuları teşvik eder."
+        ],
+        "correctAnswer": "Tüm vatandaşlara tatil gezilerini öder.",
+        "category": "Devletin Görevleri"
+    },
+    "48": {
+        "question": "Almanya'nın anayasal organlarından olmayan hangisidir?",
+        "options": [
+            "Bundesrat (Federal Konsey)",
+            "Federal Cumhurbaşkanı",
+            "vatandaş meclisi",
+            "hükümet"
+        ],
+        "correctAnswer": "vatandaş meclisi",
+        "category": "Anayasal Organlar"
+    },
+    "49": {
+        "question": "Almanya'da okul politikasını kim belirler?",
+        "options": [
+            "öğretmenler",
+            "federal eyaletler",
+            "Aile Bakanlığı",
+            "üniversiteler"
+        ],
+        "correctAnswer": "federal eyaletler",
+        "category": "Federalizm"
+    },
+    "50": {
+        "question": "Almanya'daki ekonomik sistem … olarak adlandırılır",
+        "options": [
+            "serbest merkezi ekonomi.",
+            "sosyal piyasa ekonomisi.",
+            "kontrollü merkezi ekonomi.",
+            "planlı ekonomi."
+        ],
+        "correctAnswer": "sosyal piyasa ekonomisi.",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "51": {
+        "question": "Demokratik hukuk devletine ait olmayan şey …",
+        "options": [
+            "insanların hükümeti eleştirebilmesidir.",
+            "vatandaşların barışçıl gösteri yapabilmesidir.",
+            "kişilerin özel polis tarafından sebepsiz tutuklanmasıdır.",
+            "birinin suç işlemesi ve bu nedenle tutuklanmasıdır."
+        ],
+        "correctAnswer": "kişilerin özel polis tarafından sebepsiz tutuklanmasıdır.",
+        "category": "Anayasal İlkeler"
+    },
+    "52": {
+        "question": "\"Halk egemenliği\" ne anlama gelir? Tüm devlet gücü … kaynaklanır",
+        "options": [
+            "halktan.",
+            "Bundestag'dan.",
+            "Prusya kralından.",
+            "Federal Anayasa Mahkemesi'nden."
+        ],
+        "correctAnswer": "halktan.",
+        "category": "Anayasal İlkeler"
+    },
+    "53": {
+        "question": "Almanya'da \"hukuk devleti\" ne anlama gelir?",
+        "options": [
+            "Devlet her zaman haklıdır.",
+            "Sadece sağ partiler vardır.",
+            "Yasaları vatandaşlar belirler.",
+            "Devlet yasaya uymak zorundadır."
+        ],
+        "correctAnswer": "Devlet yasaya uymak zorundadır.",
+        "category": "Anayasal İlkeler"
+    },
+    "54": {
+        "question": "Almanya'da devlet gücünün dallarından olmayan hangisidir?",
+        "options": [
+            "Yasama",
+            "Yargı",
+            "Yürütme",
+            "Yönlendirme"
+        ],
+        "correctAnswer": "Yönlendirme",
+        "category": "Anayasal İlkeler"
+    },
+    "55": {
+        "question": "Bu resim neyi gösteriyor?",
+        "options": [
+            "Berlin'deki Bundestag binası",
+            "Karlsruhe'deki Federal Anayasa Mahkemesi",
+            "Berlin'deki Bundesrat binası",
+            "Berlin'deki Federal Şansölyelik"
+        ],
+        "correctAnswer": "Berlin'deki Bundestag binası",
+        "category": "Anayasal Organlar"
+    },
+    "56": {
+        "question": "Almanya'da belediye yönetimine ait olan organ hangisidir?",
+        "options": [
+            "kilise ofisi",
+            "kamu düzeni dairesi",
+            "vergi dairesi",
+            "dışişleri bakanlığı"
+        ],
+        "correctAnswer": "kamu düzeni dairesi",
+        "category": "Belediye"
+    },
+    "57": {
+        "question": "Almanya Bundestag Başkanı genellikle kim seçilir?",
+        "options": [
+            "parlamentonun en yaşlı üyesi",
+            "en büyük eyaletin bakan başkanı",
+            "eski Federal Şansölye",
+            "en güçlü parlamento fraksiyonunun üyesi"
+        ],
+        "correctAnswer": "en güçlü parlamento fraksiyonunun üyesi",
+        "category": "Anayasal Organlar"
+    },
+    "58": {
+        "question": "Almanya'da federal bakanları kim atar?",
+        "options": [
+            "Federal Anayasa Mahkemesi Başkanı",
+            "Federal Cumhurbaşkanı",
+            "Bundesrat Başkanı",
+            "Bundestag Başkanı"
+        ],
+        "correctAnswer": "Federal Cumhurbaşkanı",
+        "category": "Anayasal Organlar"
+    },
+    "59": {
+        "question": "Bugünkü Almanya topraklarında ilk Yahudi topluluğu yaklaşık kaç yıl önce ortaya çıktı?",
+        "options": [
+            "yaklaşık 300 yıl önce",
+            "yaklaşık 700 yıl önce",
+            "yaklaşık 1150 yıl önce",
+            "yaklaşık 1700 yıl önce"
+        ],
+        "correctAnswer": "yaklaşık 1700 yıl önce",
+        "category": "Göç Tarihi"
+    },
+    "60": {
+        "question": "Almanya'da Bundestag ve Bundesrat … aittir",
+        "options": [
+            "yürütme gücüne.",
+            "yasama gücüne.",
+            "yönlendirme gücüne.",
+            "yargı gücüne."
+        ],
+        "correctAnswer": "yasama gücüne.",
+        "category": "Anayasal İlkeler"
+    },
+    "61": {
+        "question": "\"Halk egemenliği\" ne anlama gelir?",
+        "options": [
+            "Kraliçe/Kral halkı yönetir.",
+            "Federal Anayasa Mahkemesi anayasanın üzerindedir.",
+            "Çıkar grupları hükümetle birlikte egemenliği kullanır.",
+            "Devlet gücü halktan kaynaklanır."
+        ],
+        "correctAnswer": "Devlet gücü halktan kaynaklanır.",
+        "category": "Anayasal İlkeler"
+    },
+    "62": {
+        "question": "Bir eyalet parlamentosu seçildiğinde buna … denir",
+        "options": [
+            "belediye seçimleri",
+            "eyalet parlamentosu seçimleri",
+            "Avrupa seçimleri",
+            "federal seçimler"
+        ],
+        "correctAnswer": "eyalet parlamentosu seçimleri",
+        "category": "Seçimler ve Katılım"
+    },
+    "63": {
+        "question": "Almanya'da yürütme gücüne ait olmayan nedir?",
+        "options": [
+            "polis",
+            "mahkemeler",
+            "vergi dairesi",
+            "bakanlıklar"
+        ],
+        "correctAnswer": "mahkemeler",
+        "category": "Anayasal İlkeler"
+    },
+    "64": {
+        "question": "Bugün Almanya Federal Cumhuriyeti … bölünmüştür",
+        "options": [
+            "dört işgal bölgesine.",
+            "doğu ve batı devletine.",
+            "16 kantona.",
+            "federal hükümet, eyaletler ve belediyelere."
+        ],
+        "correctAnswer": "federal hükümet, eyaletler ve belediyelere.",
+        "category": "Federalizm"
+    },
+    "65": {
+        "question": "Almanya Bundestag'ının görevleri arasında … yer almaz",
+        "options": [
+            "yasaların hazırlanması.",
+            "federal hükümetin denetlenmesi.",
+            "Federal Şansölye'nin seçilmesi.",
+            "Federal Kabine'nin oluşturulması."
+        ],
+        "correctAnswer": "Federal Kabine'nin oluşturulması.",
+        "category": "Anayasal Organlar"
+    },
+    "66": {
+        "question": "Almanya'daki en büyük Yahudi toplulukları hangi şehirlerde bulunur?",
+        "options": [
+            "Berlin ve Münih",
+            "Hamburg ve Essen",
+            "Nürnberg ve Stuttgart",
+            "Worms ve Speyer"
+        ],
+        "correctAnswer": "Berlin ve Münih",
+        "category": "Kültürlerarası Birlikte Yaşama"
+    },
+    "67": {
+        "question": "Almanya'da hangi politika alanı çoğunlukla eyaletlerin yetki alanına girer?",
+        "options": [
+            "savunma politikası",
+            "dış politika",
+            "ekonomi politikası",
+            "eğitim politikası"
+        ],
+        "correctAnswer": "eğitim politikası",
+        "category": "Federalizm"
+    },
+    "68": {
+        "question": "Almanya'da devlet neden okul eğitim sistemini kontrol eder?",
+        "options": [
+            "çünkü Almanya'da sadece devlet okulları vardır",
+            "çünkü tüm öğrencilerin okul diploması alması gerekir",
+            "çünkü eyaletlerde farklı okul türleri vardır",
+            "çünkü Temel Yasa'ya göre bu onun görevidir"
+        ],
+        "correctAnswer": "çünkü Temel Yasa'ya göre bu onun görevidir",
+        "category": "Devletin Görevleri"
+    },
+    "69": {
+        "question": "Almanya Federal Cumhuriyeti üç seviyeli idari yapıya sahiptir. En alt siyasi seviyeye ne denir?",
+        "options": [
+            "belediye meclisleri",
+            "ilçe yöneticileri",
+            "belediyeler",
+            "ilçe idareleri"
+        ],
+        "correctAnswer": "belediyeler",
+        "category": "Belediye"
+    },
+    "70": {
+        "question": "Almanya Federal Cumhurbaşkanı'nın görevlerinden biri …",
+        "options": [
+            "hükümeti yönetmektir.",
+            "iktidar partisini kontrol etmektir.",
+            "bakanları seçmektir.",
+            "Şansölye'yi seçim için önermektir."
+        ],
+        "correctAnswer": "Şansölye'yi seçim için önermektir.",
+        "category": "Anayasal Organlar"
+    },
+    "71": {
+        "question": "Almanya Federal Şansölyesi zamanının çoğunu nerede geçirir?",
+        "options": [
+            "Bonn'da",
+            "Meseberg Sarayı'nda",
+            "Bellevue Sarayı'nda",
+            "Berlin'de"
+        ],
+        "correctAnswer": "Berlin'de",
+        "category": "Anayasal Organlar"
+    },
+    "72": {
+        "question": "Almanya'nın şu anki Federal Şansölyesi kimdir?",
+        "options": [
+            "Gerhard Schröder",
+            "Angela Merkel",
+            "Franziska Giffey",
+            "Olaf Scholz"
+        ],
+        "correctAnswer": "Olaf Scholz",
+        "category": "Anayasal Organlar"
+    },
+    "73": {
+        "question": "Bundestag'daki en büyük iki parlamento fraksiyonu şu anda …",
+        "options": [
+            "CDU/CSU ve SPD'dir.",
+            "Sol Parti ve İttifak 90/Yeşiller'dir.",
+            "FDP ve SPD'dir.",
+            "Sol Parti ve FDP'dir."
+        ],
+        "correctAnswer": "CDU/CSU ve SPD'dir.",
+        "category": "Siyasi Partiler"
+    },
+    "74": {
+        "question": "Tüm Almanya'nın parlamentosuna ne denir?",
+        "options": [
+            "Federal Meclis",
+            "Halk Meclisi",
+            "Bundestag",
+            "Federal Adalet Mahkemesi"
+        ],
+        "correctAnswer": "Bundestag",
+        "category": "Anayasal Organlar"
+    },
+    "75": {
+        "question": "Almanya'nın şu anki devlet başkanı kimdir?",
+        "options": [
+            "Frank-Walter Steinmeier",
+            "Bärbel Bas",
+            "Bodo Ramelow",
+            "Joachim Gauck"
+        ],
+        "correctAnswer": "Frank-Walter Steinmeier",
+        "category": "Anayasal Organlar"
+    },
+    "76": {
+        "question": "CDU kısaltması ne anlama gelir?",
+        "options": [
+            "Hristiyan Alman Birliği",
+            "Alman İş Adamları Kulübü",
+            "Hristiyan Alman Çevre Koruma",
+            "Hristiyan Demokrat Birlik"
+        ],
+        "correctAnswer": "Hristiyan Demokrat Birlik",
+        "category": "Siyasi Partiler"
+    },
+    "77": {
+        "question": "Bundeswehr nedir?",
+        "options": [
+            "Alman polisi",
+            "Alman limanı",
+            "Alman sivil girişimi",
+            "Alman silahlı kuvvetleri"
+        ],
+        "correctAnswer": "Alman silahlı kuvvetleri",
+        "category": "Devletin Görevleri"
+    },
+    "78": {
+        "question": "SPD kısaltması ne anlama gelir?",
+        "options": [
+            "Almanya Sosyalist Partisi",
+            "Almanya Sosyopolitik Partisi",
+            "Almanya Sosyal Demokrat Partisi",
+            "Almanya Sosyal Adalet Partisi"
+        ],
+        "correctAnswer": "Almanya Sosyal Demokrat Partisi",
+        "category": "Siyasi Partiler"
+    },
+    "79": {
+        "question": "FDP kısaltması ne anlama gelir?",
+        "options": [
+            "Barış Gösteri Partisi",
+            "Almanya Özgür Partisi",
+            "Öncü Demokrat Parti",
+            "Özgür Demokrat Parti"
+        ],
+        "correctAnswer": "Özgür Demokrat Parti",
+        "category": "Siyasi Partiler"
+    },
+    "80": {
+        "question": "Almanya'da Temel Yasa'nın yorumlanmasından hangi mahkeme sorumludur?",
+        "options": [
+            "Yüksek Eyalet Mahkemesi",
+            "Yerel Mahkeme",
+            "Federal Anayasa Mahkemesi",
+            "İdari Mahkeme"
+        ],
+        "correctAnswer": "Federal Anayasa Mahkemesi",
+        "category": "Anayasal Organlar"
+    },
+    "81": {
+        "question": "Almanya'da Federal Şansölye'yi kim seçer?",
+        "options": [
+            "Bundesrat",
+            "Federal Meclis",
+            "halk",
+            "Bundestag"
+        ],
+        "correctAnswer": "Bundestag",
+        "category": "Anayasal Organlar"
+    },
+    "82": {
+        "question": "Almanya Federal Kabinesi'ni kim yönetir?",
+        "options": [
+            "Bundestag Başkanı",
+            "Federal Cumhurbaşkanı",
+            "Bundesrat Başkanı",
+            "Federal Şansölye"
+        ],
+        "correctAnswer": "Federal Şansölye",
+        "category": "Anayasal Organlar"
+    },
+    "83": {
+        "question": "Almanya Federal Şansölyesi'ni kim seçer?",
+        "options": [
+            "halk",
+            "Federal Meclis",
+            "Bundestag",
+            "Federal Hükümet"
+        ],
+        "correctAnswer": "Bundestag",
+        "category": "Anayasal Organlar"
+    },
+    "84": {
+        "question": "Almanya Federal Cumhurbaşkanı'nın temel görevi nedir?",
+        "options": [
+            "ülkeyi yönetmek",
+            "yasaları hazırlamak",
+            "ülkeyi temsil etmek",
+            "yasaların uygulanmasını kontrol etmek"
+        ],
+        "correctAnswer": "ülkeyi temsil etmek",
+        "category": "Anayasal Organlar"
+    },
+    "85": {
+        "question": "Almanya Bundesrat'ını kim oluşturur?",
+        "options": [
+            "Bundestag üyeleri",
+            "federal bakanlar",
+            "eyalet hükümetlerinin temsilcileri",
+            "parti üyeleri"
+        ],
+        "correctAnswer": "eyalet hükümetlerinin temsilcileri",
+        "category": "Anayasal Organlar"
+    },
+    "86": {
+        "question": "Almanya'da Federal Cumhurbaşkanı'nı kim seçer?",
+        "options": [
+            "Federal Meclis",
+            "Bundesrat",
+            "Federal Parlamento",
+            "Federal Anayasa Mahkemesi"
+        ],
+        "correctAnswer": "Federal Meclis",
+        "category": "Anayasal Organlar"
+    },
+    "87": {
+        "question": "Almanya Federal Cumhuriyeti'nin devlet başkanı kimdir?",
+        "options": [
+            "Federal Şansölye",
+            "Federal Cumhurbaşkanı",
+            "Bundesrat Başkanı",
+            "Bundestag Başkanı"
+        ],
+        "correctAnswer": "Federal Cumhurbaşkanı",
+        "category": "Anayasal Organlar"
+    },
+    "88": {
+        "question": "Bundestag'daki parlamento muhalefeti …",
+        "options": [
+            "hükümeti kontrol eder.",
+            "federal bakanın kim olacağını belirler.",
+            "Bundesrat'ta kimin oturacağını belirler.",
+            "eyalet hükümet başkanlarını önerir."
+        ],
+        "correctAnswer": "hükümeti kontrol eder.",
+        "category": "Anayasal Organlar"
+    },
+    "89": {
+        "question": "Almanya'da aynı partinin parlamento üyelerinin birliğine ne denir?",
+        "options": [
+            "dernek",
+            "yaşlılar konseyi",
+            "parlamento fraksiyonu",
+            "muhalefet"
+        ],
+        "correctAnswer": "parlamento fraksiyonu",
+        "category": "Anayasal Organlar"
+    },
+    "90": {
+        "question": "Eyaletler federal yasamada … aracılığıyla yer alır",
+        "options": [
+            "Bundesrat.",
+            "Federal Meclis.",
+            "Bundestag.",
+            "Federal Hükümet."
+        ],
+        "correctAnswer": "Bundesrat.",
+        "category": "Anayasal Organlar"
+    },
+    "91": {
+        "question": "Almanya'da bir eyalette hükümet değişikliği federal politikayı etkileyebilir. Yönetilebilirlik …",
+        "options": [
+            "Bundestag'daki çoğunluk değişirse daha zorlaşır.",
+            "Bundesrat'a yeni partiler girerse daha kolaylaşır.",
+            "Bundesrat'taki çoğunluk değişirse daha zorlaşır.",
+            "zengin bir eyaletse daha kolaylaşır."
+        ],
+        "correctAnswer": "Bundesrat'taki çoğunluk değişirse daha zorlaşır.",
+        "category": "Anayasal Organlar"
+    },
+    "92": {
+        "question": "Almanya'da CSU kısaltması ne anlama gelir?",
+        "options": [
+            "Hristiyan Güvenlik Birliği",
+            "Hristiyan Güney Almanya Birliği",
+            "Hristiyan Sosyal Girişimciler Derneği",
+            "Hristiyan Sosyal Birliği"
+        ],
+        "correctAnswer": "Hristiyan Sosyal Birliği",
+        "category": "Siyasi Partiler"
+    },
+    "93": {
+        "question": "Bundestag seçimlerinde bir parti ne kadar çok ikinci oy (Zweitstimmen) alırsa …",
+        "options": [
+            "o kadar az birinci oy alabilir.",
+            "partinin doğrudan adaylarından o kadar çok kişi parlamentoya girer.",
+            "koalisyon kurma ihtiyacı o kadar artar.",
+            "parlamentoda o kadar çok sandalye alır."
+        ],
+        "correctAnswer": "parlamentoda o kadar çok sandalye alır.",
+        "category": "Seçimler ve Katılım"
+    },
+    "94": {
+        "question": "Bundestag seçimlerine katılmak için minimum yaş kaçtır?",
+        "options": [
+            "16 yaş",
+            "18 yaş",
+            "21 yaş",
+            "23 yaş"
+        ],
+        "correctAnswer": "18 yaş",
+        "category": "Seçimler ve Katılım"
+    },
+    "95": {
+        "question": "Almanya'daki çoğu çocuğun yükümlülüğü nedir?",
+        "options": [
+            "zorunlu oy kullanma",
+            "zorunlu okul eğitimi",
+            "gizlilik yükümlülüğü",
+            "zorunlu din eğitimi"
+        ],
+        "correctAnswer": "zorunlu okul eğitimi",
+        "category": "Yükümlülükler"
+    },
+    "96": {
+        "question": "Holokost'u inkâr eden bir kişi nasıl cezalandırılabilir?",
+        "options": [
+            "sosyal yardımların azaltılmasıyla",
+            "100 saate kadar toplumsal hizmetle",
+            "hiçbir şekilde, Holokost inkârı serbesttir",
+            "beş yıla kadar hapis veya para cezasıyla"
+        ],
+        "correctAnswer": "beş yıla kadar hapis veya para cezasıyla",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "97": {
+        "question": "Almanya'da bir kişi sürekli çalışıyorsa otomatik olarak ne ödenir?",
+        "options": [
+            "sosyal sigorta",
+            "sosyal yardım",
+            "çocuk yardımı",
+            "konut yardımı"
+        ],
+        "correctAnswer": "sosyal sigorta",
+        "category": "Sosyal Sistem"
+    },
+    "98": {
+        "question": "Bundestag'daki milletvekilleri fraksiyon değiştirirse …",
+        "options": [
+            "artık parlamento oturumlarına katılamazlar.",
+            "hükümet çoğunluğu kaybedebilir.",
+            "Federal Cumhurbaşkanı önce onay vermelidir.",
+            "bu milletvekillerinin seçmenleri yeniden oy kullanmalıdır."
+        ],
+        "correctAnswer": "hükümet çoğunluğu kaybedebilir.",
+        "category": "Anayasal Organlar"
+    },
+    "99": {
+        "question": "Almanya'da sosyal sigorta primlerini kim öder?",
+        "options": [
+            "işverenler ve çalışanlar",
+            "sadece çalışanlar",
+            "tüm vatandaşlar",
+            "sadece işverenler"
+        ],
+        "correctAnswer": "işverenler ve çalışanlar",
+        "category": "Sosyal Sistem"
+    },
+    "100": {
+        "question": "Zorunlu sosyal sigortaya girmeyen nedir?",
+        "options": [
+            "hayat sigortası",
+            "zorunlu emeklilik sigortası",
+            "işsizlik sigortası",
+            "bakım sigortası"
+        ],
+        "correctAnswer": "hayat sigortası",
+        "category": "Sosyal Sistem"
+    },
+    "101": {
+        "question": "Sendikalar … çıkar gruplarıdır",
+        "options": [
+            "gençlerin.",
+            "ücretli çalışanların.",
+            "emeklilerin.",
+            "işverenlerin."
+        ],
+        "correctAnswer": "ücretli çalışanların.",
+        "category": "Temel Haklar"
+    },
+    "102": {
+        "question": "Almanya Federal Cumhuriyeti'nde siyasi, ekonomik, kültürel, entelektüel veya sosyal alanda özel hizmetlerden dolayı ne ile ödüllendirilebilir? … Liyakat Nişanı",
+        "options": [
+            "Federal Liyakat Haçı",
+            "Federal Kartal",
+            "Vatanseverlik Liyakat Nişanı",
+            "\"Alman Demokratik Cumhuriyeti Kahramanı\" onursal unvanı"
+        ],
+        "correctAnswer": "Federal Liyakat Haçı",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "103": {
+        "question": "Almanya'da \"trafik ışığı koalisyonu\" olarak adlandırılan nedir? … işbirliği",
+        "options": [
+            "Bundestag'daki CDU/CSU fraksiyonları",
+            "SPD, FDP ve İttifak 90/Yeşiller'in hükümetteki işbirliği",
+            "CSU, Sol Parti ve İttifak 90/Yeşiller'in hükümetteki işbirliği",
+            "Bundestag'daki CDU ve SPD fraksiyonları"
+        ],
+        "correctAnswer": "SPD, FDP ve İttifak 90/Yeşiller'in hükümetteki işbirliği",
+        "category": "Siyasi Partiler"
+    },
+    "104": {
+        "question": "Almanya'da bir kadın işini kaybeder. İşten çıkarılmasının nedeni olamayacak olan hangisidir?",
+        "options": [
+            "Kadın uzun süre hasta ve çalışamıyor.",
+            "Kadın sık sık işe geç kalıyordu.",
+            "Kadın çalışma saatlerinde kişisel işlerle uğraşıyordu.",
+            "Kadın hamile ve işveren bunu biliyor."
+        ],
+        "correctAnswer": "Kadın hamile ve işveren bunu biliyor.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "105": {
+        "question": "Almanya'da gönüllü seçim yardımcılarının görevlerinden biri nedir?",
+        "options": [
+            "Yaşlı insanlara oy kabininde oy kullanmada yardımcı olurlar.",
+            "Seçimlerden önce seçim yerleri hakkında bildirimler yazarlar.",
+            "Ön sonuçları medyaya iletirler.",
+            "Sandıklar kapandıktan sonra oyları sayarlar."
+        ],
+        "correctAnswer": "Sandıklar kapandıktan sonra oyları sayarlar.",
+        "category": "Yükümlülükler"
+    },
+    "106": {
+        "question": "Almanya'da gönüllü seçim yardımcıları seçim sırasında yardımcı olur. Görevlerinden biri nedir?",
+        "options": [
+            "Çocuklara ve yaşlılara oy kullanmada yardımcı olurlar.",
+            "Seçim yeri belirten kartlar yazarlar.",
+            "Ön sonuçları gazetecilere iletirler.",
+            "Sandıklar kapandıktan sonra oyları sayarlar."
+        ],
+        "correctAnswer": "Sandıklar kapandıktan sonra oyları sayarlar.",
+        "category": "Yükümlülükler"
+    },
+    "107": {
+        "question": "Almanya'da Bundestag kaç yıllığına seçilir?",
+        "options": [
+            "2 yıl",
+            "4 yıl",
+            "6 yıl",
+            "8 yıl"
+        ],
+        "correctAnswer": "4 yıl",
+        "category": "Seçimler ve Katılım"
+    },
+    "108": {
+        "question": "Almanya'da Bundestag seçimlerinde oy kullanabilecek herkes …",
+        "options": [
+            "Almanya Federal Cumhuriyeti'nde ikamet eder ve oy kullanmak ister.",
+            "Almanya Federal Cumhuriyeti vatandaşıdır ve 18 yaşını doldurmuştur.",
+            "Almanya Federal Cumhuriyeti'nde en az 3 yıldır ikamet eder.",
+            "Almanya Federal Cumhuriyeti vatandaşıdır ve 21 yaşını doldurmuştur."
+        ],
+        "correctAnswer": "Almanya Federal Cumhuriyeti vatandaşıdır ve 18 yaşını doldurmuştur.",
+        "category": "Seçimler ve Katılım"
+    },
+    "109": {
+        "question": "Almanya'da Bundestag seçimleri genellikle ne sıklıkta yapılır?",
+        "options": [
+            "her üç yılda bir",
+            "her dört yılda bir",
+            "her beş yılda bir",
+            "her altı yılda bir"
+        ],
+        "correctAnswer": "her dört yılda bir",
+        "category": "Seçimler ve Katılım"
+    },
+    "110": {
+        "question": "Almanya'da Bundestag kaç yıllığına seçilir?",
+        "options": [
+            "2 yıl",
+            "3 yıl",
+            "4 yıl",
+            "5 yıl"
+        ],
+        "correctAnswer": "4 yıl",
+        "category": "Seçimler ve Katılım"
+    },
+    "111": {
+        "question": "Almanya'da İsrail Devleti'ne karşı hangi eylemler yasaktır?",
+        "options": [
+            "İsrail politikasının kamuya açık eleştirisi",
+            "özel mülkiyette İsrail bayrağı asmak",
+            "İsrail politikası hakkında tartışma",
+            "İsrail'in yok edilmesi için kamuya açık çağrılar"
+        ],
+        "correctAnswer": "İsrail'in yok edilmesi için kamuya açık çağrılar",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "112": {
+        "question": "Almanya'daki seçimler …",
+        "options": [
+            "özeldir.",
+            "gizlidir.",
+            "mesleki niteliktedir.",
+            "cinsiyete bağlıdır."
+        ],
+        "correctAnswer": "gizlidir.",
+        "category": "Seçimler ve Katılım"
+    },
+    "113": {
+        "question": "Almanya'da seçimleri kazanan parti …",
+        "options": [
+            "en fazla oyu alandır.",
+            "erkeklerin çoğunluğu tarafından seçilendir.",
+            "işçilerden en fazla oyu alandır.",
+            "şansölye adayına en fazla birinci oyu alandır."
+        ],
+        "correctAnswer": "en fazla oyu alandır.",
+        "category": "Seçimler ve Katılım"
+    },
+    "114": {
+        "question": "Almanya'da demokratik seçimlere katılmak bir …",
+        "options": [
+            "yükümlülüktür.",
+            "haktır.",
+            "taahhüttür.",
+            "yüküdür."
+        ],
+        "correctAnswer": "haktır.",
+        "category": "Seçimler ve Katılım"
+    },
+    "115": {
+        "question": "Almanya'da \"aktif oy hakkı\" ne anlama gelir?",
+        "options": [
+            "Seçilebilirim.",
+            "Oy kullanmalıyım.",
+            "Oy kullanabilirim.",
+            "Oy sayımına katılmalıyım."
+        ],
+        "correctAnswer": "Oy kullanabilirim.",
+        "category": "Seçimler ve Katılım"
+    },
+    "116": {
+        "question": "Almanya'da Bundestag seçimlerinde oy kullanmanıza izin veriliyorsa bu şu anlama gelir: …",
+        "options": [
+            "aktif seçim kampanyası.",
+            "aktif oy kullanma prosedürü.",
+            "aktif seçim kampanyası.",
+            "aktif oy hakkı."
+        ],
+        "correctAnswer": "aktif oy hakkı.",
+        "category": "Seçimler ve Katılım"
+    },
+    "117": {
+        "question": "Partilerin Bundestag'a girebilmesi için ikinci oyların minimum yüzde kaçı alması gerekir?",
+        "options": [
+            "%3",
+            "%4",
+            "%5",
+            "%6"
+        ],
+        "correctAnswer": "%5",
+        "category": "Seçimler ve Katılım"
+    },
+    "118": {
+        "question": "Almanya'daki yaklaşık 40 Yahudi spor kulübü \"Maccabi\"ye kim üye olabilir?",
+        "options": [
+            "sadece Almanlar",
+            "sadece İsrailliler",
+            "sadece dindar kişiler",
+            "herkes"
+        ],
+        "correctAnswer": "herkes",
+        "category": "Kültürlerarası Birlikte Yaşama"
+    },
+    "119": {
+        "question": "Almanya'daki seçimler serbesttir. Bu ne anlama gelir?",
+        "options": [
+            "Tüm hükümlü suçluların oy hakkı yoktur.",
+            "Oy kullanmak istersem işveren bana izin vermek zorundadır.",
+            "Her kişi özgürce, baskı olmadan oy kullanıp kullanmayacağına ve kime oy vereceğine karar verebilir.",
+            "Oy kullanmak istediğim yeri özgürce seçebilirim."
+        ],
+        "correctAnswer": "Her kişi özgürce, baskı olmadan oy kullanıp kullanmayacağına ve kime oy vereceğine karar verebilir.",
+        "category": "Seçimler ve Katılım"
+    },
+    "120": {
+        "question": "Almanya'daki seçim sistemi …",
+        "options": [
+            "nüfus sayımına dayalı oy hakkıdır.",
+            "üç sınıflı oy sistemidir.",
+            "karma orantılı-çoğunluk sistemidir.",
+            "evrensel erkek oy hakkıdır."
+        ],
+        "correctAnswer": "karma orantılı-çoğunluk sistemidir.",
+        "category": "Seçimler ve Katılım"
+    },
+    "121": {
+        "question": "Bir parti Bundestag'a girmek istiyor. Ancak belirli bir minimum oy yüzdesi alması gerekir. Buna … denir",
+        "options": [
+            "%5 barajı.",
+            "kabul sınırı.",
+            "temel değer.",
+            "yönlendirici çizgi."
+        ],
+        "correctAnswer": "%5 barajı.",
+        "category": "Seçimler ve Katılım"
+    },
+    "122": {
+        "question": "Almanya'daki seçimler hangi ilkeye tabidir? Almanya'daki seçimler …",
+        "options": [
+            "serbest, eşit, gizlidir.",
+            "açık, güvenli, serbesttir.",
+            "kapalı, eşit, güvenlidir.",
+            "güvenli, açık, isteğe bağlıdır."
+        ],
+        "correctAnswer": "serbest, eşit, gizlidir.",
+        "category": "Seçimler ve Katılım"
+    },
+    "123": {
+        "question": "Almanya'daki \"%5 barajı\" nedir?",
+        "options": [
+            "küçük partiler için Bundestag'da oy kullanma kuralı",
+            "Bundestag'da oylama sırasında yoklama kontrolü",
+            "parlamentoya girmek için gereken minimum oy yüzdesi",
+            "Bundesrat'ta oylama sırasında yoklama kontrolü"
+        ],
+        "correctAnswer": "parlamentoya girmek için gereken minimum oy yüzdesi",
+        "category": "Seçimler ve Katılım"
+    },
+    "124": {
+        "question": "Almanya'daki Bundestag seçimleri … seçimleridir",
+        "options": [
+            "Federal Şansölye.",
+            "eyalet parlamentoları.",
+            "Almanya parlamentosu.",
+            "Federal Cumhurbaşkanı."
+        ],
+        "correctAnswer": "Almanya parlamentosu.",
+        "category": "Seçimler ve Katılım"
+    },
+    "125": {
+        "question": "Bir demokraside düzenli seçimlerin işlevlerinden biri …",
+        "options": [
+            "vatandaşları oy kullanmaya zorlamaktır.",
+            "çoğunluk seçmenlerin iradesine göre hükümetin değişme imkânı sağlamaktır.",
+            "ülkedeki mevcut yasaları korumaktır.",
+            "yoksullara daha fazla güç vermektir."
+        ],
+        "correctAnswer": "çoğunluk seçmenlerin iradesine göre hükümetin değişme imkânı sağlamaktır.",
+        "category": "Seçimler ve Katılım"
+    },
+    "126": {
+        "question": "Almanya'da oy kullanma hakkına sahip kişiler seçimlerden önce ne alır?",
+        "options": [
+            "belediyeden seçim bildirimi",
+            "Federal Cumhurbaşkanı'ndan oy kullanma izni",
+            "Federal Meclis'ten bildirim",
+            "kilise ofisinden bildirim"
+        ],
+        "correctAnswer": "belediyeden seçim bildirimi",
+        "category": "Seçimler ve Katılım"
+    },
+    "127": {
+        "question": "Almanya Federal Cumhuriyeti'nde seçim yasasında neden %5 barajı vardır? Çünkü …",
+        "options": [
+            "birçok küçük partinin programları çok benzerdir.",
+            "çok sayıda küçük parti olduğunda seçmenler yönünü kaybedebilir.",
+            "birçok küçük parti hükümet kurmayı zorlaştırır.",
+            "küçük partilerin politikacılara ödeme yapacak parası yoktur."
+        ],
+        "correctAnswer": "birçok küçük parti hükümet kurmayı zorlaştırır.",
+        "category": "Seçimler ve Katılım"
+    },
+    "128": {
+        "question": "Vatandaşlar tarafından seçilen parlamento üyelerine … denir",
+        "options": [
+            "Milletvekilleri.",
+            "Şansölyeler.",
+            "Büyükelçiler.",
+            "Eyalet Bakanları."
+        ],
+        "correctAnswer": "Milletvekilleri.",
+        "category": "Seçimler ve Katılım"
+    },
+    "129": {
+        "question": "Almanya'da … halk tarafından seçilir.",
+        "options": [
+            "Federal Şansölye.",
+            "Bir eyaletin bakan başkanı.",
+            "Bundestag.",
+            "Federal Cumhurbaşkanı."
+        ],
+        "correctAnswer": "Bundestag.",
+        "category": "Anayasal Organlar"
+    },
+    "130": {
+        "question": "Bundestag seçimlerinde hangi oy pusulası geçerli olurdu? (Federal Seçim Yönetmeliği, Ek 26'ya göre)",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "category": "Seçimler ve Katılım"
+    },
+    "131": {
+        "question": "Almanya'da belediye başkanı …",
+        "options": [
+            "okul müdürdür.",
+            "banka müdürdür.",
+            "belediye başkanlığıdır.",
+            "parti başkanıdır."
+        ],
+        "correctAnswer": "belediye başkanlığıdır.",
+        "category": "Belediye"
+    },
+    "132": {
+        "question": "Almanya'da birçok kişi boş zamanlarında gönüllü çalışır. Bu ne anlama gelir?",
+        "options": [
+            "Asker olarak çalışırlar.",
+            "Kulüp ve derneklerde ücretsiz ve gönüllü çalışırlar.",
+            "Federal hükümette çalışırlar.",
+            "Hastanede çalışırlar ve para alırlar."
+        ],
+        "correctAnswer": "Kulüp ve derneklerde ücretsiz ve gönüllü çalışırlar.",
+        "category": "Seçimler ve Katılım"
+    },
+    "133": {
+        "question": "Almanya'da Bundestag ve eyalet parlamentosu seçimlerinde neye izin verilir?",
+        "options": [
+            "Koca karısının yerine oy kullanabilir.",
+            "Posta yoluyla oy kullanılabilir.",
+            "Seçim günü telefonla oy kullanılabilir.",
+            "14 yaşından itibaren çocuklar oy kullanabilir."
+        ],
+        "correctAnswer": "Posta yoluyla oy kullanılabilir.",
+        "category": "Seçimler ve Katılım"
+    },
+    "134": {
+        "question": "İşyerinize giden otobüs hattını kaldırmak istiyorlar. Hattı korumak için ne yapabilirsiniz?",
+        "options": [
+            "Otobüs hattını koruma amacıyla bir vatandaş inisiyatifine katılabilir veya kendiniz başlatabilirsiniz.",
+            "Bir spor kulübüne üye olup bisikletle antrenman yapabilirsiniz.",
+            "Vergi dairesine başvurabilirsiniz, çünkü vergi mükellefi olarak otobüs hattına hakkınız vardır.",
+            "Belediye orman idaresine bir mektup yazabilirsiniz."
+        ],
+        "correctAnswer": "Otobüs hattını koruma amacıyla bir vatandaş inisiyatifine katılabilir veya kendiniz başlatabilirsiniz.",
+        "category": "Seçimler ve Katılım"
+    },
+    "135": {
+        "question": "Almanya'da sendikalar kimi temsil eder?",
+        "options": [
+            "büyük şirketleri",
+            "küçük şirketleri",
+            "serbest çalışanları",
+            "çalışanları"
+        ],
+        "correctAnswer": "çalışanları",
+        "category": "Temel Haklar"
+    },
+    "136": {
+        "question": "Almanya'da iş mahkemesine ne durumda başvurulur?",
+        "options": [
+            "kamu hizmetleri faturasının yanlış olması durumunda.",
+            "işverenin haksız feshi durumunda.",
+            "komşularla sorunlar durumunda.",
+            "trafik kazası sonrası zorluklar durumunda."
+        ],
+        "correctAnswer": "işverenin haksız feshi durumunda.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "137": {
+        "question": "Almanya'da işyerindeki anlaşmazlıklardan hangi mahkeme sorumludur?",
+        "options": [
+            "aile mahkemesi",
+            "ceza mahkemesi",
+            "iş mahkemesi",
+            "yerel mahkeme"
+        ],
+        "correctAnswer": "iş mahkemesi",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "138": {
+        "question": "Almanya'da işverenim beni haksız yere işten çıkarırsa ne yapabilirim?",
+        "options": [
+            "çalışmaya devam edip patrona nazik davranmalıyım",
+            "işverene karşı ödeme emri prosedürü başlatmalıyım",
+            "haksız fesih davası açmalıyım",
+            "işvereni polise şikâyet etmeliyim"
+        ],
+        "correctAnswer": "haksız fesih davası açmalıyım",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "139": {
+        "question": "Almanya'da ne zaman mahkeme duruşması yapılır? Birisi …",
+        "options": [
+            "başka bir dine geçtiğinde.",
+            "suç işleyip suçlandığında.",
+            "hükümetten farklı bir görüşe sahip olduğunda.",
+            "arabayı yanlış park edip çekildiğinde."
+        ],
+        "correctAnswer": "suç işleyip suçlandığında.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "140": {
+        "question": "Almanya'da bir halk jürisi (Schöffe) ne yapar? O/O …",
+        "options": [
+            "profesyonel hâkimlerle birlikte suçluluk ve ceza konusunda karar verir.",
+            "vatandaşlara hukuki danışmanlık verir.",
+            "resmi belgeler düzenler.",
+            "sanığı savunur."
+        ],
+        "correctAnswer": "profesyonel hâkimlerle birlikte suçluluk ve ceza konusunda karar verir.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "141": {
+        "question": "Almanya'da insanlara hukuki konularda danışmanlık veren ve mahkemede onları temsil eden kimdir?",
+        "options": [
+            "avukat",
+            "hâkim",
+            "halk jürisi",
+            "savcı"
+        ],
+        "correctAnswer": "avukat",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "142": {
+        "question": "Almanya'da bir hâkimin temel görevi nedir? Bir hâkim …",
+        "options": [
+            "vatandaşları mahkemede temsil eder.",
+            "mahkemede çalışır ve kararlar verir.",
+            "yasaları değiştirir.",
+            "mahkemede gençleri destekler."
+        ],
+        "correctAnswer": "mahkemede çalışır ve kararlar verir.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "143": {
+        "question": "Almanya'da bir hâkim … aittir",
+        "options": [
+            "yargı gücüne.",
+            "yürütme gücüne.",
+            "operasyonel güce.",
+            "yasama gücüne."
+        ],
+        "correctAnswer": "yargı gücüne.",
+        "category": "Anayasal İlkeler"
+    },
+    "144": {
+        "question": "Almanya'da bir hâkim … aittir",
+        "options": [
+            "yürütme gücüne.",
+            "yargı gücüne.",
+            "planlama gücüne.",
+            "yasama gücüne."
+        ],
+        "correctAnswer": "yargı gücüne.",
+        "category": "Anayasal İlkeler"
+    },
+    "145": {
+        "question": "Almanya'da devlet gücü bölünmüştür. Bir hâkim hangi güç dalında çalışır? … dalında",
+        "options": [
+            "yargı",
+            "yürütme",
+            "basın",
+            "yasama"
+        ],
+        "correctAnswer": "yargı",
+        "category": "Anayasal İlkeler"
+    },
+    "146": {
+        "question": "Almanya'da bir yargı sürecine ne denir?",
+        "options": [
+            "program",
+            "prosedür",
+            "protokol",
+            "dava"
+        ],
+        "correctAnswer": "dava",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "147": {
+        "question": "Almanya'da bir hâkimin işi nedir?",
+        "options": [
+            "Almanya'yı yönetmek",
+            "adaleti sağlamak",
+            "planlar yapmak",
+            "yasaları kabul etmek"
+        ],
+        "correctAnswer": "adaleti sağlamak",
+        "category": "Anayasal İlkeler"
+    },
+    "148": {
+        "question": "Almanya'da polisin görevi nedir?",
+        "options": [
+            "ülkeyi korumak",
+            "vatandaşları gözetlemek",
+            "yasaları kabul etmek",
+            "yasaların uygulanmasını kontrol etmek"
+        ],
+        "correctAnswer": "yasaların uygulanmasını kontrol etmek",
+        "category": "Anayasal İlkeler"
+    },
+    "149": {
+        "question": "Antisemitik davranışa örnek nedir?",
+        "options": [
+            "Yahudi festivaline katılmak",
+            "İsrail hükümetini eleştirmek",
+            "Holokost'u inkâr etmek",
+            "Yahudilere karşı futbol oynamak"
+        ],
+        "correctAnswer": "Holokost'u inkâr etmek",
+        "category": "Kültürlerarası Birlikte Yaşama"
+    },
+    "150": {
+        "question": "Almanya'da bir halk jürisi (Schöffe) …",
+        "options": [
+            "belediye başkanının yardımcısıdır.",
+            "onursal bir hâkimdir.",
+            "belediye meclisi üyesidir.",
+            "hukuk eğitimi almış bir kişidir."
+        ],
+        "correctAnswer": "onursal bir hâkimdir.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "151": {
+        "question": "Berlin Duvarı'nı kim inşa etti?",
+        "options": [
+            "Birleşik Krallık",
+            "Doğu Almanya (DDR)",
+            "Almanya Federal Cumhuriyeti",
+            "ABD"
+        ],
+        "correctAnswer": "Doğu Almanya (DDR)",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "152": {
+        "question": "Adolf Hitler önderliğindeki nasyonal sosyalistler Almanya'da ne zaman iktidardaydı?",
+        "options": [
+            "1918-1923 yılları",
+            "1932-1950 yılları",
+            "1933-1945 yılları",
+            "1945-1989 yılları"
+        ],
+        "correctAnswer": "1933-1945 yılları",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "153": {
+        "question": "8 Mayıs 1945'te ne oldu?",
+        "options": [
+            "Adolf Hitler'in ölümü",
+            "Berlin Duvarı'nın inşaatının başlangıcı",
+            "Konrad Adenauer'in Federal Şansölye seçilmesi",
+            "Avrupa'da İkinci Dünya Savaşı'nın sona ermesi"
+        ],
+        "correctAnswer": "Avrupa'da İkinci Dünya Savaşı'nın sona ermesi",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "154": {
+        "question": "İkinci Dünya Savaşı ne zaman sona erdi?",
+        "options": [
+            "1933",
+            "1945",
+            "1949",
+            "1961"
+        ],
+        "correctAnswer": "1945",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "155": {
+        "question": "Nasyonal sosyalistler Almanya'da ne zaman iktidardaydı?",
+        "options": [
+            "1888-1918 yılları",
+            "1921-1934 yılları",
+            "1933-1945 yılları",
+            "1949-1963 yılları"
+        ],
+        "correctAnswer": "1933-1945 yılları",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "156": {
+        "question": "Hitler hangi yılda Reich Şansölyesi oldu?",
+        "options": [
+            "1923",
+            "1927",
+            "1933",
+            "1936"
+        ],
+        "correctAnswer": "1933",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "157": {
+        "question": "1933'te Adolf Hitler önderliğindeki nasyonal sosyalistler Almanya'da … kurdu",
+        "options": [
+            "diktatörlük.",
+            "demokratik devlet.",
+            "monarşi.",
+            "prenslik."
+        ],
+        "correctAnswer": "diktatörlük.",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "158": {
+        "question": "\"Üçüncü Reich\" … idi",
+        "options": [
+            "diktatörlüktü.",
+            "demokrasiydi.",
+            "monarşiydi.",
+            "Sovyet cumhuriyetiydi."
+        ],
+        "correctAnswer": "diktatörlüktü.",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "159": {
+        "question": "Nasyonal sosyalizm döneminde Almanya'da ne yoktu?",
+        "options": [
+            "serbest seçimler",
+            "basın sansürü",
+            "keyfi tutuklamalar",
+            "Yahudilere yönelik zulüm"
+        ],
+        "correctAnswer": "serbest seçimler",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "160": {
+        "question": "1939'dan 1945'e kadar süren savaş hangisidir?",
+        "options": [
+            "Birinci Dünya Savaşı",
+            "İkinci Dünya Savaşı",
+            "Vietnam Savaşı",
+            "Körfez Savaşı"
+        ],
+        "correctAnswer": "İkinci Dünya Savaşı",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "161": {
+        "question": "Nasyonal sosyalist devleti ne karakterize ediyordu? … politikası",
+        "options": [
+            "devlet ırkçılığı",
+            "ifade özgürlüğü",
+            "genel din özgürlüğü",
+            "demokrasinin geliştirilmesi"
+        ],
+        "correctAnswer": "devlet ırkçılığı",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "162": {
+        "question": "Klaus Schenk Graf von Stauffenberg ne ile ünlendi?",
+        "options": [
+            "1936 Olimpiyatları'nda altın madalya kazanmasıyla.",
+            "Reichstag binasının inşasıyla.",
+            "Wehrmacht'ın kurulmasıyla.",
+            "20 Temmuz 1944'te Hitler'e suikast girişimiyle."
+        ],
+        "correctAnswer": "20 Temmuz 1944'te Hitler'e suikast girişimiyle.",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "163": {
+        "question": "Nasyonal sosyalistler Almanya'da sinagogları ve Yahudi dükkânlarını hangi yılda yok etti?",
+        "options": [
+            "1925",
+            "1930",
+            "1938",
+            "1945"
+        ],
+        "correctAnswer": "1938",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "164": {
+        "question": "9 Kasım 1938'de Almanya'da ne oldu?",
+        "options": [
+            "Polonya'ya saldırı ile İkinci Dünya Savaşı başladı.",
+            "Nasyonal sosyalistler seçimleri kaybetti ve Reichstag'ı feshetti.",
+            "Yahudi dükkânları ve sinagoglar nasyonal sosyalistler ve destekçileri tarafından yıkıldı.",
+            "Hitler Cumhurbaşkanı oldu ve tüm partileri yasakladı."
+        ],
+        "correctAnswer": "Yahudi dükkânları ve sinagoglar nasyonal sosyalistler ve destekçileri tarafından yıkıldı.",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "165": {
+        "question": "Almanya Federal Cumhuriyeti'nin ilk Federal Şansölyesi kimdi?",
+        "options": [
+            "Konrad Adenauer",
+            "Kurt Georg Kiesinger",
+            "Helmut Schmidt",
+            "Willy Brandt"
+        ],
+        "correctAnswer": "Konrad Adenauer",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "166": {
+        "question": "Almanya'da insanlar \"Biz halkız\" diye hangi gösterilerde bağırdı?",
+        "options": [
+            "1953 Doğu Almanya işçi ayaklanması sırasında",
+            "1968 Batı Almanya gösterileri sırasında",
+            "1985 Batı Almanya nükleer karşıtı gösterileri sırasında",
+            "1989 Doğu Almanya pazartesi gösterileri sırasında"
+        ],
+        "correctAnswer": "1989 Doğu Almanya pazartesi gösterileri sırasında",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "167": {
+        "question": "İkinci Dünya Savaşı'ndan sonra Almanya'daki \"müttefik işgal güçleri\" olarak adlandırılan ülkeler hangileridir?",
+        "options": [
+            "Sovyetler Birliği, Birleşik Krallık, Polonya, İsveç",
+            "Fransa, Sovyetler Birliği, İtalya, Japonya",
+            "ABD, Sovyetler Birliği, İspanya, Portekiz",
+            "ABD, Sovyetler Birliği, Birleşik Krallık, Fransa"
+        ],
+        "correctAnswer": "ABD, Sovyetler Birliği, Birleşik Krallık, Fransa",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "168": {
+        "question": "Almanya'da \"müttefik işgal gücü\" olmayan ülke hangisidir?",
+        "options": [
+            "ABD",
+            "Sovyetler Birliği",
+            "Fransa",
+            "Japonya"
+        ],
+        "correctAnswer": "Japonya",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "169": {
+        "question": "Almanya Federal Cumhuriyeti ne zaman kuruldu?",
+        "options": [
+            "1939",
+            "1945",
+            "1949",
+            "1951"
+        ],
+        "correctAnswer": "1949",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "170": {
+        "question": "Nasyonal sosyalizm döneminde Almanya'da ne vardı?",
+        "options": [
+            "siyasi partilerin yasaklanması",
+            "kişiliğin serbest gelişimi hakkı",
+            "basın özgürlüğü",
+            "insan onurunun korunması"
+        ],
+        "correctAnswer": "siyasi partilerin yasaklanması",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "171": {
+        "question": "Sosyal piyasa ekonomisi şu anlama gelir ki ekonomi …",
+        "options": [
+            "sadece arz ve taleple düzenlenir.",
+            "devlet tarafından planlanır ve kontrol edilir, arz ve talep dikkate alınmaz.",
+            "yurtdışı talebine yöneliktir.",
+            "arz ve talebe dayanır ancak devlet sosyal dengeyi sağlar."
+        ],
+        "correctAnswer": "arz ve talebe dayanır ancak devlet sosyal dengeyi sağlar.",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "172": {
+        "question": "Doğu Almanya (DDR) hangi işgal bölgesinde kuruldu? … bölgesinde",
+        "options": [
+            "Amerikan işgal bölgesi",
+            "Fransız işgal bölgesi",
+            "İngiliz işgal bölgesi",
+            "Sovyet işgal bölgesi"
+        ],
+        "correctAnswer": "Sovyet işgal bölgesi",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "173": {
+        "question": "Almanya Federal Cumhuriyeti … nin kurucu üyesidir",
+        "options": [
+            "Kuzey Atlantik Antlaşması Örgütü (NATO).",
+            "Birleşmiş Milletler (BM).",
+            "Avrupa Birliği (AB).",
+            "Varşova Paktı."
+        ],
+        "correctAnswer": "Avrupa Birliği (AB).",
+        "category": "Avrupa'da Almanya"
+    },
+    "174": {
+        "question": "Doğu Almanya (DDR) ne zaman kuruldu?",
+        "options": [
+            "1947",
+            "1949",
+            "1953",
+            "1956"
+        ],
+        "correctAnswer": "1949",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "175": {
+        "question": "İkinci Dünya Savaşı'ndan sonra Almanya'da kaç işgal bölgesi vardı?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "4",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "176": {
+        "question": "1945 sonrası Almanya işgal bölgeleri nasıl dağıtıldı?",
+        "options": [
+            "1=Birleşik Krallık, 2=Sovyetler Birliği, 3=Fransa, 4=ABD",
+            "1=Sovyetler Birliği, 2=Birleşik Krallık, 3=ABD, 4=Fransa",
+            "1=Birleşik Krallık, 2=Sovyetler Birliği, 3=ABD, 4=Fransa",
+            "1=Birleşik Krallık, 2=ABD, 3=Sovyetler Birliği, 4=Fransa"
+        ],
+        "correctAnswer": "1=Sovyetler Birliği, 2=Birleşik Krallık, 3=ABD, 4=Fransa",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "177": {
+        "question": "İkinci Dünya Savaşı'ndan sonra dört sektöre ayrılan Alman şehri hangisidir?",
+        "options": [
+            "Münih",
+            "Berlin",
+            "Dresden",
+            "Frankfurt an der Oder"
+        ],
+        "correctAnswer": "Berlin",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "178": {
+        "question": "1948 Haziran'ından 1949 Mayıs'ına kadar Batı Berlin sakinleri hava köprüsüyle beslendi. Nedeni neydi?",
+        "options": [
+            "Fransa için Batı Berlin'in hava yoluyla beslenmesi daha ucuzdu.",
+            "Amerikan askerleri karayolu taşımacılığı sırasında saldırılardan korkuyordu.",
+            "Birleşik Krallık için hava yoluyla besleme daha hızlıydı.",
+            "Sovyetler Birliği tüm karayollarını bloke etmişti."
+        ],
+        "correctAnswer": "Sovyetler Birliği tüm karayollarını bloke etmişti.",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "179": {
+        "question": "İkinci Dünya Savaşı Avrupa'da resmen nasıl sona erdi?",
+        "options": [
+            "Adolf Hitler'in ölümüyle",
+            "Almanya'nın kayıtsız şartsız teslim olmasıyla",
+            "Alman birliklerinin işgal altındaki topraklardan çekilmesiyle",
+            "Almanya'da devrimle"
+        ],
+        "correctAnswer": "Almanya'nın kayıtsız şartsız teslim olmasıyla",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "180": {
+        "question": "Almanya Federal Cumhuriyeti'nin ilk Federal Şansölyesi … idi",
+        "options": [
+            "Ludwig Erhard.",
+            "Willy Brandt.",
+            "Konrad Adenauer.",
+            "Gerhard Schröder."
+        ],
+        "correctAnswer": "Konrad Adenauer.",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "181": {
+        "question": "Willy Brandt 1970 yılında Varşova'daki eski Yahudi gettosu önünde diz çökerek neyi ifade etmek istedi?",
+        "options": [
+            "Eski müttefiklere boyun eğdi.",
+            "Polonya'dan ve Polonyalı Yahudilerden özür diledi.",
+            "Varşova Paktı önünde alçakgönüllülük gösterdi.",
+            "Bilinmeyen Asker Anıtı'nda dua etti."
+        ],
+        "correctAnswer": "Polonya'dan ve Polonyalı Yahudilerden özür diledi.",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "182": {
+        "question": "Yahudi ibadethanesine ne denir?",
+        "options": [
+            "Bazilika",
+            "Cami",
+            "Sinagog",
+            "Kilise"
+        ],
+        "correctAnswer": "Sinagog",
+        "category": "Dini Çeşitlilik"
+    },
+    "183": {
+        "question": "Almanya Federal Cumhuriyeti'nde \"ekonomik mucize\" hangi dönemde yaşandı?",
+        "options": [
+            "1940'lar",
+            "1950'ler",
+            "1970'ler",
+            "1980'ler"
+        ],
+        "correctAnswer": "1950'ler",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "184": {
+        "question": "İsrail Devleti hangi hukuki temelde kuruldu?",
+        "options": [
+            "Birleşmiş Milletler kararları",
+            "Siyonist Kongre kararları",
+            "Federal Hükümet önerileri",
+            "SSCB önerileri"
+        ],
+        "correctAnswer": "Birleşmiş Milletler kararları",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "185": {
+        "question": "\"Demir Perde\" terimi ne anlama geliyordu? … bölünmesi",
+        "options": [
+            "Varşova Paktı'nın Batı'dan",
+            "Kuzey Almanya'nın Güney Almanya'dan",
+            "Nazi Almanya'sının müttefiklerden",
+            "Avrupa'nın ABD'den"
+        ],
+        "correctAnswer": "Varşova Paktı'nın Batı'dan",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "186": {
+        "question": "1953'te Doğu Almanya'da (DDR) bir ayaklanma oldu ve bu uzun süre Federal Almanya'da ulusal bayram olarak kutlandı. Ne zaman oldu?",
+        "options": [
+            "1 Mayıs",
+            "17 Haziran",
+            "20 Temmuz",
+            "9 Kasım"
+        ],
+        "correctAnswer": "17 Haziran",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "187": {
+        "question": "Hangi Alman devletinin bayrağı çekiş, pergel ve başak çelengi olan siyah-kırmızı-altın renkliydi?",
+        "options": [
+            "Prusya",
+            "Almanya Federal Cumhuriyeti",
+            "\"Üçüncü Reich\"",
+            "DDR"
+        ],
+        "correctAnswer": "DDR",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "188": {
+        "question": "Berlin Duvarı hangi yılda inşa edildi?",
+        "options": [
+            "1953",
+            "1956",
+            "1959",
+            "1961"
+        ],
+        "correctAnswer": "1961",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "189": {
+        "question": "Doğu Almanya (DDR) Berlin Duvarı'nı ne zaman inşa etti?",
+        "options": [
+            "1919",
+            "1933",
+            "1961",
+            "1990"
+        ],
+        "correctAnswer": "1961",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "190": {
+        "question": "DDR kısaltması ne anlama gelir?",
+        "options": [
+            "Üçüncü Alman Radyo Yayını",
+            "Alman Cumhuriyeti",
+            "Üçüncü Alman Cumhuriyeti",
+            "Alman Demokratik Cumhuriyeti"
+        ],
+        "correctAnswer": "Alman Demokratik Cumhuriyeti",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "191": {
+        "question": "Berlin Duvarı herkes için ne zaman açıldı?",
+        "options": [
+            "1987",
+            "1989",
+            "1992",
+            "1995"
+        ],
+        "correctAnswer": "1989",
+        "category": "Birleşme"
+    },
+    "192": {
+        "question": "Almanya'nın şu anki hangi federal eyaleti eskiden DDR topraklarına aitti?",
+        "options": [
+            "Brandenburg",
+            "Bavyera",
+            "Saar",
+            "Hessen"
+        ],
+        "correctAnswer": "Brandenburg",
+        "category": "Birleşme"
+    },
+    "193": {
+        "question": "1961-1989 yılları arasında Berlin …",
+        "options": [
+            "belediye başkanı olmadan.",
+            "bağımsız bir devlet olarak.",
+            "duvarla bölünmüş halde.",
+            "sadece uçakla ulaşılabilirdi."
+        ],
+        "correctAnswer": "duvarla bölünmüş halde.",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "194": {
+        "question": "3 Ekim Almanya'da … Günü olarak kutlanır",
+        "options": [
+            "Alman Birliği.",
+            "Halk.",
+            "Federal Eyaletler.",
+            "Şehirler."
+        ],
+        "correctAnswer": "Alman Birliği.",
+        "category": "Birleşme"
+    },
+    "195": {
+        "question": "Almanya'nın şu anki hangi federal eyaleti eskiden DDR topraklarına aitti?",
+        "options": [
+            "Hessen",
+            "Saksonya-Anhalt",
+            "Kuzey Ren-Vestfalya",
+            "Saar"
+        ],
+        "correctAnswer": "Saksonya-Anhalt",
+        "category": "Birleşme"
+    },
+    "196": {
+        "question": "Doğu Almanya'da (DDR) 1989 sonbahar dönemi neden \"Dönüş\" (Die Wende) olarak adlandırılır? O dönemde DDR siyasi olarak … değişti",
+        "options": [
+            "diktatörlükten demokrasiye.",
+            "liberal piyasa ekonomisinden sosyalizme.",
+            "monarşiden sosyal demokrasiye.",
+            "dini devletten komünist devlete."
+        ],
+        "correctAnswer": "diktatörlükten demokrasiye.",
+        "category": "Birleşme"
+    },
+    "197": {
+        "question": "Almanya'nın şu anki hangi federal eyaleti eskiden DDR topraklarına aitti?",
+        "options": [
+            "Turingia",
+            "Hessen",
+            "Bavyera",
+            "Bremen"
+        ],
+        "correctAnswer": "Turingia",
+        "category": "Birleşme"
+    },
+    "198": {
+        "question": "Almanya'nın şu anki hangi federal eyaleti eskiden DDR topraklarına aitti?",
+        "options": [
+            "Bavyera",
+            "Aşağı Saksonya",
+            "Saksonya",
+            "Baden-Württemberg"
+        ],
+        "correctAnswer": "Saksonya",
+        "category": "Birleşme"
+    },
+    "199": {
+        "question": "DDR'de \"Stasi\" kısaltması … anlamına geliyordu",
+        "options": [
+            "parlamento.",
+            "Devlet Güvenliği Bakanlığı.",
+            "iktidar partisi.",
+            "Eğitim Bakanlığı."
+        ],
+        "correctAnswer": "Devlet Güvenliği Bakanlığı.",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "200": {
+        "question": "Almanya'nın şu anki hangi federal eyaleti eskiden DDR topraklarına aitti?",
+        "options": [
+            "Hessen",
+            "Schleswig-Holstein",
+            "Mecklenburg-Vorpommern",
+            "Saar"
+        ],
+        "correctAnswer": "Mecklenburg-Vorpommern",
+        "category": "Birleşme"
+    },
+    "201": {
+        "question": "Aşağıdaki listelerden hangisi sadece eski DDR'ye ait eyaletleri içerir?",
+        "options": [
+            "Aşağı Saksonya, Kuzey Ren-Vestfalya, Hessen, Schleswig-Holstein, Brandenburg",
+            "Mecklenburg-Vorpommern, Brandenburg, Saksonya, Saksonya-Anhalt, Turingia",
+            "Bavyera, Baden-Württemberg, Renanya-Pfalz, Turingia, Saksonya",
+            "Saksonya, Turingia, Hessen, Aşağı Saksonya, Brandenburg"
+        ],
+        "correctAnswer": "Mecklenburg-Vorpommern, Brandenburg, Saksonya, Saksonya-Anhalt, Turingia",
+        "category": "Birleşme"
+    },
+    "202": {
+        "question": "Soğuk Savaş sırasında DDR hangi tarafa aitti?",
+        "options": [
+            "batı güçlerine",
+            "Varşova Paktı'na",
+            "NATO'ya",
+            "Bağlantısızlar Hareketi'ne"
+        ],
+        "correctAnswer": "Varşova Paktı'na",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "203": {
+        "question": "DDR'nin ekonomik sistemi ne olarak adlandırılırdı?",
+        "options": [
+            "piyasa ekonomisi",
+            "planlı ekonomi",
+            "arz ve talep",
+            "kapitalizm"
+        ],
+        "correctAnswer": "planlı ekonomi",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "204": {
+        "question": "Almanya Federal Cumhuriyeti ve DDR nasıl tek bir devlet oldu?",
+        "options": [
+            "Federal Cumhuriyet DDR'yi işgal etti.",
+            "Bugünkü beş doğu eyaleti Almanya Federal Cumhuriyeti'ne katıldı.",
+            "Batı eyaletleri DDR'ye katıldı.",
+            "DDR Federal Cumhuriyeti'ni işgal etti."
+        ],
+        "correctAnswer": "Bugünkü beş doğu eyaleti Almanya Federal Cumhuriyeti'ne katıldı.",
+        "category": "Birleşme"
+    },
+    "205": {
+        "question": "DDR'nin Almanya Federal Cumhuriyeti'ne katılmasıyla yeni eyaletler de … parçası oldu",
+        "options": [
+            "Avrupa Birliği'nin.",
+            "Varşova Paktı'nın.",
+            "OPEC'in.",
+            "Avrupa Savunma Topluluğu'nun."
+        ],
+        "correctAnswer": "Avrupa Birliği'nin.",
+        "category": "Birleşme"
+    },
+    "206": {
+        "question": "Almanya'daki sözde \"tökezleme taşları\" (Stolpersteine) neyi anımsatır?",
+        "options": [
+            "ünlü Alman politikacıları",
+            "nasyonal sosyalizmin kurbanlarını",
+            "trafik kazası kurbanlarını",
+            "ünlü Yahudi müzisyenleri"
+        ],
+        "correctAnswer": "nasyonal sosyalizmin kurbanlarını",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "207": {
+        "question": "DDR hangi askeri ittifaka üyeydi?",
+        "options": [
+            "NATO",
+            "Ren Birliği",
+            "Varşova Paktı",
+            "Avrupa Birliği"
+        ],
+        "correctAnswer": "Varşova Paktı",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "208": {
+        "question": "\"Stasi\" neydi?",
+        "options": [
+            "\"Üçüncü Reich\"teki gizli servis",
+            "bilinen bir Alman anıtı",
+            "DDR gizli servisi",
+            "İkinci Dünya Savaşı sırasında Alman spor kulübü"
+        ],
+        "correctAnswer": "DDR gizli servisi",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "209": {
+        "question": "Alman Demokratik Cumhuriyeti'nin arması hangisiydi?",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 4",
+        "state": "Alman Demokratik Cumhuriyeti",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "210": {
+        "question": "17 Haziran 1953'te Doğu Almanya'da (DDR) ne oldu?",
+        "options": [
+            "Varşova Paktı'na resmi katılım",
+            "ulus çapında grevler ve halk ayaklanması",
+            "SED partisinin ilk kongresi",
+            "Fidel Castro'nun ilk ziyareti"
+        ],
+        "correctAnswer": "ulus çapında grevler ve halk ayaklanması",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "211": {
+        "question": "\"Doğu Antlaşmaları\" (Ostverträge) hangi politikacıyla ilişkilendirilir?",
+        "options": [
+            "Helmut Kohl",
+            "Willy Brandt",
+            "Mikhail Gorbachev",
+            "Ludwig Erhard"
+        ],
+        "correctAnswer": "Willy Brandt",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "212": {
+        "question": "Almanya'nın tam resmi adı nedir?",
+        "options": [
+            "Almanya Federal Devleti",
+            "Almanya Federal Devletleri",
+            "Almanya Federal Cumhuriyeti",
+            "Almanya Federal Bölgesi"
+        ],
+        "correctAnswer": "Almanya Federal Cumhuriyeti",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "213": {
+        "question": "Almanya'da kaç kişi yaşıyor?",
+        "options": [
+            "70 milyon",
+            "78 milyon",
+            "84 milyon",
+            "90 milyon"
+        ],
+        "correctAnswer": "84 milyon",
+        "category": "Avrupa'da Almanya"
+    },
+    "214": {
+        "question": "Almanya bayrağının renkleri nedir?",
+        "options": [
+            "siyah-kırmızı-sarı",
+            "kırmızı-beyaz-siyah",
+            "siyah-kırmızı-yeşil",
+            "siyah-sarı-kırmızı"
+        ],
+        "correctAnswer": "siyah-kırmızı-sarı",
+        "category": "Devlet Sembolleri"
+    },
+    "215": {
+        "question": "\"Alman birliğinin Şansölyesi\" olarak kim anılır?",
+        "options": [
+            "Gerhard Schröder",
+            "Helmut Kohl",
+            "Konrad Adenauer",
+            "Helmut Schmidt"
+        ],
+        "correctAnswer": "Helmut Kohl",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "216": {
+        "question": "Bundestag'ın oturum salonunda hangi sembol görülebilir?",
+        "options": [
+            "Federal Kartal",
+            "Berlin şehri bayrağı",
+            "İmparatorluk Kartalı",
+            "İmparatorluk Tacı"
+        ],
+        "correctAnswer": "Federal Kartal",
+        "category": "Devlet Sembolleri"
+    },
+    "217": {
+        "question": "Alman Demokratik Cumhuriyeti (DDR) hangi dönemde var oldu?",
+        "options": [
+            "1919-1927 yılları",
+            "1933-1945 yılları",
+            "1945-1961 yılları",
+            "1949-1990 yılları"
+        ],
+        "correctAnswer": "1949-1990 yılları",
+        "category": "1945 Sonrası Önemli Dönüm Noktaları"
+    },
+    "218": {
+        "question": "1990'daki birleşme sırasında Almanya Federal Cumhuriyeti'ne kaç eyalet eklendi?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correctAnswer": "5",
+        "category": "Birleşme"
+    },
+    "219": {
+        "question": "Almanya Federal Cumhuriyeti bugünkü sınırlarına … yılından beri sahiptir",
+        "options": [
+            "1933",
+            "1949",
+            "1971",
+            "1990"
+        ],
+        "correctAnswer": "1990",
+        "category": "Birleşme"
+    },
+    "220": {
+        "question": "27 Ocak Almanya'da resmi anma günüdür. Bu gün neyi anımsatır?",
+        "options": [
+            "İkinci Dünya Savaşı'nın sona ermesini",
+            "Temel Yasa'nın kabulünü",
+            "Almanya'nın birleşmesini",
+            "nasyonal sosyalizmin kurbanlarını (Auschwitz toplama kampının kurtuluşu)"
+        ],
+        "correctAnswer": "nasyonal sosyalizmin kurbanlarını (Auschwitz toplama kampının kurtuluşu)",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "221": {
+        "question": "Almanya Schengen Anlaşması'na katılımcıdır. Bu ne anlama gelir?",
+        "options": [
+            "Almanlar birçok Avrupa ülkesine pasaport kontrolü olmadan seyahat edebilir.",
+            "Herkes Almanya'ya kimlik kontrolü olmadan girebilir.",
+            "Almanlar herhangi bir ülkeye pasaport kontrolü olmadan seyahat edebilir.",
+            "Almanlar herhangi bir ülkede euro ile ödeme yapabilir."
+        ],
+        "correctAnswer": "Almanlar birçok Avrupa ülkesine pasaport kontrolü olmadan seyahat edebilir.",
+        "category": "Avrupa'da Almanya"
+    },
+    "222": {
+        "question": "Almanya'nın komşu ülkelerinden biri hangisidir?",
+        "options": [
+            "Macaristan",
+            "Portekiz",
+            "İspanya",
+            "İsviçre"
+        ],
+        "correctAnswer": "İsviçre",
+        "category": "Avrupa'da Almanya"
+    },
+    "223": {
+        "question": "Almanya'nın komşu ülkelerinden biri hangisidir?",
+        "options": [
+            "Romanya",
+            "Bulgaristan",
+            "Polonya",
+            "Yunanistan"
+        ],
+        "correctAnswer": "Polonya",
+        "category": "Avrupa'da Almanya"
+    },
+    "224": {
+        "question": "AB kısaltması ne anlama gelir?",
+        "options": [
+            "Avrupa İşletmeleri",
+            "Avrupa Birliği",
+            "Birleşik Birlik",
+            ""
+        ],
+        "correctAnswer": "Avrupa Birliği",
+        "category": "Avrupa'da Almanya"
+    },
+    "225": {
+        "question": "Almanca konuşan büyük bir nüfusun yaşadığı başka hangi ülkede vardır?",
+        "options": [
+            "Çekya",
+            "Norveç",
+            "İspanya",
+            "Avusturya"
+        ],
+        "correctAnswer": "Avusturya",
+        "category": "Avrupa'da Almanya"
+    },
+    "226": {
+        "question": "Avrupa Birliği bayrağı hangisidir?",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 2",
+        "state": "Avrupa Birliği (AB)",
+        "category": "Avrupa'da Almanya"
+    },
+    "227": {
+        "question": "Almanya'nın komşu ülkelerinden biri hangisidir?",
+        "options": [
+            "Finlandiya",
+            "Danimarka",
+            "Norveç",
+            "İsveç"
+        ],
+        "correctAnswer": "Danimarka",
+        "category": "Avrupa'da Almanya"
+    },
+    "228": {
+        "question": "1990'da Doğu Almanya'nın (DDR) Almanya Federal Cumhuriyeti'ne katılması genellikle nasıl adlandırılır?",
+        "options": [
+            "NATO'nun doğuya genişlemesi",
+            "AB'nin doğuya genişlemesi",
+            "Almanya'nın birleşmesi",
+            "Avrupa Topluluğu"
+        ],
+        "correctAnswer": "Almanya'nın birleşmesi",
+        "category": "Birleşme"
+    },
+    "229": {
+        "question": "Almanya'nın komşu ülkelerinden biri hangisidir?",
+        "options": [
+            "İspanya",
+            "Bulgaristan",
+            "Norveç",
+            "Lüksemburg"
+        ],
+        "correctAnswer": "Lüksemburg",
+        "category": "Avrupa'da Almanya"
+    },
+    "230": {
+        "question": "Avrupa Parlamentosu düzenli olarak her … yılda bir seçilir",
+        "options": [
+            "5 yılda bir.",
+            "6 yılda bir.",
+            "7 yılda bir.",
+            "8 yılda bir."
+        ],
+        "correctAnswer": "5 yılda bir.",
+        "category": "Avrupa'da Almanya"
+    },
+    "231": {
+        "question": "\"Avrupa entegrasyonu\" terimi ne anlama gelir?",
+        "options": [
+            "ABD'den gelen göçmenleri ifade eder.",
+            "Avrupa'ya göçün durdurulması anlamına gelir.",
+            "Avrupa'dan ABD'ye göçmenleri ifade eder.",
+            "Avrupa devletlerinin AB'de birleşmesi anlamına gelir."
+        ],
+        "correctAnswer": "Avrupa devletlerinin AB'de birleşmesi anlamına gelir.",
+        "category": "Avrupa'da Almanya"
+    },
+    "232": {
+        "question": "Avrupa seçimlerinde kim seçilir?",
+        "options": [
+            "Avrupa Komisyonu",
+            "AB'ye katılabilecek ülkeler",
+            "Avrupa Parlamentosu üyeleri",
+            "Avrupa Anayasası"
+        ],
+        "correctAnswer": "Avrupa Parlamentosu üyeleri",
+        "category": "Avrupa'da Almanya"
+    },
+    "233": {
+        "question": "Almanya'nın komşu ülkelerinden biri hangisidir?",
+        "options": [
+            "Çekya",
+            "Bulgaristan",
+            "Yunanistan",
+            "Portekiz"
+        ],
+        "correctAnswer": "Çekya",
+        "category": "Avrupa'da Almanya"
+    },
+    "234": {
+        "question": "Avrupa Parlamentosu'nun oturum yerlerinden biri nerededir?",
+        "options": [
+            "Londra",
+            "Paris",
+            "Berlin",
+            "Strazburg"
+        ],
+        "correctAnswer": "Strazburg",
+        "category": "Avrupa'da Almanya"
+    },
+    "235": {
+        "question": "Eski Fransa Cumhurbaşkanı François Mitterrand ve eski Almanya Şansölyesi Helmut Kohl, Verdun'da iki dünya savaşının kurbanlarını birlikte andı. Bu buluşma Avrupa Birliği'nin hangi amacını gösterir?",
+        "options": [
+            "İngiltere ile Almanya arasındaki dostluğu",
+            "AB ülkelerinde serbest seyahati",
+            "AB ülkelerinde barış ve güvenliği",
+            "AB ülkelerinde ortak ulusal bayramları"
+        ],
+        "correctAnswer": "AB ülkelerinde barış ve güvenliği",
+        "category": "Avrupa'da Almanya"
+    },
+    "236": {
+        "question": "AB'de şu anda kaç üye devlet vardır?",
+        "options": [
+            "21",
+            "23",
+            "25",
+            "27"
+        ],
+        "correctAnswer": "27",
+        "category": "Avrupa'da Almanya"
+    },
+    "237": {
+        "question": "2007'de \"Roma Antlaşmaları\"nın 50. yıl dönümü kutlandı. İçeriği neydi?",
+        "options": [
+            "Almanya'nın NATO'ya katılımı",
+            "Avrupa Ekonomik Topluluğu'nun (AET) kurulması",
+            "Almanya'nın tazminat ödeme yükümlülüğü",
+            "Oder-Neisse hattının doğu sınırı olarak belirlenmesi"
+        ],
+        "correctAnswer": "Avrupa Ekonomik Topluluğu'nun (AET) kurulması",
+        "category": "Avrupa'da Almanya"
+    },
+    "238": {
+        "question": "Avrupa Parlamentosu hangi şehirlerde çalışır?",
+        "options": [
+            "Paris, Londra ve Lahey",
+            "Strazburg, Lüksemburg ve Brüksel",
+            "Roma, Bern ve Viyana",
+            "Bonn, Zürih ve Milano"
+        ],
+        "correctAnswer": "Strazburg, Lüksemburg ve Brüksel",
+        "category": "Avrupa'da Almanya"
+    },
+    "239": {
+        "question": "Almanya Federal Cumhuriyeti Avrupa Ekonomik Topluluğu'nu kurmak için diğer devletlerle hangi antlaşmalar yoluyla birleşti?",
+        "options": [
+            "\"Hamburg Antlaşmaları\" yoluyla",
+            "\"Roma Antlaşmaları\" yoluyla",
+            "\"Paris Antlaşmaları\" yoluyla",
+            "\"Londra Antlaşmaları\" yoluyla"
+        ],
+        "correctAnswer": "\"Roma Antlaşmaları\" yoluyla",
+        "category": "Avrupa'da Almanya"
+    },
+    "240": {
+        "question": "Almanya'da nakit ödemeler euro ile ne zamandan beri yapılır?",
+        "options": [
+            "1995",
+            "1998",
+            "2002",
+            "2005"
+        ],
+        "correctAnswer": "2002",
+        "category": "Avrupa'da Almanya"
+    },
+    "241": {
+        "question": "Bayan Seger'in bir çocuğu var. Ebeveyn parası almak için ne yapması gerekir?",
+        "options": [
+            "Sağlık sigortasına yazmak.",
+            "Ebeveyn parası dairesine başvuruda bulunmak.",
+            "Hiçbir şey yapmasına gerek yok, çünkü para otomatik ödenir.",
+            "İş ajansından izin istemek."
+        ],
+        "correctAnswer": "Ebeveyn parası dairesine başvuruda bulunmak.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "242": {
+        "question": "Almanya'da bir çocuğun kreşe gidip gitmeyeceğine kim karar verir?",
+        "options": [
+            "Devlet",
+            "Federal eyaletler",
+            "Ebeveynler/yasal temsilciler",
+            "Okullar"
+        ],
+        "correctAnswer": "Ebeveynler/yasal temsilciler",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "243": {
+        "question": "Mike ve Sibylle Almanya'daki memleketlerinde bir gösteri düzenlemek istiyor. Önceden ne yapmaları gerekir?",
+        "options": [
+            "Gösteriyi kaydettirmeliler.",
+            "Hiçbir şey yapmalarına gerek yok. Almanya'da gösteriler her yerde her zaman serbesttir.",
+            "Hiçbir şey yapamazlar, çünkü Almanya'da gösteriler genel olarak yasaktır.",
+            "Yeni bir dernek kurmalılar, çünkü sadece dernekler gösteri düzenleyebilir."
+        ],
+        "correctAnswer": "Gösteriyi kaydettirmeliler.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "244": {
+        "question": "Almanya'da üniversiteye başlamak için genellikle hangi okul yeterliliği gerekir?",
+        "options": [
+            "Abitur",
+            "Diploma",
+            "Ticari vekaletname",
+            "Usta sınavı"
+        ],
+        "correctAnswer": "Abitur",
+        "category": "Eğitim"
+    },
+    "245": {
+        "question": "Almanya'da hangi çift birlikte yaşama hakkına sahip değildir?",
+        "options": [
+            "Hans (20 yaş) ve Marie (19 yaş)",
+            "Tom (20 yaş) ve Klaus (45 yaş)",
+            "Sophie (35 yaş) ve Lisa (40 yaş)",
+            "Anna (13 yaş) ve Tim (25 yaş)"
+        ],
+        "correctAnswer": "Anna (13 yaş) ve Tim (25 yaş)",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "246": {
+        "question": "Almanya'da bir kişi yasal olarak kaç yaşında reşit olur?",
+        "options": [
+            "16 yaş",
+            "18 yaş",
+            "19 yaş",
+            "21 yaş"
+        ],
+        "correctAnswer": "18 yaş",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "247": {
+        "question": "Almanya'da hamile bir kadın doğumdan kısa süre önce ve sonra yasayla özel olarak korunur. Bu korumaya ne denir?",
+        "options": [
+            "Ebeveyn izni",
+            "Anne koruması",
+            "Doğum hazırlığı",
+            "Loğusalık dönemi"
+        ],
+        "correctAnswer": "Anne koruması",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "248": {
+        "question": "Almanya'da çocukların eğitimi öncelikle … sorumluluğundadır",
+        "options": [
+            "devletin.",
+            "ebeveynlerin.",
+            "büyükanne ve büyükbabaların.",
+            "okulların."
+        ],
+        "correctAnswer": "ebeveynlerin.",
+        "category": "Yükümlülükler"
+    },
+    "249": {
+        "question": "Almanya'da çocukların eğitiminden öncelikle kim sorumludur?",
+        "options": [
+            "devlet",
+            "ebeveynler",
+            "akrabalar",
+            "okullar"
+        ],
+        "correctAnswer": "ebeveynler",
+        "category": "Yükümlülükler"
+    },
+    "250": {
+        "question": "Almanya'da iyi ücretli bir iş bulma şansınız en yüksek olduğunda …",
+        "options": [
+            "Katolikseniz.",
+            "iyi eğitimliyseniz.",
+            "kadınsanız.",
+            "bir siyasi partiye üye iseniz."
+        ],
+        "correctAnswer": "iyi eğitimliyseniz.",
+        "category": "Eğitim"
+    },
+    "251": {
+        "question": "Almanya'da bir çocuk dövülürse …",
+        "options": [
+            "kimseyi ilgilendirmez.",
+            "sadece ailenin meselesidir.",
+            "bunun için ceza verilemez.",
+            "bunun için ceza verilebilir."
+        ],
+        "correctAnswer": "bunun için ceza verilebilir.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "252": {
+        "question": "Almanya'da …",
+        "options": [
+            "aynı anda sadece bir eşle evli olunabilir.",
+            "aynı anda birden fazla eşe sahip olunabilir.",
+            "daha önce evlendiyseniz tekrar evlenemezsiniz.",
+            "kocası öldüyse kadın tekrar evlenemez."
+        ],
+        "correctAnswer": "aynı anda sadece bir eşle evli olunabilir.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "253": {
+        "question": "Almanya'da yeni bir adrese taşınırsanız nereye kaydolmalısınız?",
+        "options": [
+            "ikamet kayıt dairesine",
+            "nüfus dairesine",
+            "kamu düzeni dairesine",
+            "ticaret dairesine"
+        ],
+        "correctAnswer": "ikamet kayıt dairesine",
+        "category": "Belediye"
+    },
+    "254": {
+        "question": "Almanya'da eşler boşanabilir. Genellikle \"bir yıllık ayrılık süresi\"ne uymak zorundadırlar. Bu ne anlama gelir?",
+        "options": [
+            "Boşanma süreci bir yıl sürer.",
+            "Boşanma mümkün olmadan önce eşler bir yıl evli kalmalıdır.",
+            "Çocuklarla görüşme hakları bir yıl geçerlidir.",
+            "Boşanma mümkün olmadan önce eşler en az bir yıl ayrı yaşamalıdır."
+        ],
+        "correctAnswer": "Boşanma mümkün olmadan önce eşler en az bir yıl ayrı yaşamalıdır.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "255": {
+        "question": "Almanya'da ebeveynler eğitim konularında yardım almak için … başvurabilir",
+        "options": [
+            "kamu düzeni dairesine.",
+            "okul dairesine.",
+            "gençlik dairesine.",
+            "sağlık dairesine."
+        ],
+        "correctAnswer": "gençlik dairesine.",
+        "category": "Belediye"
+    },
+    "256": {
+        "question": "Almanya'da bir çift restoran açmak istiyor. Mutlaka neye ihtiyaçları vardır?",
+        "options": [
+            "polis izni",
+            "siyasi parti onayı",
+            "ikamet kayıt dairesi onayı",
+            "ilgili daireden restoran ruhsatı"
+        ],
+        "correctAnswer": "ilgili daireden restoran ruhsatı",
+        "category": "Belediye"
+    },
+    "257": {
+        "question": "Almanya'da yetişkin bir kadın daha sonra lise diploması (Abitur) almak istiyor. Bunu … yapabilir",
+        "options": [
+            "üniversitede.",
+            "akşam lisesinde.",
+            "modern ortaokulda.",
+            "özel üniversitede."
+        ],
+        "correctAnswer": "akşam lisesinde.",
+        "category": "Eğitim"
+    },
+    "258": {
+        "question": "Almanya'da gençlik dairesinin ne yapmasına izin verilir?",
+        "options": [
+            "Çocuğun hangi okula gideceğine karar vermek.",
+            "Çocuk dövülür veya aç bırakılırsa onu aileden almak.",
+            "Ebeveynlere çocuk yardımı ödemek.",
+            "Çocuğun kreşe gidip gitmediğini kontrol etmek."
+        ],
+        "correctAnswer": "Çocuk dövülür veya aç bırakılırsa onu aileden almak.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "259": {
+        "question": "Almanya Federal İş Ajansı'ndaki Meslek Bilgi Merkezi (BIZ) … konusunda yardımcı olur",
+        "options": [
+            "emeklilik hesaplamasında.",
+            "çıraklık yeri aramada.",
+            "vergi beyannamelerinde.",
+            "sağlık sigortasında."
+        ],
+        "correctAnswer": "çıraklık yeri aramada.",
+        "category": "Belediye"
+    },
+    "260": {
+        "question": "Almanya'da okuldaki bir çocuğun … vardır",
+        "options": [
+            "sınırsız serbest zaman hakkı.",
+            "tüm dersleri seçme özgürlüğü.",
+            "eğitim için ücret alma hakkı.",
+            "derse katılma yükümlülüğü."
+        ],
+        "correctAnswer": "derse katılma yükümlülüğü.",
+        "category": "Yükümlülükler"
+    },
+    "261": {
+        "question": "Almanya'da 30 yaşındaki bir erkek lise diploması (Abitur) almak istiyor. Bunu nerede yapabilir?",
+        "options": [
+            "üniversitede.",
+            "akşam lisesinde.",
+            "modern ortaokulda.",
+            "özel üniversitede."
+        ],
+        "correctAnswer": "akşam lisesinde.",
+        "category": "Eğitim"
+    },
+    "262": {
+        "question": "Almanya'da eşit muamele ilkesi ne anlama gelir?",
+        "options": [
+            "Kimse örneğin engellilik nedeniyle ayrımcılığa uğrayamaz.",
+            "Kişiler yeterli kişisel nedenleri varsa başkalarına ayrımcılık yapabilir.",
+            "Ayrımcılığa uğrayan kimse şikâyet edemez.",
+            "Herkes her yıl ayrımcılığa uğrayan gruplara para bağışlamak zorundadır."
+        ],
+        "correctAnswer": "Kimse örneğin engellilik nedeniyle ayrımcılığa uğrayamaz.",
+        "category": "Temel Haklar"
+    },
+    "263": {
+        "question": "Almanya'da gençler 14 yaşından itibaren cezai sorumluluğa sahiptir. Bu şu anlama gelir: 14 yaş ve üzeri gençler ceza hukukunu ihlal ederse …",
+        "options": [
+            "cezalandırılır.",
+            "yetişkin gibi muamele görür.",
+            "cezayı ebeveynleriyle paylaşır.",
+            "cezalandırılmaz."
+        ],
+        "correctAnswer": "cezalandırılır.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "264": {
+        "question": "Almanya'da insanlar renkli kostüm ve maske taktıkları hangi bayramdır?",
+        "options": [
+            "Pembe Pazartesi",
+            "1 Mayıs",
+            "Oktoberfest",
+            "Pentekost"
+        ],
+        "correctAnswer": "Pembe Pazartesi",
+        "category": "Kültürlerarası Birlikte Yaşama"
+    },
+    "265": {
+        "question": "Almanya'da evlenmek istiyorsanız önce nereye başvurmalısınız?",
+        "options": [
+            "ikamet kayıt dairesine",
+            "kamu düzeni dairesine",
+            "iş ajansına",
+            "nüfus dairesine"
+        ],
+        "correctAnswer": "nüfus dairesine",
+        "category": "Belediye"
+    },
+    "266": {
+        "question": "Almanya'da yasal gece sessizlik dönemi ne zaman başlar?",
+        "options": [
+            "güneş batarken",
+            "komşular uyuduğunda",
+            "gece yarısı",
+            "saat 22:00'de"
+        ],
+        "correctAnswer": "saat 22:00'de",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "267": {
+        "question": "Almanya'da 22 yaşındaki bir kadın erkek arkadaşıyla yaşıyor. Ebeveynleri onaylamıyor. Ebeveynler ne yapabilir?",
+        "options": [
+            "Yetişkin kızlarının kararına saygı duymak zorundalar.",
+            "Onu tekrar aile evine getirme hakları vardır.",
+            "Onu polise şikâyet edebilirler.",
+            "Ona başka bir erkek bulurlar."
+        ],
+        "correctAnswer": "Yetişkin kızlarının kararına saygı duymak zorundalar.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "268": {
+        "question": "Genç bir kadın ehliyet almak istiyor. Almanca ana dili olmadığı için sınavdan korkuyor. Hangisi doğrudur?",
+        "options": [
+            "Ehliyet almadan önce Almanya'da en az on yıl yaşamalıdır.",
+            "Almanca konuşmuyorsa ehliyet alamaz.",
+            "Sınavı kendi dilinin konuşulduğu ülkede vermelidir.",
+            "Teorik sınavı ana dilinde verebilir. On birden fazla dil mevcuttur."
+        ],
+        "correctAnswer": "Teorik sınavı ana dilinde verebilir. On birden fazla dil mevcuttur.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "269": {
+        "question": "Almanya'da çocuklar üç yaşından okul başlangıcına kadar … hakkına sahiptir",
+        "options": [
+            "aylık cep harçlığı.",
+            "spor kulübünde yer.",
+            "kreşte yer.",
+            "tatil kuponu."
+        ],
+        "correctAnswer": "kreşte yer.",
+        "category": "Eğitim"
+    },
+    "270": {
+        "question": "Almanya'daki halk üniversitesi (Volkshochschule) … kurumudur",
+        "options": [
+            "dini eğitim için.",
+            "sadece gençler için.",
+            "mesleki gelişim için.",
+            "sadece emekliler için."
+        ],
+        "correctAnswer": "mesleki gelişim için.",
+        "category": "Eğitim"
+    },
+    "271": {
+        "question": "Almanya'da Noel geleneği nedir?",
+        "options": [
+            "renkli yumurtaları saklamak",
+            "Noel ağacını süslemek",
+            "maske ve kostüm giymek",
+            "kapı önüne balkabağı koymak"
+        ],
+        "correctAnswer": "Noel ağacını süslemek",
+        "category": "Kültürlerarası Birlikte Yaşama"
+    },
+    "272": {
+        "question": "Almanya'da hangi birlikte yaşama biçimi yasaktır?",
+        "options": [
+            "Boşanmış erkek ve kadın yeni partnerleriyle yaşamak.",
+            "İki kadının birlikte yaşaması.",
+            "İki çocukla yaşayan bekar baba.",
+            "Aynı anda iki kadınla evli olan erkek."
+        ],
+        "correctAnswer": "Aynı anda iki kadınla evli olan erkek.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "273": {
+        "question": "Almanya'da eğitim sorunlarında nereye başvurulur?",
+        "options": [
+            "doktor",
+            "sağlık dairesi",
+            "ikamet kayıt dairesi",
+            "gençlik dairesi"
+        ],
+        "correctAnswer": "gençlik dairesi",
+        "category": "Belediye"
+    },
+    "274": {
+        "question": "Almanya'da başkasına ait bir mektubu kasten açtınız. Ne ihlal ettiniz?",
+        "options": [
+            "sessizlik hakkı",
+            "mektup gizliliği",
+            "meslek sırrı",
+            "ifade özgürlüğü"
+        ],
+        "correctAnswer": "mektup gizliliği",
+        "category": "Temel Haklar"
+    },
+    "275": {
+        "question": "Almanya'da boşanma için ne gerekir?",
+        "options": [
+            "ebeveyn onayı",
+            "tıbbi rapor",
+            "çocuk onayı",
+            "avukat desteği"
+        ],
+        "correctAnswer": "avukat desteği",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "276": {
+        "question": "Almanya'da bir devlet dairesi çalışanı size kötü davranırsa ne yapmalısınız?",
+        "options": [
+            "Hiçbir şey yapamam.",
+            "Böyle bir muameleyi kabul etmeliyim.",
+            "O kişiyi tehdit ederim.",
+            "Daire başkanına şikâyet edebilirim."
+        ],
+        "correctAnswer": "Daire başkanına şikâyet edebilirim.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "277": {
+        "question": "Almanya'da iki yaşındaki çocuğu olan bir kadın iş başvurusu yapıyor. Ayrımcılık örneği nedir? Sadece şu nedenle işi alamıyor …",
+        "options": [
+            "İngilizce konuşmuyor.",
+            "maaş beklentileri çok yüksek.",
+            "meslekte deneyimi yok.",
+            "anne olduğu için."
+        ],
+        "correctAnswer": "anne olduğu için.",
+        "category": "Temel Haklar"
+    },
+    "278": {
+        "question": "Almanya'da tekerlekli sandalyede olan bir adam muhasebeci pozisyonu için başvuruyor. Ayrımcılık örneği nedir? Sadece şu nedenle işi alamıyor …",
+        "options": [
+            "tekerlekli sandalye kullanıyor.",
+            "deneyimi yok.",
+            "maaş beklentileri çok yüksek.",
+            "İngilizce konuşmuyor."
+        ],
+        "correctAnswer": "tekerlekli sandalye kullanıyor.",
+        "category": "Temel Haklar"
+    },
+    "279": {
+        "question": "Almanya'daki çoğu apartmanda \"ev kuralları\" adlı bir belge vardır. Ne içerir? … listeler",
+        "options": [
+            "toplu taşıma kullanım kurallarını.",
+            "evdeki tüm sakinleri.",
+            "tüm sakinlerin uyması gereken kuralları.",
+            "en yakın kamu düzeni dairesinin adresini."
+        ],
+        "correctAnswer": "tüm sakinlerin uyması gereken kuralları.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "280": {
+        "question": "Almanya'da yanlış bir vergi bildirimine itiraz etmek isterseniz …",
+        "options": [
+            "hiçbir şey yapmamalısınız.",
+            "bildirimi atmalısınız.",
+            "itirazda bulunmalısınız.",
+            "bir sonraki bildirimi beklemelisiniz."
+        ],
+        "correctAnswer": "itirazda bulunmalısınız.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "281": {
+        "question": "Almanya'da koyu tenli iki arkadaş halka açık bir havuza alınmadı. Bu durumda hangi hak ihlal edildi? … hakkı",
+        "options": [
+            "ifade özgürlüğü",
+            "eşit muamele",
+            "toplanma özgürlüğü",
+            "serbest dolaşım"
+        ],
+        "correctAnswer": "eşit muamele",
+        "category": "Temel Haklar"
+    },
+    "282": {
+        "question": "Almanya vatandaşlarının çağrıldıklarında gönüllü olarak üstlenmeleri gereken sivil görev nedir?",
+        "options": [
+            "spor kulübü antrenörü",
+            "seçim yardımcısı",
+            "kütüphane denetçisi",
+            "öğretmen"
+        ],
+        "correctAnswer": "seçim yardımcısı",
+        "category": "Yükümlülükler"
+    },
+    "283": {
+        "question": "Almanya'da bir devlet dairesinden yanlış fatura aldıysanız ne yapmalısınız?",
+        "options": [
+            "Faturayı görmezden gelirim.",
+            "Daireye itirazda bulunurum.",
+            "Faturayı daireye geri gönderirim.",
+            "Bu faturayla vergi dairesine giderim."
+        ],
+        "correctAnswer": "Daireye itirazda bulunurum.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "284": {
+        "question": "Gelecekte iş için gereken beceriler çok hızlı değişiyor. Ne yapılabilir?",
+        "options": [
+            "Ne öğrendiğiniz önemli değil.",
+            "Yetişkinler mesleki eğitimi bitirdikten sonra bile öğrenmeye devam etmelidir.",
+            "Çocuklar okulda iş için gerekli her şeyi öğrenir ve daha fazla eğitime ihtiyaç duymaz.",
+            "Her şey değiştiği için herkes daha erken çalışmayı bırakmalıdır."
+        ],
+        "correctAnswer": "Yetişkinler mesleki eğitimi bitirdikten sonra bile öğrenmeye devam etmelidir.",
+        "category": "Eğitim"
+    },
+    "285": {
+        "question": "Bayan Frost Almanya'da ofiste sabit bir işte çalışıyor. Maaşından ne ödememelidir?",
+        "options": [
+            "gelir vergisi",
+            "işsizlik sigortası primi",
+            "emeklilik ve sağlık sigortası primi",
+            "katma değer vergisi (KDV)"
+        ],
+        "correctAnswer": "katma değer vergisi (KDV)",
+        "category": "Sosyal Sistem"
+    },
+    "286": {
+        "question": "Bir şirkette çalışanlara işverenle sorunlarında yardımcı olan kuruluş hangisidir?",
+        "options": [
+            "iş konseyi",
+            "şirket denetçisi",
+            "şirket grubu",
+            "şirket yönetimi"
+        ],
+        "correctAnswer": "iş konseyi",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "287": {
+        "question": "Almanya'da bir iş sözleşmesini feshetmek isterseniz neye uymanız gerekir?",
+        "options": [
+            "ücret ödemeleri",
+            "çalışma saatleri",
+            "ihbar süresi",
+            "sigorta yükümlülükleri"
+        ],
+        "correctAnswer": "ihbar süresi",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "288": {
+        "question": "Almanya'nın İsrail'e karşı özel sorumluluğunun temeli nedir?",
+        "options": [
+            "Avrupa Birliği (AB) üyeliği",
+            "Yahudilere karşı nasyonal sosyalist suçlar",
+            "Almanya Federal Cumhuriyeti Temel Yasası",
+            "Hristiyan gelenek"
+        ],
+        "correctAnswer": "Yahudilere karşı nasyonal sosyalist suçlar",
+        "category": "Nasyonal Sosyalizm ve Sonuçları"
+    },
+    "289": {
+        "question": "Almanya'da koyu tenli bir adam bir restoranda garsonluk pozisyonu için başvuruyor. Ayrımcılık örneği nedir? Sadece şu nedenle işi alamıyor …",
+        "options": [
+            "Almanca bilgisi yetersiz.",
+            "maaş beklentileri çok yüksek.",
+            "koyu tenli olduğu için.",
+            "mesleki deneyimi yok."
+        ],
+        "correctAnswer": "koyu tenli olduğu için.",
+        "category": "Temel Haklar"
+    },
+    "290": {
+        "question": "Almanya'da bir televizyon satın aldınız. Evde açtığınızda çalışmıyor. Ne yapabilirsiniz?",
+        "options": [
+            "polise şikâyet etmek",
+            "iade edip televizyon için hak iddia etmek",
+            "cihazı izinsiz değiştirmek",
+            "garantiyi uzatmak"
+        ],
+        "correctAnswer": "iade edip televizyon için hak iddia etmek",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "291": {
+        "question": "Almanya'da vergi beyannamesinde kiliseye üye olup olmadığınızı neden belirtmelisiniz? Çünkü …",
+        "options": [
+            "gelir vergisi ve ücret vergisiyle bağlantılı kilise vergisi vardır.",
+            "bu Almanya'daki istatistikler için önemlidir.",
+            "kilise üyesi değilseniz daha fazla vergi ödemelisiniz.",
+            "kilise vergi beyannamesinden sorumludur."
+        ],
+        "correctAnswer": "gelir vergisi ve ücret vergisiyle bağlantılı kilise vergisi vardır.",
+        "category": "Hukuk ve Günlük Yaşam"
+    },
+    "292": {
+        "question": "Almanya'da insanlar dini hoşgörü ilkesine göre yaşar. Bu ne anlama gelir?",
+        "options": [
+            "Cami inşa edilemez.",
+            "Tüm insanlar Tanrı'ya inanır.",
+            "Herkes istediğine inanabilir.",
+            "Devlet insanların hangi Tanrı'ya inanması gerektiğini belirler."
+        ],
+        "correctAnswer": "Herkes istediğine inanabilir.",
+        "category": "Dini Çeşitlilik"
+    },
+    "293": {
+        "question": "Almanya'da Paskalya'da geleneksel Alman geleneği nedir?",
+        "options": [
+            "kapı önüne balkabağı koymak",
+            "Noel ağacını süslemek",
+            "yumurta boyamak",
+            "havaya roket fırlatmak"
+        ],
+        "correctAnswer": "yumurta boyamak",
+        "category": "Kültürlerarası Birlikte Yaşama"
+    },
+    "294": {
+        "question": "Pentekost …",
+        "options": [
+            "Hristiyan bir bayramdır.",
+            "Alman anma günüdür.",
+            "uluslararası yas günüdür.",
+            "Bavyera geleneğidir."
+        ],
+        "correctAnswer": "Hristiyan bir bayramdır.",
+        "category": "Dini Çeşitlilik"
+    },
+    "295": {
+        "question": "Avrupa ve Alman kültürünü hangi din şekillendirmiştir?",
+        "options": [
+            "Hinduizm",
+            "Hristiyanlık",
+            "Budizm",
+            "İslam"
+        ],
+        "correctAnswer": "Hristiyanlık",
+        "category": "Dini Çeşitlilik"
+    },
+    "296": {
+        "question": "Almanya'da Noel'den önceki son dört haftaya … denir",
+        "options": [
+            "Tövbe ve Dua Günü.",
+            "Hasat Bayramı.",
+            "Advent dönemi.",
+            "Azizler Günü."
+        ],
+        "correctAnswer": "Advent dönemi.",
+        "category": "Dini Çeşitlilik"
+    },
+    "297": {
+        "question": "Almanya'ya gelen göçmenlerin çoğu hangi ülkeden geliyordu?",
+        "options": [
+            "İtalya",
+            "Polonya",
+            "Fas",
+            "Türkiye"
+        ],
+        "correctAnswer": "Türkiye",
+        "category": "Göç Tarihi"
+    },
+    "298": {
+        "question": "Doğu Almanya'da (DDR) göçmenlerin çoğu … geliyordu",
+        "options": [
+            "Vietnam, Polonya, Mozambik.",
+            "Fransa, Romanya, Somali.",
+            "Şili, Macaristan, Zimbabve.",
+            "Kuzey Kore, Meksika, Mısır."
+        ],
+        "correctAnswer": "Vietnam, Polonya, Mozambik.",
+        "category": "Göç Tarihi"
+    },
+    "299": {
+        "question": "Batı Almanya'da 1950-1960'larda işe alınan yabancı işçilere … deniyordu",
+        "options": [
+            "yasadışı işçiler.",
+            "misafir işçiler.",
+            "geçici işçiler.",
+            "vardiyalı işçiler."
+        ],
+        "correctAnswer": "misafir işçiler.",
+        "category": "Göç Tarihi"
+    },
+    "300": {
+        "question": "Almanya Federal Cumhuriyeti'ne ilk misafir işçiler hangi ülkeden geldi?",
+        "options": [
+            "İtalya",
+            "İspanya",
+            "Portekiz",
+            "Türkiye"
+        ],
+        "correctAnswer": "İtalya",
+        "category": "Göç Tarihi"
+    },
+    "301": {
+        "question": "Bu arma hangi eyalete aittir? Baden-Württemberg",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 1",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "302": {
+        "question": "Aşağıdakilerden hangisi Baden-Württemberg'de bir ilçedir?",
+        "options": [
+            "Mecklenburgische Seenplatte",
+            "Neckar-Odenwald İlçesi",
+            "Nordfriesland",
+            "Altötting"
+        ],
+        "correctAnswer": "Neckar-Odenwald İlçesi",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "303": {
+        "question": "Baden-Württemberg'de eyalet parlamentosu (Landtag) kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "304": {
+        "question": "Baden-Württemberg'de belediye seçimlerinde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "305": {
+        "question": "Baden-Württemberg eyalet bayrağının renkleri nedir?",
+        "options": [
+            "mavi-beyaz-kırmızı",
+            "siyah-sarı",
+            "beyaz-mavi",
+            "yeşil-beyaz-kırmızı"
+        ],
+        "correctAnswer": "siyah-sarı",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "306": {
+        "question": "Baden-Württemberg'de siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "belediye kamu düzeni dairesinden",
+            "tüketici danışma merkezinden",
+            "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+            "kilise"
+        ],
+        "correctAnswer": "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "307": {
+        "question": "Baden-Württemberg'in başkenti …",
+        "options": [
+            "Heidelberg.",
+            "Stuttgart.",
+            "Karlsruhe.",
+            "Mannheim."
+        ],
+        "correctAnswer": "Stuttgart.",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "308": {
+        "question": "Baden-Württemberg hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "309": {
+        "question": "Baden-Württemberg'de hükümet başkanının unvanı nedir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "310": {
+        "question": "Baden-Württemberg'de olmayan bakan hangisidir?",
+        "options": [
+            "Maliye Bakanı",
+            "Adalet Bakanı",
+            "İçişleri Bakanı",
+            "Dışişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Baden-Württemberg",
+        "category": "Anayasal Organlar"
+    },
+    "311": {
+        "question": "Bu arma hangi eyalete aittir? Bavyera Özgür Devleti",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 2",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "312": {
+        "question": "Aşağıdakilerden hangisi Bavyera'da bir ilçedir (Landkreis)?",
+        "options": [
+            "Prignitz",
+            "Rhein-Sieg İlçesi",
+            "Nordfriesland",
+            "Altötting"
+        ],
+        "correctAnswer": "Altötting",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "313": {
+        "question": "Bavyera'da eyalet parlamentosu (Landtag) kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "314": {
+        "question": "Bavyera'da yerel seçimlerde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "18",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "315": {
+        "question": "Bavyera eyalet bayrağının renkleri nedir?",
+        "options": [
+            "mavi-beyaz-kırmızı",
+            "beyaz-mavi",
+            "yeşil-beyaz-kırmızı",
+            "siyah-sarı"
+        ],
+        "correctAnswer": "beyaz-mavi",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "316": {
+        "question": "Bavyera'da siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "belediye kamu düzeni dairesinden",
+            "Eyalet Siyasi Eğitim Merkezi'nden",
+            "tüketici danışma merkezinden",
+            "kilise"
+        ],
+        "correctAnswer": "Eyalet Siyasi Eğitim Merkezi'nden",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "317": {
+        "question": "Bavyera'nın başkenti …",
+        "options": [
+            "Ingolstadt.",
+            "Regensburg.",
+            "Nürnberg.",
+            "Münih."
+        ],
+        "correctAnswer": "Münih.",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "318": {
+        "question": "Bavyera hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "4",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "319": {
+        "question": "Bavyera'da hükümet başkanına ne denir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "320": {
+        "question": "Bavyera'da olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Bavyera Özgür Devleti",
+        "category": "Anayasal Organlar"
+    },
+    "321": {
+        "question": "Bu arma hangi eyalete aittir? Berlin",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 4",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+    "322": {
+        "question": "Aşağıdakilerden hangisi Berlin'in bir ilçesidir?",
+        "options": [
+            "Altona",
+            "Prignitz",
+            "Pankow",
+            "Mecklenburg Göl Bölgesi"
+        ],
+        "correctAnswer": "Pankow",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+    "323": {
+        "question": "Berlin'de eyalet parlamentosu kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+    "324": {
+        "question": "Berlin'de yerel seçimlerde (ilçe meclisi) oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+    "325": {
+        "question": "Berlin eyalet bayrağının renkleri nedir?",
+        "options": [
+            "mavi-beyaz-kırmızı",
+            "beyaz-kırmızı",
+            "yeşil-beyaz-kırmızı",
+            "siyah-sarı"
+        ],
+        "correctAnswer": "beyaz-kırmızı",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+    "326": {
+        "question": "Berlin'de siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "kamu düzeni dairesinden",
+            "kilise",
+            "tüketici danışma merkezinden",
+            "Eyalet Siyasi Eğitim Merkezi'nden"
+        ],
+        "correctAnswer": "Eyalet Siyasi Eğitim Merkezi'nden",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+    "327": {
+        "question": "Hangi federal eyalet bir şehir-devlettir?",
+        "options": [
+            "Berlin",
+            "Saar",
+            "Brandenburg",
+            "Hessen"
+        ],
+        "correctAnswer": "Berlin",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+    "328": {
+        "question": "Berlin hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "4",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+    "329": {
+        "question": "Berlin şehir-devletinin hükümet başkanına ne denir?",
+        "options": [
+            "Eyalet Bakanı",
+            "Lord Mayor",
+            "Senato Başkanı",
+            "Yöneten Belediye Başkanı"
+        ],
+        "correctAnswer": "Yöneten Belediye Başkanı",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+    "330": {
+        "question": "Berlin'de olmayan senatör hangisidir?",
+        "options": [
+            "Maliye Senatörü",
+            "İçişleri Senatörü",
+            "Dışişleri Senatörü",
+            "Adalet Senatörü"
+        ],
+        "correctAnswer": "Dışişleri Senatörü",
+        "state": "Berlin",
+        "category": "Anayasal Organlar"
+    },
+        "331": {
+            "question": "Bu arma hangi eyalete aittir? Brandenburg",
+            "options": [
+                "Resim 1",
+                "Resim 2",
+                "Resim 3",
+                "Resim 4"
+            ],
+            "correctAnswer": "Resim 1",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+        "332": {
+            "question": "Aşağıdakilerden hangisi Brandenburg'da bir ilçedir (Landkreis)?",
+            "options": [
+                "Prignitz",
+                "Rhein-Sieg İlçesi",
+                "Vogtland İlçesi",
+                "Amberg-Sulzbach"
+            ],
+            "correctAnswer": "Prignitz",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+        "333": {
+            "question": "Brandenburg'da eyalet parlamentosu (Landtag) kaç yıllığına seçilir?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correctAnswer": "5",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+        "334": {
+            "question": "Brandenburg'da belediye seçimlerinde oy kullanmak için minimum yaş kaçtır?",
+            "options": [
+                "14",
+                "16",
+                "18",
+                "20"
+            ],
+            "correctAnswer": "16",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+        "335": {
+            "question": "Brandenburg eyalet bayrağının renkleri nedir?",
+            "options": [
+                "mavi-beyaz-kırmızı",
+                "kırmızı-beyaz",
+                "yeşil-beyaz-kırmızı",
+                "siyah-sarı"
+            ],
+            "correctAnswer": "kırmızı-beyaz",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+        "336": {
+            "question": "Brandenburg'da siyasi konular hakkında bilgi nereden alınabilir?",
+            "options": [
+                "kilise",
+                "belediye kamu düzeni dairesinden",
+                "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+                "tüketici danışma merkezinden"
+            ],
+            "correctAnswer": "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+        "337": {
+            "question": "Brandenburg'un başkenti …",
+            "options": [
+                "Potsdam.",
+                "Cottbus.",
+                "Brandenburg.",
+                "Frankfurt an der Oder."
+            ],
+            "correctAnswer": "Potsdam.",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+        "338": {
+            "question": "Brandenburg hangi federal eyalettir?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correctAnswer": "4",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+        "339": {
+            "question": "Brandenburg'da hükümet başkanının unvanı nedir?",
+            "options": [
+                "Başbakan",
+                "Premier",
+                "Belediye Başkanı",
+                "Eyalet Bakanı"
+            ],
+            "correctAnswer": "Eyalet Bakanı",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+        "340": {
+            "question": "Brandenburg'da olmayan bakan hangisidir?",
+            "options": [
+                "Adalet Bakanı",
+                "Dışişleri Bakanı",
+                "Maliye Bakanı",
+                "İçişleri Bakanı"
+            ],
+            "correctAnswer": "Dışişleri Bakanı",
+            "state": "Brandenburg",
+            "category": "Anayasal Organlar"
+        },
+    "341": {
+        "question": "Bu arma hangi eyalete aittir? Özgür Hanseatik Şehir Bremen",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 3",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "342": {
+        "question": "Aşağıdakilerden hangisi Bremen'in bir ilçesidir?",
+        "options": [
+            "Altona",
+            "Hemelingen",
+            "Pankow",
+            "Babelsberg"
+        ],
+        "correctAnswer": "Hemelingen",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "343": {
+        "question": "Bremen'de eyalet parlamentosu kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "4",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "344": {
+        "question": "Bremen parlamentosu (Bürgerschaft) seçimlerinde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "345": {
+        "question": "Bremen eyalet bayrağının renkleri nedir?",
+        "options": [
+            "mavi-beyaz-kırmızı",
+            "kırmızı-beyaz",
+            "yeşil-beyaz-kırmızı",
+            "siyah-sarı"
+        ],
+        "correctAnswer": "kırmızı-beyaz",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "346": {
+        "question": "Bremen'de siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "kamu düzeni dairesinden",
+            "Eyalet Siyasi Eğitim Merkezi'nden",
+            "kilise",
+            "tüketici danışma merkezinden"
+        ],
+        "correctAnswer": "Eyalet Siyasi Eğitim Merkezi'nden",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "347": {
+        "question": "Almanya'nın şehir-devletlerinden biri hangisidir?",
+        "options": [
+            "Bremen",
+            "Münih",
+            "Frankfurt",
+            "Erfurt"
+        ],
+        "correctAnswer": "Bremen",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "348": {
+        "question": "Bremen hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "349": {
+        "question": "Bremen şehir-devletinin hükümet başkanına ne denir?",
+        "options": [
+            "Eyalet Bakanı",
+            "Birinci Belediye Başkanı",
+            "Senato Başkanı",
+            "Yöneten Belediye Başkanı"
+        ],
+        "correctAnswer": "Senato Başkanı",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "350": {
+        "question": "Bremen'de olmayan senatör hangisidir?",
+        "options": [
+            "Dışişleri Senatörü",
+            "Maliye Senatörü",
+            "Adalet Senatörü",
+            "İçişleri Senatörü"
+        ],
+        "correctAnswer": "Dışişleri Senatörü",
+        "state": "Özgür Hanseatik Şehir Bremen",
+        "category": "Anayasal Organlar"
+    },
+    "351": {
+        "question": "Bu arma hangi eyalete aittir? Özgür ve Hanseatik Şehir Hamburg",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 2",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "352": {
+        "question": "Aşağıdakilerden hangisi Hamburg'un bir ilçesidir?",
+        "options": [
+            "Altona",
+            "Hemelingen",
+            "Pankow",
+            "Mecklenburg Göl Bölgesi"
+        ],
+        "correctAnswer": "Altona",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "353": {
+        "question": "Hamburg'da eyalet parlamentosu kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "354": {
+        "question": "Hamburg'da yerel seçimlerde (ilçe meclisi seçimleri) oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "355": {
+        "question": "Hamburg eyalet bayrağının renkleri nedir?",
+        "options": [
+            "mavi-beyaz-kırmızı",
+            "beyaz-kırmızı",
+            "yeşil-beyaz-kırmızı",
+            "siyah-sarı"
+        ],
+        "correctAnswer": "beyaz-kırmızı",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "356": {
+        "question": "Hamburg'da siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "kamu düzeni dairesinden",
+            "tüketici danışma merkezinden",
+            "kilise",
+            "Eyalet Siyasi Eğitim Merkezi'nden"
+        ],
+        "correctAnswer": "Eyalet Siyasi Eğitim Merkezi'nden",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "357": {
+        "question": "Hangi federal eyalet bir şehir-devlettir?",
+        "options": [
+            "Hamburg",
+            "Saksonya",
+            "Bavyera",
+            "Turingia"
+        ],
+        "correctAnswer": "Hamburg",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "358": {
+        "question": "Hamburg hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "3",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "359": {
+        "question": "Hamburg şehir-devletinin hükümet başkanına ne denir?",
+        "options": [
+            "Eyalet Bakanı",
+            "Birinci Belediye Başkanı",
+            "Yöneten Senatör",
+            "Lord Mayor"
+        ],
+        "correctAnswer": "Birinci Belediye Başkanı",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "360": {
+        "question": "Hamburg'da olmayan senatör hangisidir?",
+        "options": [
+            "Adalet Senatörü",
+            "Dışişleri Senatörü",
+            "Maliye Senatörü",
+            "İçişleri Senatörü"
+        ],
+        "correctAnswer": "Dışişleri Senatörü",
+        "state": "Özgür ve Hanseatik Şehir Hamburg",
+        "category": "Anayasal Organlar"
+    },
+    "361": {
+        "question": "Bu arma hangi eyalete aittir? Hessen",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 1",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "362": {
+        "question": "Aşağıdakilerden hangisi Hessen'de bir ilçedir?",
+        "options": [
+            "Ammerland",
+            "Altötting",
+            "Prignitz",
+            "Main-Taunus İlçesi"
+        ],
+        "correctAnswer": "Main-Taunus İlçesi",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "363": {
+        "question": "Hessen'de eyalet parlamentosu (Landtag) kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "364": {
+        "question": "Hessen'de yerel seçimlerde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "18",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "365": {
+        "question": "Hessen eyalet bayrağının renkleri nedir?",
+        "options": [
+            "mavi-beyaz-kırmızı",
+            "kırmızı-beyaz",
+            "siyah-sarı",
+            "yeşil-beyaz-kırmızı"
+        ],
+        "correctAnswer": "kırmızı-beyaz",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "366": {
+        "question": "Hessen'de siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "Eyalet Siyasi Eğitim Merkezi'nden",
+            "tüketici danışma merkezinden",
+            "kamu düzeni dairesinden",
+            "kilise"
+        ],
+        "correctAnswer": "Eyalet Siyasi Eğitim Merkezi'nden",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "367": {
+        "question": "Hessen'in başkenti …",
+        "options": [
+            "Kassel.",
+            "Darmstadt.",
+            "Frankfurt.",
+            "Wiesbaden."
+        ],
+        "correctAnswer": "Wiesbaden.",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "368": {
+        "question": "Hessen hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "369": {
+        "question": "Hessen'de hükümet başkanına ne denir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "370": {
+        "question": "Hessen'de olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Hessen",
+        "category": "Anayasal Organlar"
+    },
+    "371": {
+        "question": "Bu arma hangi eyalete aittir? Mecklenburg-Vorpommern",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 3",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "372": {
+        "question": "Aşağıdakilerden hangisi Mecklenburg-Vorpommern'de bir ilçedir?",
+        "options": [
+            "Prignitz",
+            "Mecklenburg Göl Bölgesi",
+            "Vogtland İlçesi",
+            "Rhein-Sieg İlçesi"
+        ],
+        "correctAnswer": "Mecklenburg Göl Bölgesi",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "373": {
+        "question": "Mecklenburg-Vorpommern'de eyalet parlamentosu (Landtag) kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "374": {
+        "question": "Mecklenburg-Vorpommern'de yerel seçimlerde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "375": {
+        "question": "Mecklenburg-Vorpommern eyalet bayrağının renkleri nedir?",
+        "options": [
+            "siyah-kırmızı-sarı",
+            "mavi-beyaz-sarı-kırmızı",
+            "yeşil-beyaz-kırmızı",
+            "siyah-sarı"
+        ],
+        "correctAnswer": "mavi-beyaz-sarı-kırmızı",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "376": {
+        "question": "Mecklenburg-Vorpommern'de siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "Eyalet Siyasi Eğitim Merkezi'nden",
+            "kilise",
+            "kamu düzeni dairesinden",
+            "tüketici danışma merkezinden"
+        ],
+        "correctAnswer": "Eyalet Siyasi Eğitim Merkezi'nden",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "377": {
+        "question": "Mecklenburg-Vorpommern'in başkenti …",
+        "options": [
+            "Greifswald.",
+            "Schwerin.",
+            "Rostock.",
+            "Wismar."
+        ],
+        "correctAnswer": "Schwerin.",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "378": {
+        "question": "Mecklenburg-Vorpommern hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "379": {
+        "question": "Mecklenburg-Vorpommern'de hükümet başkanına ne denir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "380": {
+        "question": "Mecklenburg-Vorpommern'de olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Mecklenburg-Vorpommern",
+        "category": "Anayasal Organlar"
+    },
+    "381": {
+        "question": "Bu arma hangi eyalete aittir? Aşağı Saksonya",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 3",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "382": {
+        "question": "Aşağıdakilerden hangisi Aşağı Saksonya'da bir ilçedir?",
+        "options": [
+            "Ammerland",
+            "Rhein-Sieg İlçesi",
+            "Nordfriesland",
+            "Vogtland İlçesi"
+        ],
+        "correctAnswer": "Ammerland",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "383": {
+        "question": "Aşağı Saksonya'da eyalet parlamentosu (Landtag) kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "384": {
+        "question": "Aşağı Saksonya'da yerel seçimlerde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "385": {
+        "question": "Aşağı Saksonya eyalet bayrağının renkleri nedir?",
+        "options": [
+            "beyaz-mavi",
+            "siyah-kırmızı-sarı",
+            "siyah-sarı",
+            "mavi-beyaz-kırmızı"
+        ],
+        "correctAnswer": "siyah-kırmızı-sarı",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "386": {
+        "question": "Aşağı Saksonya'da siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "Eyalet Siyasi Eğitim Merkezi'nden",
+            "kamu düzeni dairesinden",
+            "kamu düzeni dairesinden",
+            "kilise"
+        ],
+        "correctAnswer": "Eyalet Siyasi Eğitim Merkezi'nden",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "387": {
+        "question": "Aşağı Saksonya'nın başkenti …",
+        "options": [
+            "Hannover.",
+            "Braunschweig.",
+            "Wolfsburg.",
+            "Osnabrück."
+        ],
+        "correctAnswer": "Hannover.",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "388": {
+        "question": "Aşağı Saksonya hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "389": {
+        "question": "Aşağı Saksonya'da hükümet başkanına ne denir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "390": {
+        "question": "Aşağı Saksonya'da olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Aşağı Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "391": {
+        "question": "Bu arma hangi eyalete aittir? Kuzey Ren-Vestfalya",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 2",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "392": {
+        "question": "Aşağıdakilerden hangisi Kuzey Ren-Vestfalya'da bir ilçedir?",
+        "options": [
+            "Ammerland",
+            "Rhein-Sieg İlçesi",
+            "Nordfriesland",
+            "Vogtland İlçesi"
+        ],
+        "correctAnswer": "Rhein-Sieg İlçesi",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "393": {
+        "question": "Kuzey Ren-Vestfalya'da eyalet parlamentosu (Landtag) kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "394": {
+        "question": "Kuzey Ren-Vestfalya'da yerel seçimlerde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "395": {
+        "question": "Kuzey Ren-Vestfalya eyalet bayrağının renkleri nedir?",
+        "options": [
+            "kırmızı-beyaz",
+            "yeşil-beyaz-kırmızı",
+            "siyah-sarı",
+            "mavi-beyaz-kırmızı"
+        ],
+        "correctAnswer": "yeşil-beyaz-kırmızı",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "396": {
+        "question": "Kuzey Ren-Vestfalya'da siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "kilise",
+            "kamu düzeni dairesinden",
+            "tüketici danışma merkezinden",
+            "Eyalet Siyasi Eğitim Merkezi'nden"
+        ],
+        "correctAnswer": "Eyalet Siyasi Eğitim Merkezi'nden",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "397": {
+        "question": "Kuzey Ren-Vestfalya'nın başkenti …",
+        "options": [
+            "Köln.",
+            "Bonn.",
+            "Düsseldorf.",
+            "Dortmund."
+        ],
+        "correctAnswer": "Düsseldorf.",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "398": {
+        "question": "Kuzey Ren-Vestfalya hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "2",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "399": {
+        "question": "Kuzey Ren-Vestfalya'da hükümet başkanına ne denir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "400": {
+        "question": "Kuzey Ren-Vestfalya'da olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Kuzey Ren-Vestfalya",
+        "category": "Anayasal Organlar"
+    },
+    "401": {
+        "question": "Bu arma hangi eyalete aittir? Renanya-Pfalz",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 1",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "402": {
+        "question": "Aşağıdakilerden hangisi Renanya-Pfalz'da bir ilçedir?",
+        "options": [
+            "Westerwald İlçesi",
+            "Altötting",
+            "Emsland",
+            "Prignitz"
+        ],
+        "correctAnswer": "Westerwald İlçesi",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "403": {
+        "question": "Renanya-Pfalz'da eyalet parlamentosu kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "404": {
+        "question": "Renanya-Pfalz'da belediye seçimlerinde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "18",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "405": {
+        "question": "Renanya-Pfalz eyalet bayrağının renkleri nedir?",
+        "options": [
+            "beyaz-kırmızı",
+            "siyah-kırmızı-sarı",
+            "siyah-sarı",
+            "yeşil-beyaz-kırmızı"
+        ],
+        "correctAnswer": "siyah-kırmızı-sarı",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "406": {
+        "question": "Renanya-Pfalz'da siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "kilise",
+            "tüketici danışma merkezinden",
+            "belediye kamu düzeni dairesinden",
+            "Eyalet Vatandaşlık Eğitimi Ajansı'ndan"
+        ],
+        "correctAnswer": "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "407": {
+        "question": "Renanya-Pfalz'ın başkenti …",
+        "options": [
+            "Mainz.",
+            "Kaiserslautern.",
+            "Ludwigshafen.",
+            "Koblenz."
+        ],
+        "correctAnswer": "Mainz.",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "408": {
+        "question": "Renanya-Pfalz hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "409": {
+        "question": "Renanya-Pfalz'da hükümet başkanının unvanı nedir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "410": {
+        "question": "Renanya-Pfalz'da olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Renanya-Pfalz",
+        "category": "Anayasal Organlar"
+    },
+    "411": {
+        "question": "Bu arma hangi eyalete aittir? Saar",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 4",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "412": {
+        "question": "Aşağıdakilerden hangisi Saar'da bir ilçedir?",
+        "options": [
+            "Mecklenburg Göl Bölgesi",
+            "Altötting",
+            "Neunkirchen",
+            "Rhein-Sieg İlçesi"
+        ],
+        "correctAnswer": "Neunkirchen",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "413": {
+        "question": "Saar eyalet parlamentosu kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "414": {
+        "question": "Saar'da belediye seçimlerinde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "415": {
+        "question": "Saar eyalet bayrağının renkleri nedir?",
+        "options": [
+            "beyaz-mavi",
+            "siyah-kırmızı-sarı",
+            "siyah-sarı",
+            "yeşil-beyaz-kırmızı"
+        ],
+        "correctAnswer": "siyah-kırmızı-sarı",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "416": {
+        "question": "Saar'da siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "kilise",
+            "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+            "tüketici danışma merkezinden",
+            "belediye kamu düzeni dairesinden"
+        ],
+        "correctAnswer": "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "417": {
+        "question": "Saar'ın başkenti …",
+        "options": [
+            "Neunkirchen.",
+            "Homburg.",
+            "Saarbrücken.",
+            "Völklingen."
+        ],
+        "correctAnswer": "Saarbrücken.",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "418": {
+        "question": "Saar hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "2",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "419": {
+        "question": "Saar'da hükümet başkanının unvanı nedir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "420": {
+        "question": "Saar'da olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Saar",
+        "category": "Anayasal Organlar"
+    },
+    "421": {
+        "question": "Bu arma hangi eyalete aittir? Saksonya Özgür Devleti",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 4",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "422": {
+        "question": "Aşağıdakilerden hangisi Saksonya'da bir ilçedir?",
+        "options": [
+            "Vogtland İlçesi",
+            "Altötting",
+            "Uckermark",
+            "Nordfriesland"
+        ],
+        "correctAnswer": "Vogtland İlçesi",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "423": {
+        "question": "Saksonya'da eyalet parlamentosu kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "424": {
+        "question": "Saksonya'da belediye seçimlerinde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "18",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "425": {
+        "question": "Saksonya eyalet bayrağının renkleri nedir?",
+        "options": [
+            "mavi-beyaz-kırmızı",
+            "beyaz-yeşil",
+            "yeşil-beyaz-kırmızı",
+            "siyah-sarı"
+        ],
+        "correctAnswer": "beyaz-yeşil",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "426": {
+        "question": "Saksonya'da siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+            "belediye kamu düzeni dairesinden",
+            "kilise",
+            "tüketici danışma merkezinden"
+        ],
+        "correctAnswer": "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "427": {
+        "question": "Saksonya'nın başkenti …",
+        "options": [
+            "Leipzig.",
+            "Dresden.",
+            "Chemnitz.",
+            "Zwickau."
+        ],
+        "correctAnswer": "Dresden.",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "428": {
+        "question": "Saksonya hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "4",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "429": {
+        "question": "Saksonya'da hükümet başkanının unvanı nedir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "430": {
+        "question": "Saksonya'da olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Saksonya",
+        "category": "Anayasal Organlar"
+    },
+    "431": {
+        "question": "Bu arma hangi eyalete aittir? Saksonya-Anhalt",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 4",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "432": {
+        "question": "Aşağıdakilerden hangisi Saksonya-Anhalt'ta bir ilçedir?",
+        "options": [
+            "Ammerland",
+            "Altötting",
+            "Uckermark",
+            "Börde"
+        ],
+        "correctAnswer": "Börde",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "433": {
+        "question": "Saksonya-Anhalt'ta eyalet parlamentosu kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "434": {
+        "question": "Saksonya-Anhalt'ta belediye seçimlerinde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "435": {
+        "question": "Saksonya-Anhalt eyalet bayrağının renkleri nedir?",
+        "options": [
+            "mavi-beyaz-kırmızı",
+            "sarı-siyah",
+            "yeşil-beyaz-kırmızı",
+            "beyaz-kırmızı"
+        ],
+        "correctAnswer": "sarı-siyah",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "436": {
+        "question": "Saksonya-Anhalt'ta siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "kilise",
+            "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+            "belediye kamu düzeni dairesinden",
+            "tüketici danışma merkezinden"
+        ],
+        "correctAnswer": "Eyalet Vatandaşlık Eğitimi Ajansı'ndan",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "437": {
+        "question": "Saksonya-Anhalt'ın başkenti …",
+        "options": [
+            "Halle.",
+            "Dessau.",
+            "Magdeburg.",
+            "Wittenberg."
+        ],
+        "correctAnswer": "Magdeburg.",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "438": {
+        "question": "Saksonya-Anhalt hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "3",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "439": {
+        "question": "Saksonya-Anhalt'ta hükümet başkanının unvanı nedir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "440": {
+        "question": "Saksonya-Anhalt'ta olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Saksonya-Anhalt",
+        "category": "Anayasal Organlar"
+    },
+    "441": {
+        "question": "Bu arma hangi eyalete aittir? Schleswig-Holstein",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 3",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "442": {
+        "question": "Aşağıdakilerden hangisi Schleswig-Holstein'da bir ilçedir?",
+        "options": [
+            "Ammerland",
+            "Mecklenburg Göl Bölgesi",
+            "Nordfriesland",
+            "Rhein-Sieg İlçesi"
+        ],
+        "correctAnswer": "Nordfriesland",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "443": {
+        "question": "Schleswig-Holstein'da eyalet parlamentosu kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "444": {
+        "question": "Schleswig-Holstein'da belediye seçimlerinde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "445": {
+        "question": "Schleswig-Holstein eyalet bayrağının renkleri nedir?",
+        "options": [
+            "beyaz-mavi",
+            "mavi-beyaz-kırmızı",
+            "beyaz-kırmızı",
+            "yeşil-beyaz-kırmızı"
+        ],
+        "correctAnswer": "mavi-beyaz-kırmızı",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "446": {
+        "question": "Schleswig-Holstein'da siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "tüketici danışma merkezinden",
+            "belediye kamu düzeni dairesinden",
+            "Eyalet Vatandaşlık Eğitimi Komiseri'nden",
+            "kilise"
+        ],
+        "correctAnswer": "Eyalet Vatandaşlık Eğitimi Komiseri'nden",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "447": {
+        "question": "Schleswig-Holstein'ın başkenti …",
+        "options": [
+            "Husum.",
+            "Flensburg.",
+            "Lübeck.",
+            "Kiel."
+        ],
+        "correctAnswer": "Kiel.",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "448": {
+        "question": "Schleswig-Holstein hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "449": {
+        "question": "Schleswig-Holstein'da hükümet başkanının unvanı nedir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "450": {
+        "question": "Schleswig-Holstein'da olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Schleswig-Holstein",
+        "category": "Anayasal Organlar"
+    },
+    "451": {
+        "question": "Bu arma hangi eyalete aittir? Turingia Özgür Devleti",
+        "options": [
+            "Resim 1",
+            "Resim 2",
+            "Resim 3",
+            "Resim 4"
+        ],
+        "correctAnswer": "Resim 4",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    },
+    "452": {
+        "question": "Aşağıdakilerden hangisi Turingia'da bir ilçedir?",
+        "options": [
+            "Ammerland",
+            "Altötting",
+            "Nordfriesland",
+            "Wartburg İlçesi"
+        ],
+        "correctAnswer": "Wartburg İlçesi",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    },
+    "453": {
+        "question": "Turingia'da eyalet parlamentosu (Landtag) kaç yıllığına seçilir?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    },
+    "454": {
+        "question": "Turingia'da belediye seçimlerinde oy kullanmak için minimum yaş kaçtır?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    },
+    "455": {
+        "question": "Turingia eyalet bayrağının renkleri nedir?",
+        "options": [
+            "mavi-beyaz-kırmızı",
+            "beyaz-kırmızı",
+            "yeşil-beyaz-kırmızı",
+            "siyah-sarı"
+        ],
+        "correctAnswer": "beyaz-kırmızı",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    },
+    "456": {
+        "question": "Turingia'da siyasi konular hakkında bilgi nereden alınabilir?",
+        "options": [
+            "Kilise",
+            "Tüketici danışma merkezi",
+            "Eyalet Siyasi Eğitim Merkezi",
+            "Belediye kamu düzeni dairesi"
+        ],
+        "correctAnswer": "Eyalet Siyasi Eğitim Merkezi",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    },
+    "457": {
+        "question": "Turingia'nın başkenti … olarak adlandırılır",
+        "options": [
+            "Eisenach.",
+            "Erfurt.",
+            "Gera.",
+            "Jena."
+        ],
+        "correctAnswer": "Erfurt.",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    },
+    "458": {
+        "question": "Turingia hangi federal eyalettir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "2",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    },
+    "459": {
+        "question": "Turingia'da hükümet başkanının unvanı nedir?",
+        "options": [
+            "Başbakan",
+            "Premier",
+            "Belediye Başkanı",
+            "Eyalet Bakanı"
+        ],
+        "correctAnswer": "Eyalet Bakanı",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    },
+    "460": {
+        "question": "Turingia'da olmayan bakan hangisidir?",
+        "options": [
+            "Adalet Bakanı",
+            "Dışişleri Bakanı",
+            "Maliye Bakanı",
+            "İçişleri Bakanı"
+        ],
+        "correctAnswer": "Dışişleri Bakanı",
+        "state": "Turingia",
+        "category": "Anayasal Organlar"
+    }
+}

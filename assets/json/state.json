@@ -1,0 +1,66 @@
+[
+    {
+    "text": "Baden-Württemberg",
+    "image": "assets/images/states/bw.png"
+  },
+  {
+    "text": "Bayern",
+    "image": "assets/images/states/by.png"
+  },
+  {
+    "text": "Berlin",
+    "image": "assets/images/states/be.png"
+  },
+  {
+    "text": "Brandenburg",
+    "image": "assets/images/states/bb.png"
+  },
+  {
+    "text": "Bremen",
+    "image": "assets/images/states/hb.png"
+  },
+  {
+    "text": "Hamburg",
+    "image": "assets/images/states/hh.png"
+  },
+  {
+    "text": "Hessen",
+    "image": "assets/images/states/he.png"
+  },
+  {
+    "text": "Mecklenburg-Vorpommern",
+    "image": "assets/images/states/mv.png"
+  },
+  {
+    "text": "Niedersachsen",
+    "image": "assets/images/states/ni.png"
+  },
+  {
+    "text": "Nordrhein-Westfalen",
+    "image": "assets/images/states/nw.png"
+  },
+  {
+    "text": "Rheinland-Pfalz",
+    "image": "assets/images/states/rp.png"
+  },
+  {
+    "text": "Saarland",
+    "image": "assets/images/states/sl.png"
+  },
+  {
+    "text": "Sachsen",
+    "image": "assets/images/states/sn.png"
+  },
+  {
+    "text": "Sachsen-Anhalt",
+    "image": "assets/images/states/st.png"
+  },
+  {
+    "text": "Schleswig-Holstein",
+    "image": "assets/images/states/sh.png"
+  },
+  {
+    "text": "Thüringen",
+    "image": "assets/images/states/th.png"
+  }
+]

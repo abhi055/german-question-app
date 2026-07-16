@@ -1,0 +1,5170 @@
+{
+    "1": {
+        "question": "In Germania, le persone possono dire apertamente qualcosa contro il governo perché …",
+        "options": [
+            "qui si applica la libertà di religione.",
+            "le persone pagano le tasse.",
+            "le persone hanno il diritto di voto.",
+            "qui si applica la libertà di espressione."
+        ],
+        "correctAnswer": "qui si applica la libertà di espressione.",
+        "category": "Diritti fondamentali"
+    },
+    "2": {
+        "question": "In Germania, i genitori possono decidere fino al compimento dei 14 anni del figlio se il bambino partecipa alla lezione di ...",
+        "options": [
+            "storia.",
+            "educazione religiosa.",
+            "politica.",
+            "lingua."
+        ],
+        "correctAnswer": "educazione religiosa.",
+        "category": "Diritti fondamentali"
+    },
+    "3": {
+        "question": "La Germania è uno Stato di diritto costituzionale. Cosa significa questo?",
+        "options": [
+            "Tutti i residenti e lo Stato devono rispettare le leggi.",
+            "Lo Stato non deve rispettare le leggi.",
+            "Solo i tedeschi devono rispettare le leggi.",
+            "I tribunali fanno le leggi."
+        ],
+        "correctAnswer": "Tutti i residenti e lo Stato devono rispettare le leggi.",
+        "category": "Principi costituzionali"
+    },
+    "4": {
+        "question": "Quale diritto fa parte dei diritti fondamentali in Germania?",
+        "options": [
+            "possesso di armi",
+            "il diritto del più forte",
+            "libertà di espressione",
+            "giustizia privata"
+        ],
+        "correctAnswer": "libertà di espressione",
+        "category": "Diritti fondamentali"
+    },
+    "5": {
+        "question": "Le elezioni in Germania sono libere. Cosa significa?",
+        "options": [
+            "Si può accettare denaro se si vota per un candidato specifico.",
+            "Solo le persone che non sono mai state in prigione possono votare.",
+            "Gli elettori non devono essere influenzati o costretti a votare in un certo modo e non devono subire svantaggi a causa del loro voto.",
+            "Tutte le persone aventi diritto devono votare."
+        ],
+        "correctAnswer": "Gli elettori non devono essere influenzati o costretti a votare in un certo modo e non devono subire svantaggi a causa del loro voto.",
+        "category": "Elezioni e partecipazione"
+    },
+    "6": {
+        "question": "Come si chiama la costituzione tedesca?",
+        "options": [
+            "Legge del popolo",
+            "Legge federale",
+            "Legge tedesca",
+            "Legge fondamentale"
+        ],
+        "correctAnswer": "Legge fondamentale",
+        "category": "Principi costituzionali"
+    },
+    "7": {
+        "question": "Quale diritto fa parte dei diritti fondamentali garantiti dalla costituzione tedesca? Il diritto alla …",
+        "options": [
+            "libertà di fede e di coscienza",
+            "divertimento",
+            "lavoro",
+            "alloggio"
+        ],
+        "correctAnswer": "libertà di fede e di coscienza",
+        "category": "Diritti fondamentali"
+    },
+    "8": {
+        "question": "Cosa NON è previsto nella Legge fondamentale della Germania?",
+        "options": [
+            "La dignità umana è inviolabile.",
+            "Tutti dovrebbero avere la stessa quantità di denaro.",
+            "Tutti possono esprimere la propria opinione.",
+            "Tutti sono uguali davanti alla legge."
+        ],
+        "correctAnswer": "Tutti dovrebbero avere la stessa quantità di denaro.",
+        "category": "Diritti fondamentali"
+    },
+    "9": {
+        "question": "Quale diritto fondamentale in Germania si applica solo agli stranieri? Il diritto fondamentale all’ …",
+        "options": [
+            "protezione della famiglia",
+            "dignità umana",
+            "asilo",
+            "libertà di espressione"
+        ],
+        "correctAnswer": "asilo",
+        "category": "Diritti fondamentali"
+    },
+    "10": {
+        "question": "Cosa è compatibile con la Legge fondamentale tedesca?",
+        "options": [
+            "punizioni corporali",
+            "tortura",
+            "pena di morte",
+            "una multa pecuniaria"
+        ],
+        "correctAnswer": "una multa pecuniaria",
+        "category": "Diritti fondamentali"
+    },
+    "11": {
+        "question": "Come si chiama la costituzione della Repubblica Federale di Germania?",
+        "options": [
+            "Legge fondamentale",
+            "Costituzione federale",
+            "Codice di legge",
+            "Trattato costituzionale"
+        ],
+        "correctAnswer": "Legge fondamentale",
+        "category": "Principi costituzionali"
+    },
+    "12": {
+        "question": "Un partito nel Bundestag tedesco vuole abolire la libertà di stampa. È possibile?",
+        "options": [
+            "Sì, se più della metà dei membri del Bundestag è d'accordo.",
+            "Sì, ma i due terzi dei membri del Bundestag devono essere d'accordo.",
+            "No, perché la libertà di stampa è un diritto fondamentale. Non può essere abolita.",
+            "No, perché solo il Bundesrat può abolire la libertà di stampa."
+        ],
+        "correctAnswer": "No, perché la libertà di stampa è un diritto fondamentale. Non può essere abolita.",
+        "category": "Diritti fondamentali"
+    },
+    "13": {
+        "question": "In parlamento, il termine \"opposizione\" si riferisce a …",
+        "options": [
+            "i partiti di governo.",
+            "il gruppo parlamentare con il maggior numero di membri.",
+            "tutti i partiti che hanno superato la soglia del 5% nelle ultime elezioni.",
+            "tutti i membri del parlamento che non appartengono al(i) partito(i) di governo."
+        ],
+        "correctAnswer": "tutti i membri del parlamento che non appartengono al(i) partito(i) di governo.",
+        "category": "Organi costituzionali"
+    },
+    "14": {
+        "question": "La libertà di espressione in Germania significa che io …",
+        "options": [
+            "posso insultare i passanti per strada.",
+            "posso esprimere la mia opinione nelle lettere al direttore.",
+            "posso indossare pubblicamente simboli nazisti, di Hamas o dello Stato Islamico.",
+            "posso esprimere la mia opinione solo se non contraddico il governo."
+        ],
+        "correctAnswer": "posso esprimere la mia opinione nelle lettere al direttore.",
+        "category": "Diritti fondamentali"
+    },
+    "15": {
+        "question": "Cosa proibisce la Legge fondamentale tedesca?",
+        "options": [
+            "il servizio militare",
+            "il lavoro forzato",
+            "la libera scelta della professione",
+            "lavorare all'estero"
+        ],
+        "correctAnswer": "il lavoro forzato",
+        "category": "Diritti fondamentali"
+    },
+    "16": {
+        "question": "Quando è limitata la libertà di espressione in Germania?",
+        "options": [
+            "quando si diffondono pubblicamente affermazioni false su persone",
+            "quando si esprimono opinioni sul governo federale",
+            "durante discussioni sulle religioni",
+            "quando si critica lo Stato"
+        ],
+        "correctAnswer": "quando si diffondono pubblicamente affermazioni false su persone",
+        "category": "Diritti fondamentali"
+    },
+    "17": {
+        "question": "Le leggi tedesche vietano …",
+        "options": [
+            "la libertà di espressione dei residenti.",
+            "le petizioni dei cittadini.",
+            "la libertà di riunione dei residenti.",
+            "il trattamento ineguale dei cittadini da parte dello Stato."
+        ],
+        "correctAnswer": "il trattamento ineguale dei cittadini da parte dello Stato.",
+        "category": "Diritti fondamentali"
+    },
+    "18": {
+        "question": "Quale diritto fondamentale è garantito dall'articolo 1 della Legge fondamentale della Repubblica Federale di Germania?",
+        "options": [
+            "l'inviolabilità della dignità umana",
+            "il diritto alla vita",
+            "la libertà di religione",
+            "la libertà di espressione"
+        ],
+        "correctAnswer": "l'inviolabilità della dignità umana",
+        "category": "Diritti fondamentali"
+    },
+    "19": {
+        "question": "Cosa si intende per diritto di \"libertà di circolazione\" in Germania?",
+        "options": [
+            "Si può scegliere il proprio luogo di residenza.",
+            "Si può cambiare professione.",
+            "Si può scegliere una religione diversa.",
+            "Si può circolare in pubblico con abbigliamento leggero."
+        ],
+        "correctAnswer": "Si può scegliere il proprio luogo di residenza.",
+        "category": "Diritti fondamentali"
+    },
+    "20": {
+        "question": "Un partito in Germania mira a stabilire una dittatura. È quindi …",
+        "options": [
+            "tollerante.",
+            "orientato allo Stato di diritto.",
+            "rispettoso della legge.",
+            "incostituzionale."
+        ],
+        "correctAnswer": "incostituzionale.",
+        "category": "Organi costituzionali"
+    },
+    "21": {
+        "question": "Qual è lo stemma della Repubblica Federale di Germania?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 1",
+        "state": "Aquila federale",
+        "category": "Simboli nazionali"
+    },
+    "22": {
+        "question": "Che forma di governo ha la Germania?",
+        "options": [
+            "Monarchia",
+            "Dittatura",
+            "Repubblica",
+            "Principato"
+        ],
+        "correctAnswer": "Repubblica",
+        "category": "Principi costituzionali"
+    },
+    "23": {
+        "question": "In Germania, la maggior parte delle persone occupate è …",
+        "options": [
+            "impiegata in piccole imprese familiari.",
+            "lavora volontariamente per un Land.",
+            "autonoma con la propria azienda.",
+            "impiegata presso un'azienda o un'autorità pubblica."
+        ],
+        "correctAnswer": "impiegata presso un'azienda o un'autorità pubblica.",
+        "category": "Sistema sociale"
+    },
+    "24": {
+        "question": "Quanti Länder (stati federati) ha la Repubblica Federale di Germania?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "correctAnswer": "16",
+        "category": "Federalismo"
+    },
+    "25": {
+        "question": "Quale NON è un Land della Repubblica Federale di Germania?",
+        "options": [
+            "Alsazia-Lorena",
+            "Renania Settentrionale-Vestfalia",
+            "Meclemburgo-Pomerania Anteriore",
+            "Sassonia-Anhalt"
+        ],
+        "correctAnswer": "Alsazia-Lorena",
+        "category": "Federalismo"
+    },
+    "26": {
+        "question": "La Germania è …",
+        "options": [
+            "una repubblica comunista.",
+            "uno Stato federale democratico e sociale.",
+            "una monarchia capitalista e sociale.",
+            "uno Stato federale sociale e socialista."
+        ],
+        "correctAnswer": "uno Stato federale democratico e sociale.",
+        "category": "Principi costituzionali"
+    },
+    "27": {
+        "question": "La Germania è …",
+        "options": [
+            "uno Stato socialista.",
+            "uno Stato federale.",
+            "una dittatura.",
+            "una monarchia."
+        ],
+        "correctAnswer": "uno Stato federale.",
+        "category": "Principi costituzionali"
+    },
+    "28": {
+        "question": "Chi elegge i membri del Bundestag in Germania?",
+        "options": [
+            "l'esercito",
+            "il settore economico",
+            "gli elettori aventi diritto",
+            "l'amministrazione"
+        ],
+        "correctAnswer": "gli elettori aventi diritto",
+        "category": "Organi costituzionali"
+    },
+    "29": {
+        "question": "Quale animale è l'animale araldico della Repubblica Federale di Germania?",
+        "options": [
+            "Leone",
+            "Aquila",
+            "Orso",
+            "Cavallo"
+        ],
+        "correctAnswer": "Aquila",
+        "category": "Simboli nazionali"
+    },
+    "30": {
+        "question": "Quale NON è una caratteristica della nostra democrazia?",
+        "options": [
+            "elezioni regolari",
+            "censura della stampa",
+            "libertà di espressione",
+            "diversi partiti politici"
+        ],
+        "correctAnswer": "censura della stampa",
+        "category": "Principi costituzionali"
+    },
+    "31": {
+        "question": "La cooperazione tra partiti per formare un governo in Germania si chiama …",
+        "options": [
+            "unità",
+            "coalizione",
+            "ministero",
+            "gruppo parlamentare"
+        ],
+        "correctAnswer": "coalizione",
+        "category": "Organi costituzionali"
+    },
+    "32": {
+        "question": "Quale NON è un potere dello Stato in Germania?",
+        "options": [
+            "legislazione",
+            "governo",
+            "stampa",
+            "giudiziario"
+        ],
+        "correctAnswer": "stampa",
+        "category": "Principi costituzionali"
+    },
+    "33": {
+        "question": "Quale affermazione è corretta? In Germania …",
+        "options": [
+            "lo Stato e le comunità religiose sono separati tra loro.",
+            "le comunità religiose formano lo Stato.",
+            "lo Stato dipende dalle comunità religiose.",
+            "lo Stato e le comunità religiose formano un'unità."
+        ],
+        "correctAnswer": "lo Stato e le comunità religiose sono separati tra loro.",
+        "category": "Diversità religiosa"
+    },
+    "34": {
+        "question": "La Germania NON è …",
+        "options": [
+            "una democrazia",
+            "uno Stato di diritto costituzionale",
+            "una monarchia",
+            "uno Stato sociale"
+        ],
+        "correctAnswer": "una monarchia",
+        "category": "Principi costituzionali"
+    },
+    "35": {
+        "question": "Come finanzia lo Stato tedesco l'assicurazione sociale?",
+        "options": [
+            "tassa ecclesiastica",
+            "contributi di sicurezza sociale",
+            "donazioni",
+            "quote associative"
+        ],
+        "correctAnswer": "contributi di sicurezza sociale",
+        "category": "Sistema sociale"
+    },
+    "36": {
+        "question": "Quale misura fornisce sicurezza sociale in Germania?",
+        "options": [
+            "assicurazione sanitaria",
+            "assicurazione auto",
+            "assicurazione casa",
+            "assicurazione responsabilità civile"
+        ],
+        "correctAnswer": "assicurazione sanitaria",
+        "category": "Sistema sociale"
+    },
+    "37": {
+        "question": "Come si chiamano i capi di governo della maggior parte dei Länder tedeschi?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Senatore",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "category": "Federalismo"
+    },
+    "38": {
+        "question": "La Repubblica Federale di Germania è uno Stato federale democratico e sociale …",
+        "options": [
+            "confederazione di Stati",
+            "Stato federale",
+            "alleanza di Stati",
+            "Stato centralizzato"
+        ],
+        "correctAnswer": "Stato federale",
+        "category": "Federalismo"
+    },
+    "39": {
+        "question": "Cosa ha ogni Land tedesco?",
+        "options": [
+            "il proprio ministro degli Esteri",
+            "la propria valuta",
+            "il proprio esercito",
+            "il proprio governo"
+        ],
+        "correctAnswer": "il proprio governo",
+        "category": "Federalismo"
+    },
+    "40": {
+        "question": "Con quali parole inizia l'inno nazionale tedesco?",
+        "options": [
+            "Popoli, ascoltate i segnali …",
+            "Unità e Giustizia e Libertà …",
+            "Gioia, bella scintilla degli dei …",
+            "Germania, patria unita …"
+        ],
+        "correctAnswer": "Unità e Giustizia e Libertà …",
+        "category": "Simboli nazionali"
+    },
+    "41": {
+        "question": "Perché in una democrazia esiste più di un partito?",
+        "options": [
+            "perché permette di rappresentare le diverse opinioni dei cittadini",
+            "per limitare la corruzione in politica",
+            "per impedire le manifestazioni politiche",
+            "per stimolare la concorrenza economica"
+        ],
+        "correctAnswer": "perché permette di rappresentare le diverse opinioni dei cittadini",
+        "category": "Principi costituzionali"
+    },
+    "42": {
+        "question": "Chi approva una nuova legge in Germania?",
+        "options": [
+            "il governo",
+            "il parlamento",
+            "i tribunali",
+            "la polizia"
+        ],
+        "correctAnswer": "il parlamento",
+        "category": "Organi costituzionali"
+    },
+    "43": {
+        "question": "Quando può essere vietato un partito politico in Germania?",
+        "options": [
+            "se la sua campagna elettorale è troppo costosa",
+            "se combatte contro la costituzione",
+            "se critica il capo dello Stato",
+            "se il suo programma propone una nuova direzione"
+        ],
+        "correctAnswer": "se combatte contro la costituzione",
+        "category": "Organi costituzionali"
+    },
+    "44": {
+        "question": "Quale carica i cittadini in Germania NON possono eleggere direttamente?",
+        "options": [
+            "i membri del Parlamento europeo",
+            "il Presidente federale",
+            "i membri di un parlamento regionale",
+            "i membri del Bundestag"
+        ],
+        "correctAnswer": "il Presidente federale",
+        "category": "Organi costituzionali"
+    },
+    "45": {
+        "question": "L'assicurazione per l'assistenza a lungo termine appartiene a quale tipo di assicurazione?",
+        "options": [
+            "assicurazione sociale",
+            "assicurazione infortuni",
+            "assicurazione domestica",
+            "assicurazione responsabilità e incendio"
+        ],
+        "correctAnswer": "assicurazione sociale",
+        "category": "Sistema sociale"
+    },
+    "46": {
+        "question": "Lo Stato tedesco ha molte responsabilità. Quale delle seguenti ne fa parte?",
+        "options": [
+            "Costruisce strade e scuole.",
+            "Vende cibo e vestiti.",
+            "Fornisce a tutti i residenti giornali gratuiti.",
+            "Produce auto e autobus."
+        ],
+        "correctAnswer": "Costruisce strade e scuole.",
+        "category": "Compiti dello Stato"
+    },
+    "47": {
+        "question": "Lo Stato tedesco ha molte responsabilità. Quale delle seguenti NON ne fa parte?",
+        "options": [
+            "Paga viaggi di vacanza per tutti i cittadini.",
+            "Eroga gli assegni familiari.",
+            "Sostiene i musei.",
+            "Promuove gli atleti."
+        ],
+        "correctAnswer": "Paga viaggi di vacanza per tutti i cittadini.",
+        "category": "Compiti dello Stato"
+    },
+    "48": {
+        "question": "Quale organo NON è un organo costituzionale della Germania?",
+        "options": [
+            "il Consiglio federale (Bundesrat)",
+            "il Presidente federale",
+            "l'assemblea dei cittadini",
+            "il governo"
+        ],
+        "correctAnswer": "l'assemblea dei cittadini",
+        "category": "Organi costituzionali"
+    },
+    "49": {
+        "question": "Chi determina la politica scolastica in Germania?",
+        "options": [
+            "gli insegnanti",
+            "i Länder",
+            "il Ministero della Famiglia",
+            "le università"
+        ],
+        "correctAnswer": "i Länder",
+        "category": "Federalismo"
+    },
+    "50": {
+        "question": "Il sistema economico in Germania si chiama …",
+        "options": [
+            "economia centrale libera.",
+            "economia sociale di mercato.",
+            "economia centrale controllata.",
+            "economia pianificata."
+        ],
+        "correctAnswer": "economia sociale di mercato.",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "51": {
+        "question": "NON fa parte di uno Stato costituzionale democratico che …",
+        "options": [
+            "le persone possono criticare il governo.",
+            "i cittadini possono manifestare pacificamente.",
+            "le persone vengono arrestate senza motivo da una polizia privata.",
+            "qualcuno commette un reato e viene quindi arrestato."
+        ],
+        "correctAnswer": "le persone vengono arrestate senza motivo da una polizia privata.",
+        "category": "Principi costituzionali"
+    },
+    "52": {
+        "question": "Cosa significa \"sovranità popolare\"? Ogni autorità statale deriva dal …",
+        "options": [
+            "popolo.",
+            "Bundestag.",
+            "re di Prussia.",
+            "Corte costituzionale federale."
+        ],
+        "correctAnswer": "popolo.",
+        "category": "Principi costituzionali"
+    },
+    "53": {
+        "question": "Cosa significa \"Stato di diritto costituzionale\" in Germania?",
+        "options": [
+            "Lo Stato ha sempre ragione.",
+            "Esistono solo partiti di destra.",
+            "I cittadini decidono le leggi.",
+            "Lo Stato deve rispettare la legge."
+        ],
+        "correctAnswer": "Lo Stato deve rispettare la legge.",
+        "category": "Principi costituzionali"
+    },
+    "54": {
+        "question": "Quale NON è un potere dello Stato in Germania?",
+        "options": [
+            "Legislativo",
+            "Giudiziario",
+            "Esecutivo",
+            "Direttivo"
+        ],
+        "correctAnswer": "Direttivo",
+        "category": "Principi costituzionali"
+    },
+    "55": {
+        "question": "Cosa mostra questa immagine?",
+        "options": [
+            "la sede del Bundestag a Berlino",
+            "la Corte costituzionale federale a Karlsruhe",
+            "l'edificio del Bundesrat a Berlino",
+            "la Cancelleria federale a Berlino"
+        ],
+        "correctAnswer": "la sede del Bundestag a Berlino",
+        "category": "Organi costituzionali"
+    },
+    "56": {
+        "question": "Quale ufficio appartiene all'amministrazione comunale in Germania?",
+        "options": [
+            "ufficio parrocchiale",
+            "ufficio dell'ordine pubblico",
+            "ufficio delle imposte",
+            "ufficio degli affari esteri"
+        ],
+        "correctAnswer": "ufficio dell'ordine pubblico",
+        "category": "Comune"
+    },
+    "57": {
+        "question": "Chi viene solitamente eletto Presidente del Bundestag tedesco?",
+        "options": [
+            "il membro più anziano del parlamento",
+            "il Ministro-presidente del Land più grande",
+            "un ex Cancelliere federale",
+            "un membro del gruppo parlamentare più forte"
+        ],
+        "correctAnswer": "un membro del gruppo parlamentare più forte",
+        "category": "Organi costituzionali"
+    },
+    "58": {
+        "question": "Chi nomina i ministri federali in Germania?",
+        "options": [
+            "il Presidente della Corte costituzionale federale",
+            "il Presidente federale",
+            "il Presidente del Bundesrat",
+            "il Presidente del Bundestag"
+        ],
+        "correctAnswer": "il Presidente federale",
+        "category": "Organi costituzionali"
+    },
+    "59": {
+        "question": "Quanti anni fa esisteva per la prima volta una comunità ebraica sul territorio dell'attuale Germania?",
+        "options": [
+            "circa 300 anni fa",
+            "circa 700 anni fa",
+            "circa 1150 anni fa",
+            "circa 1700 anni fa"
+        ],
+        "correctAnswer": "circa 1700 anni fa",
+        "category": "Storia della migrazione"
+    },
+    "60": {
+        "question": "In Germania, il Bundestag e il Bundesrat fanno parte del …",
+        "options": [
+            "potere esecutivo.",
+            "potere legislativo.",
+            "potere direttivo.",
+            "potere giudiziario."
+        ],
+        "correctAnswer": "potere legislativo.",
+        "category": "Principi costituzionali"
+    },
+    "61": {
+        "question": "Cosa significa \"sovranità popolare\"?",
+        "options": [
+            "La regina/il re governa sul popolo.",
+            "La Corte costituzionale federale è al di sopra della costituzione.",
+            "I gruppi di interesse esercitano la sovranità insieme al governo.",
+            "L'autorità statale deriva dal popolo."
+        ],
+        "correctAnswer": "L'autorità statale deriva dal popolo.",
+        "category": "Principi costituzionali"
+    },
+    "62": {
+        "question": "Quando si elegge il parlamento di un Land tedesco, si parla di …",
+        "options": [
+            "elezione comunale",
+            "elezione del parlamento regionale",
+            "elezione europea",
+            "elezione federale"
+        ],
+        "correctAnswer": "elezione del parlamento regionale",
+        "category": "Elezioni e partecipazione"
+    },
+    "63": {
+        "question": "Quale NON appartiene al potere esecutivo in Germania?",
+        "options": [
+            "la polizia",
+            "i tribunali",
+            "l'ufficio delle imposte",
+            "i ministeri"
+        ],
+        "correctAnswer": "i tribunali",
+        "category": "Principi costituzionali"
+    },
+    "64": {
+        "question": "Oggi la Repubblica Federale di Germania è divisa in …",
+        "options": [
+            "quattro zone di occupazione.",
+            "uno Stato orientale e uno occidentale.",
+            "16 cantoni.",
+            "governo federale, Länder e comuni."
+        ],
+        "correctAnswer": "governo federale, Länder e comuni.",
+        "category": "Federalismo"
+    },
+    "65": {
+        "question": "NON fa parte dei compiti del Bundestag tedesco …",
+        "options": [
+            "redigere leggi.",
+            "controllare il governo federale.",
+            "eleggere il Cancelliere federale.",
+            "formare il Gabinetto federale."
+        ],
+        "correctAnswer": "formare il Gabinetto federale.",
+        "category": "Organi costituzionali"
+    },
+    "66": {
+        "question": "Quali città hanno le comunità ebraiche più grandi in Germania?",
+        "options": [
+            "Berlino e Monaco",
+            "Amburgo e Essen",
+            "Norimberga e Stoccarda",
+            "Worms e Spira"
+        ],
+        "correctAnswer": "Berlino e Monaco",
+        "category": "Convivenza interculturale"
+    },
+    "67": {
+        "question": "In Germania, quale settore politico è principalmente di competenza dei Länder?",
+        "options": [
+            "politica di difesa",
+            "politica estera",
+            "politica economica",
+            "politica scolastica"
+        ],
+        "correctAnswer": "politica scolastica",
+        "category": "Federalismo"
+    },
+    "68": {
+        "question": "Perché lo Stato controlla il sistema scolastico in Germania?",
+        "options": [
+            "perché in Germania ci sono solo scuole statali",
+            "perché tutti gli studenti devono ottenere un diploma scolastico",
+            "perché ci sono diversi tipi di scuole nei Länder",
+            "perché è suo dovere secondo la Legge fondamentale"
+        ],
+        "correctAnswer": "perché è suo dovere secondo la Legge fondamentale",
+        "category": "Compiti dello Stato"
+    },
+    "69": {
+        "question": "La Repubblica Federale di Germania ha una struttura amministrativa a tre livelli. Come si chiama il livello politico più basso?",
+        "options": [
+            "consigli comunali",
+            "amministratori di distretto",
+            "comuni",
+            "uffici di distretto"
+        ],
+        "correctAnswer": "comuni",
+        "category": "Comune"
+    },
+    "70": {
+        "question": "Uno dei compiti del Presidente federale tedesco è …",
+        "options": [
+            "dirigere il governo.",
+            "controllare il partito di governo.",
+            "selezionare i ministri.",
+            "proporre il Cancelliere per l'elezione."
+        ],
+        "correctAnswer": "proporre il Cancelliere per l'elezione.",
+        "category": "Organi costituzionali"
+    },
+    "71": {
+        "question": "Dove trascorre la maggior parte del tempo il Cancelliere federale tedesco?",
+        "options": [
+            "a Bonn",
+            "al palazzo di Meseberg",
+            "al palazzo di Bellevue",
+            "a Berlino"
+        ],
+        "correctAnswer": "a Berlino",
+        "category": "Organi costituzionali"
+    },
+    "72": {
+        "question": "Chi è l'attuale Cancelliere federale della Germania?",
+        "options": [
+            "Gerhard Schröder",
+            "Angela Merkel",
+            "Franziska Giffey",
+            "Olaf Scholz"
+        ],
+        "correctAnswer": "Olaf Scholz",
+        "category": "Organi costituzionali"
+    },
+    "73": {
+        "question": "I due gruppi parlamentari più grandi nel Bundestag tedesco sono attualmente …",
+        "options": [
+            "CDU/CSU e SPD.",
+            "Die Linke e Alleanza 90/I Verdi.",
+            "FDP e SPD.",
+            "Die Linke e FDP."
+        ],
+        "correctAnswer": "CDU/CSU e SPD.",
+        "category": "Partiti politici"
+    },
+    "74": {
+        "question": "Come si chiama il parlamento di tutta la Germania?",
+        "options": [
+            "Assemblea federale",
+            "Camera del popolo",
+            "Bundestag",
+            "Corte federale di giustizia"
+        ],
+        "correctAnswer": "Bundestag",
+        "category": "Organi costituzionali"
+    },
+    "75": {
+        "question": "Come si chiama l'attuale capo di Stato della Germania?",
+        "options": [
+            "Frank-Walter Steinmeier",
+            "Bärbel Bas",
+            "Bodo Ramelow",
+            "Joachim Gauck"
+        ],
+        "correctAnswer": "Frank-Walter Steinmeier",
+        "category": "Organi costituzionali"
+    },
+    "76": {
+        "question": "Cosa significa l'abbreviazione CDU?",
+        "options": [
+            "Unione cristiana tedesca",
+            "Club degli imprenditori tedeschi",
+            "Protezione ambientale cristiana tedesca",
+            "Unione cristiano-democratica"
+        ],
+        "correctAnswer": "Unione cristiano-democratica",
+        "category": "Partiti politici"
+    },
+    "77": {
+        "question": "Cos'è la Bundeswehr?",
+        "options": [
+            "la polizia tedesca",
+            "un porto tedesco",
+            "un'iniziativa cittadina tedesca",
+            "l'esercito tedesco"
+        ],
+        "correctAnswer": "l'esercito tedesco",
+        "category": "Compiti dello Stato"
+    },
+    "78": {
+        "question": "Cosa significa l'abbreviazione SPD?",
+        "options": [
+            "Partito socialista di Germania",
+            "Partito politico sociale di Germania",
+            "Partito socialdemocratico di Germania",
+            "Partito della giustizia sociale di Germania"
+        ],
+        "correctAnswer": "Partito socialdemocratico di Germania",
+        "category": "Partiti politici"
+    },
+    "79": {
+        "question": "Cosa significa l'abbreviazione FDP?",
+        "options": [
+            "Partito pacifico dimostrativo",
+            "Partito libero di Germania",
+            "Partito democratico guida",
+            "Partito liberaldemocratico"
+        ],
+        "correctAnswer": "Partito liberaldemocratico",
+        "category": "Partiti politici"
+    },
+    "80": {
+        "question": "Quale tribunale in Germania è responsabile dell'interpretazione della Legge fondamentale?",
+        "options": [
+            "Tribunale regionale superiore",
+            "Tribunale locale",
+            "Corte costituzionale federale",
+            "Tribunale amministrativo"
+        ],
+        "correctAnswer": "Corte costituzionale federale",
+        "category": "Organi costituzionali"
+    },
+    "81": {
+        "question": "Chi elegge il Cancelliere federale in Germania?",
+        "options": [
+            "il Bundesrat",
+            "l'Assemblea federale",
+            "il popolo",
+            "il Bundestag"
+        ],
+        "correctAnswer": "il Bundestag",
+        "category": "Organi costituzionali"
+    },
+    "82": {
+        "question": "Chi dirige il Gabinetto federale tedesco?",
+        "options": [
+            "il Presidente del Bundestag",
+            "il Presidente federale",
+            "il Presidente del Bundesrat",
+            "il Cancelliere federale"
+        ],
+        "correctAnswer": "il Cancelliere federale",
+        "category": "Organi costituzionali"
+    },
+    "83": {
+        "question": "Chi elegge il Cancelliere federale tedesco?",
+        "options": [
+            "il popolo",
+            "l'Assemblea federale",
+            "il Bundestag",
+            "il Governo federale"
+        ],
+        "correctAnswer": "il Bundestag",
+        "category": "Organi costituzionali"
+    },
+    "84": {
+        "question": "Qual è il compito principale del Presidente federale tedesco?",
+        "options": [
+            "governare il paese",
+            "redigere leggi",
+            "rappresentare il paese",
+            "controllare il rispetto delle leggi"
+        ],
+        "correctAnswer": "rappresentare il paese",
+        "category": "Organi costituzionali"
+    },
+    "85": {
+        "question": "Chi forma il Bundesrat tedesco?",
+        "options": [
+            "i membri del Bundestag",
+            "i ministri federali",
+            "i rappresentanti dei governi dei Länder",
+            "i membri dei partiti"
+        ],
+        "correctAnswer": "i rappresentanti dei governi dei Länder",
+        "category": "Organi costituzionali"
+    },
+    "86": {
+        "question": "Chi elegge il Presidente federale in Germania?",
+        "options": [
+            "l'Assemblea federale",
+            "il Bundesrat",
+            "il Parlamento federale",
+            "la Corte costituzionale federale"
+        ],
+        "correctAnswer": "l'Assemblea federale",
+        "category": "Organi costituzionali"
+    },
+    "87": {
+        "question": "Chi è il capo di Stato della Repubblica Federale di Germania?",
+        "options": [
+            "il Cancelliere federale",
+            "il Presidente federale",
+            "il Presidente del Bundesrat",
+            "il Presidente del Bundestag"
+        ],
+        "correctAnswer": "il Presidente federale",
+        "category": "Organi costituzionali"
+    },
+    "88": {
+        "question": "L'opposizione parlamentare nel Bundestag tedesco …",
+        "options": [
+            "controlla il governo.",
+            "decide chi diventa ministro federale.",
+            "determina chi siede nel Bundesrat.",
+            "propone i capi di governo dei Länder."
+        ],
+        "correctAnswer": "controlla il governo.",
+        "category": "Organi costituzionali"
+    },
+    "89": {
+        "question": "Come si chiama in Germania l'associazione dei membri di un partito in parlamento?",
+        "options": [
+            "associazione",
+            "consiglio degli anziani",
+            "gruppo parlamentare",
+            "opposizione"
+        ],
+        "correctAnswer": "gruppo parlamentare",
+        "category": "Organi costituzionali"
+    },
+    "90": {
+        "question": "I Länder tedeschi partecipano alla legislazione federale tramite il …",
+        "options": [
+            "Bundesrat.",
+            "Assemblea federale.",
+            "Bundestag.",
+            "Governo federale."
+        ],
+        "correctAnswer": "Bundesrat.",
+        "category": "Organi costituzionali"
+    },
+    "91": {
+        "question": "In Germania, un cambio di governo in un Land può avere effetti sulla politica federale. Governare diventa …",
+        "options": [
+            "più difficile se questo cambia la maggioranza nel Bundestag.",
+            "più facile se nuovi partiti entrano nel Bundesrat.",
+            "più difficile se questo cambia la maggioranza nel Bundesrat.",
+            "più facile se si tratta di un Land ricco."
+        ],
+        "correctAnswer": "più difficile se questo cambia la maggioranza nel Bundesrat.",
+        "category": "Organi costituzionali"
+    },
+    "92": {
+        "question": "Cosa significa l'abbreviazione CSU in Germania?",
+        "options": [
+            "Unione cristiana sicura",
+            "Unione cristiana della Germania meridionale",
+            "Associazione degli imprenditori sociali cristiani",
+            "Unione sociale cristiana"
+        ],
+        "correctAnswer": "Unione sociale cristiana",
+        "category": "Partiti politici"
+    },
+    "93": {
+        "question": "Più seconde voci (\"Zweitstimmen\") riceve un partito nelle elezioni del Bundestag, …",
+        "options": [
+            "meno prime voci può avere.",
+            "più candidati diretti del partito entrano in parlamento.",
+            "maggiore è il rischio di dover formare una coalizione.",
+            "più seggi il partito riceve in parlamento."
+        ],
+        "correctAnswer": "più seggi il partito riceve in parlamento.",
+        "category": "Elezioni e partecipazione"
+    },
+    "94": {
+        "question": "Da quale età si può partecipare alle elezioni del Bundestag tedesco?",
+        "options": [
+            "16 anni",
+            "18 anni",
+            "21 anni",
+            "23 anni"
+        ],
+        "correctAnswer": "18 anni",
+        "category": "Elezioni e partecipazione"
+    },
+    "95": {
+        "question": "Cosa vale per la maggior parte dei bambini in Germania?",
+        "options": [
+            "voto obbligatorio",
+            "scolarizzazione obbligatoria",
+            "obbligo di riservatezza",
+            "religione obbligatoria"
+        ],
+        "correctAnswer": "scolarizzazione obbligatoria",
+        "category": "Doveri"
+    },
+    "96": {
+        "question": "Come può essere punito chi nega l'Olocausto?",
+        "options": [
+            "riduzione dei benefici sociali",
+            "fino a 100 ore di lavoro socialmente utile",
+            "per niente, la negazione dell'Olocausto è permessa",
+            "con la reclusione fino a cinque anni o una multa"
+        ],
+        "correctAnswer": "con la reclusione fino a cinque anni o una multa",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "97": {
+        "question": "Cosa si paga automaticamente in Germania se si è impiegati permanentemente?",
+        "options": [
+            "assicurazione sociale",
+            "assistenza sociale",
+            "assegno familiare",
+            "sussidio abitativo"
+        ],
+        "correctAnswer": "assicurazione sociale",
+        "category": "Sistema sociale"
+    },
+    "98": {
+        "question": "Se i membri del parlamento nel Bundestag cambiano gruppo parlamentare, …",
+        "options": [
+            "non possono più partecipare alle sedute parlamentari.",
+            "il governo può perdere la maggioranza.",
+            "il Presidente federale deve prima dare il consenso.",
+            "gli elettori di questi membri devono votare di nuovo."
+        ],
+        "correctAnswer": "il governo può perdere la maggioranza.",
+        "category": "Organi costituzionali"
+    },
+    "99": {
+        "question": "Chi paga i contributi all'assicurazione sociale in Germania?",
+        "options": [
+            "datori di lavoro e lavoratori",
+            "solo i lavoratori",
+            "tutti i cittadini",
+            "solo i datori di lavoro"
+        ],
+        "correctAnswer": "datori di lavoro e lavoratori",
+        "category": "Sistema sociale"
+    },
+    "100": {
+        "question": "Cosa non fa parte dell'assicurazione sociale obbligatoria?",
+        "options": [
+            "assicurazione sulla vita",
+            "assicurazione pensionistica obbligatoria",
+            "assicurazione contro la disoccupazione",
+            "assicurazione per l'assistenza a lungo termine"
+        ],
+        "correctAnswer": "assicurazione sulla vita",
+        "category": "Sistema sociale"
+    },
+    "101": {
+        "question": "I sindacati sono gruppi di interesse di …",
+        "options": [
+            "giovani.",
+            "lavoratori dipendenti.",
+            "pensionati.",
+            "datori di lavoro."
+        ],
+        "correctAnswer": "lavoratori dipendenti.",
+        "category": "Diritti fondamentali"
+    },
+    "102": {
+        "question": "Con cosa si può essere onorati nella Repubblica Federale di Germania per meriti speciali in campo politico, economico, culturale, intellettuale o sociale? Con la …",
+        "options": [
+            "Croce al Merito della Repubblica Federale",
+            "Aquila federale",
+            "Ordine al Merito patriottico",
+            "Titolo onorifico 'Eroe della Repubblica Democratica Tedesca'"
+        ],
+        "correctAnswer": "Croce al Merito della Repubblica Federale",
+        "category": "Diritto e vita quotidiana"
+    },
+    "103": {
+        "question": "Cosa si intende in Germania con \"coalizione semaforo\"? La cooperazione …",
+        "options": [
+            "dei gruppi parlamentari CDU e CSU nel Bundestag",
+            "di SPD, FDP e Alleanza 90/I Verdi in un governo",
+            "di CSU, Die Linke e Alleanza 90/I Verdi in un governo",
+            "dei gruppi parlamentari CDU e SPD nel Bundestag"
+        ],
+        "correctAnswer": "di SPD, FDP e Alleanza 90/I Verdi in un governo",
+        "category": "Partiti politici"
+    },
+    "104": {
+        "question": "Una donna in Germania perde il lavoro. Quale non deve essere il motivo del licenziamento?",
+        "options": [
+            "La donna è malata da molto tempo e non è in grado di lavorare.",
+            "La donna arrivava spesso in ritardo al lavoro.",
+            "La donna si occupa di questioni private durante l'orario di lavoro.",
+            "La donna aspetta un bambino e il datore di lavoro lo sa."
+        ],
+        "correctAnswer": "La donna aspetta un bambino e il datore di lavoro lo sa.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "105": {
+        "question": "Qual è un compito degli scrutatori volontari in Germania?",
+        "options": [
+            "Aiutano le persone anziane a votare nella cabina elettorale.",
+            "Redigono le notifiche elettorali prima delle elezioni.",
+            "Trasmettono i risultati provvisori ai media.",
+            "Contano i voti dopo la fine delle elezioni."
+        ],
+        "correctAnswer": "Contano i voti dopo la fine delle elezioni.",
+        "category": "Doveri"
+    },
+    "106": {
+        "question": "In Germania, i lavoratori elettorali volontari aiutano durante le elezioni. Qual è uno dei loro compiti?",
+        "options": [
+            "Aiutano bambini e anziani a votare.",
+            "Redigono le carte con l'indicazione del seggio elettorale.",
+            "Trasmettono i risultati provvisori ai giornalisti.",
+            "Contano i voti dopo la fine delle elezioni."
+        ],
+        "correctAnswer": "Contano i voti dopo la fine delle elezioni.",
+        "category": "Doveri"
+    },
+    "107": {
+        "question": "Per quanti anni viene eletto il Bundestag in Germania?",
+        "options": [
+            "2 anni",
+            "4 anni",
+            "6 anni",
+            "8 anni"
+        ],
+        "correctAnswer": "4 anni",
+        "category": "Elezioni e partecipazione"
+    },
+    "108": {
+        "question": "Nelle elezioni del Bundestag in Germania può votare chi …",
+        "options": [
+            "vive nella Repubblica Federale di Germania e desidera votare.",
+            "è cittadino della Repubblica Federale di Germania e ha almeno 18 anni.",
+            "ha vissuto nella Repubblica Federale di Germania per almeno 3 anni.",
+            "è cittadino della Repubblica Federale di Germania e ha almeno 21 anni."
+        ],
+        "correctAnswer": "è cittadino della Repubblica Federale di Germania e ha almeno 18 anni.",
+        "category": "Elezioni e partecipazione"
+    },
+    "109": {
+        "question": "Con quale frequenza si tengono normalmente le elezioni del Bundestag in Germania?",
+        "options": [
+            "ogni tre anni",
+            "ogni quattro anni",
+            "ogni cinque anni",
+            "ogni sei anni"
+        ],
+        "correctAnswer": "ogni quattro anni",
+        "category": "Elezioni e partecipazione"
+    },
+    "110": {
+        "question": "Per quanti anni viene eletto il Bundestag in Germania?",
+        "options": [
+            "2 anni",
+            "3 anni",
+            "4 anni",
+            "5 anni"
+        ],
+        "correctAnswer": "4 anni",
+        "category": "Elezioni e partecipazione"
+    },
+    "111": {
+        "question": "Quali azioni relative allo Stato di Israele sono vietate in Germania?",
+        "options": [
+            "criticare pubblicamente le politiche di Israele",
+            "esporre una bandiera israeliana su proprietà privata",
+            "discutere delle politiche di Israele",
+            "chiamare pubblicamente alla distruzione di Israele"
+        ],
+        "correctAnswer": "chiamare pubblicamente alla distruzione di Israele",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "112": {
+        "question": "Le elezioni in Germania sono …",
+        "options": [
+            "speciali.",
+            "segrete.",
+            "basate sulla professione.",
+            "dipendenti dal sesso."
+        ],
+        "correctAnswer": "segrete.",
+        "category": "Elezioni e partecipazione"
+    },
+    "113": {
+        "question": "In Germania, il partito che vince un'elezione è quello che …",
+        "options": [
+            "riceve il maggior numero di voti.",
+            "è scelto dalla maggioranza degli uomini.",
+            "riceve il maggior numero di voti dai lavoratori.",
+            "riceve il maggior numero di prime voci per il suo candidato Cancelliere."
+        ],
+        "correctAnswer": "riceve il maggior numero di voti.",
+        "category": "Elezioni e partecipazione"
+    },
+    "114": {
+        "question": "Partecipare alle elezioni democratiche in Germania è …",
+        "options": [
+            "un dovere.",
+            "un diritto.",
+            "un obbligo.",
+            "un peso."
+        ],
+        "correctAnswer": "un diritto.",
+        "category": "Elezioni e partecipazione"
+    },
+    "115": {
+        "question": "Cosa significa \"diritto di voto attivo\" in Germania?",
+        "options": [
+            "Si può essere eletti.",
+            "Si deve votare.",
+            "Si può votare.",
+            "Si deve partecipare allo scrutinio."
+        ],
+        "correctAnswer": "Si può votare.",
+        "category": "Elezioni e partecipazione"
+    },
+    "116": {
+        "question": "Se si è autorizzati a votare in un'elezione del Bundestag in Germania, significa che si ha …",
+        "options": [
+            "una campagna elettorale attiva.",
+            "una procedura di voto attiva.",
+            "una campagna elettorale attiva.",
+            "diritti di voto attivi."
+        ],
+        "correctAnswer": "diritti di voto attivi.",
+        "category": "Elezioni e partecipazione"
+    },
+    "117": {
+        "question": "Quale percentuale di seconde voci devono ricevere almeno i partiti per entrare nel Bundestag tedesco?",
+        "options": [
+            "3%",
+            "4%",
+            "5%",
+            "6%"
+        ],
+        "correctAnswer": "5%",
+        "category": "Elezioni e partecipazione"
+    },
+    "118": {
+        "question": "Chi può diventare membro degli circa 40 club sportivi ebraici Maccabi in Germania?",
+        "options": [
+            "solo i tedeschi",
+            "solo gli israeliani",
+            "solo le persone religiose",
+            "tutte le persone"
+        ],
+        "correctAnswer": "tutte le persone",
+        "category": "Convivenza interculturale"
+    },
+    "119": {
+        "question": "Le elezioni in Germania sono libere. Cosa significa?",
+        "options": [
+            "Tutti i criminali condannati non possono votare.",
+            "Se voglio votare, il mio datore di lavoro deve concedermi il permesso.",
+            "Ogni persona può decidere liberamente, senza costrizione, se votare e per chi votare.",
+            "Posso decidere liberamente dove voglio votare."
+        ],
+        "correctAnswer": "Ogni persona può decidere liberamente, senza costrizione, se votare e per chi votare.",
+        "category": "Elezioni e partecipazione"
+    },
+    "120": {
+        "question": "Il sistema elettorale in Germania è un …",
+        "options": [
+            "suffragio censitario.",
+            "sistema di voto a tre classi.",
+            "sistema misto proporzionale e maggioritario.",
+            "suffragio maschile generale."
+        ],
+        "correctAnswer": "sistema misto proporzionale e maggioritario.",
+        "category": "Elezioni e partecipazione"
+    },
+    "121": {
+        "question": "Un partito vuole entrare nel Bundestag tedesco. Tuttavia deve ottenere una percentuale minima di voti. Questo si chiama …",
+        "options": [
+            "soglia del 5%.",
+            "limite di ammissione.",
+            "valore base.",
+            "linea guida."
+        ],
+        "correctAnswer": "soglia del 5%.",
+        "category": "Elezioni e partecipazione"
+    },
+    "122": {
+        "question": "Quale principio seguono le elezioni in Germania? Le elezioni in Germania sono …",
+        "options": [
+            "libere, uguali, segrete.",
+            "aperte, sicure, libere.",
+            "chiuse, uguali, sicure.",
+            "sicure, aperte, volontarie."
+        ],
+        "correctAnswer": "libere, uguali, segrete.",
+        "category": "Elezioni e partecipazione"
+    },
+    "123": {
+        "question": "Cosa è la \"soglia del 5%\" in Germania?",
+        "options": [
+            "una regola di voto nel Bundestag per i piccoli partiti",
+            "controllo della presenza nel Bundestag per i voti",
+            "percentuale minima di voti necessaria per entrare in parlamento",
+            "controllo della presenza nel Bundesrat per i voti"
+        ],
+        "correctAnswer": "percentuale minima di voti necessaria per entrare in parlamento",
+        "category": "Elezioni e partecipazione"
+    },
+    "124": {
+        "question": "L'elezione del Bundestag in Germania è l'elezione del …",
+        "options": [
+            "Cancelliere federale.",
+            "parlamenti regionali.",
+            "parlamento per la Germania.",
+            "Presidente federale."
+        ],
+        "correctAnswer": "parlamento per la Germania.",
+        "category": "Elezioni e partecipazione"
+    },
+    "125": {
+        "question": "In una democrazia, una funzione delle elezioni regolari è …",
+        "options": [
+            "costringere i cittadini a votare.",
+            "consentire un cambio di governo secondo la volontà della maggioranza degli elettori.",
+            "mantenere le leggi esistenti nel paese.",
+            "dare più potere ai poveri."
+        ],
+        "correctAnswer": "consentire un cambio di governo secondo la volontà della maggioranza degli elettori.",
+        "category": "Elezioni e partecipazione"
+    },
+    "126": {
+        "question": "Cosa ricevono gli elettori aventi diritto in Germania prima di un'elezione?",
+        "options": [
+            "una notifica elettorale dal comune",
+            "un permesso di voto dal Presidente federale",
+            "una notifica dall'Assemblea federale",
+            "una notifica dall'ufficio parrocchiale"
+        ],
+        "correctAnswer": "una notifica elettorale dal comune",
+        "category": "Elezioni e partecipazione"
+    },
+    "127": {
+        "question": "Perché la Repubblica Federale di Germania ha una soglia del 5% nella sua legge elettorale? Esiste perché …",
+        "options": [
+            "i programmi di molti piccoli partiti hanno molte somiglianze.",
+            "gli elettori potrebbero perdere l'orientamento con molti piccoli partiti.",
+            "molti piccoli partiti rendono più difficile la formazione di un governo.",
+            "i piccoli partiti non hanno abbastanza soldi per pagare i politici."
+        ],
+        "correctAnswer": "molti piccoli partiti rendono più difficile la formazione di un governo.",
+        "category": "Elezioni e partecipazione"
+    },
+    "128": {
+        "question": "I membri del parlamento eletti dai cittadini sono chiamati …",
+        "options": [
+            "Deputati.",
+            "Cancellieri.",
+            "Ambasciatori.",
+            "Ministri-presidenti."
+        ],
+        "correctAnswer": "Deputati.",
+        "category": "Elezioni e partecipazione"
+    },
+    "129": {
+        "question": "In Germania, il … è eletto dal popolo.",
+        "options": [
+            "Cancelliere federale.",
+            "Ministro-presidente di un Land.",
+            "Bundestag.",
+            "Presidente federale."
+        ],
+        "correctAnswer": "Bundestag.",
+        "category": "Organi costituzionali"
+    },
+    "130": {
+        "question": "Quale scheda elettorale sarebbe valida in un'elezione del Bundestag? (Secondo il regolamento elettorale federale, allegato 26)",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "category": "Elezioni e partecipazione"
+    },
+    "131": {
+        "question": "In Germania, un sindaco è …",
+        "options": [
+            "il direttore di una scuola.",
+            "il direttore di una banca.",
+            "il capo di un comune.",
+            "il presidente di un partito."
+        ],
+        "correctAnswer": "il capo di un comune.",
+        "category": "Comune"
+    },
+    "132": {
+        "question": "Molte persone in Germania lavorano come volontari nel tempo libero. Cosa significa?",
+        "options": [
+            "Lavorano come soldati.",
+            "Lavorano volontariamente e senza retribuzione in club e associazioni.",
+            "Lavorano nel governo federale.",
+            "Lavorano in un ospedale e guadagnano soldi."
+        ],
+        "correctAnswer": "Lavorano volontariamente e senza retribuzione in club e associazioni.",
+        "category": "Elezioni e partecipazione"
+    },
+    "133": {
+        "question": "Cosa è permesso nelle elezioni del Bundestag e dei parlamenti regionali in Germania?",
+        "options": [
+            "Un marito vota a nome della moglie.",
+            "Si può votare per corrispondenza.",
+            "Si può votare per telefono il giorno delle elezioni.",
+            "I bambini di 14 anni e più possono votare."
+        ],
+        "correctAnswer": "Si può votare per corrispondenza.",
+        "category": "Elezioni e partecipazione"
+    },
+    "134": {
+        "question": "Vogliono abolire la linea dell'autobus che usi per andare al lavoro. Cosa puoi fare per mantenere la linea dell'autobus?",
+        "options": [
+            "Partecipare a un'iniziativa cittadina per preservare la linea dell'autobus o iniziarne una tu stesso.",
+            "Iscriversi a un club sportivo e allenarsi in bicicletta.",
+            "Contattare l'ufficio delle imposte perché come contribuente hai diritto alla linea dell'autobus.",
+            "Scrivere una lettera all'ufficio forestale comunale."
+        ],
+        "correctAnswer": "Partecipare a un'iniziativa cittadina per preservare la linea dell'autobus o iniziarne una tu stesso.",
+        "category": "Elezioni e partecipazione"
+    },
+    "135": {
+        "question": "Chi rappresentano i sindacati in Germania?",
+        "options": [
+            "grandi aziende",
+            "piccole aziende",
+            "lavoratori autonomi",
+            "lavoratori dipendenti"
+        ],
+        "correctAnswer": "lavoratori dipendenti",
+        "category": "Diritti fondamentali"
+    },
+    "136": {
+        "question": "In Germania, si va al tribunale del lavoro in caso di …",
+        "options": [
+            "fatturazione errata delle utenze.",
+            "licenziamento ingiustificato da parte del datore di lavoro.",
+            "problemi con i vicini.",
+            "difficoltà dopo un incidente stradale."
+        ],
+        "correctAnswer": "licenziamento ingiustificato da parte del datore di lavoro.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "137": {
+        "question": "Quale tribunale in Germania è responsabile dei conflitti sul posto di lavoro?",
+        "options": [
+            "tribunale di famiglia",
+            "tribunale penale",
+            "tribunale del lavoro",
+            "tribunale locale"
+        ],
+        "correctAnswer": "tribunale del lavoro",
+        "category": "Diritto e vita quotidiana"
+    },
+    "138": {
+        "question": "Cosa posso fare in Germania se il mio datore di lavoro mi ha licenziato ingiustamente?",
+        "options": [
+            "continuare a lavorare ed essere gentile con il capo",
+            "avviare una procedura di ingiunzione di pagamento contro il datore di lavoro",
+            "presentare una causa per licenziamento illegittimo",
+            "denunciare il datore di lavoro alla polizia"
+        ],
+        "correctAnswer": "presentare una causa per licenziamento illegittimo",
+        "category": "Diritto e vita quotidiana"
+    },
+    "139": {
+        "question": "Quando si svolge un processo in Germania? Quando qualcuno …",
+        "options": [
+            "si converte a un'altra religione.",
+            "ha commesso un reato ed è accusato.",
+            "ha un'opinione diversa dal governo.",
+            "ha parcheggiato male l'auto e viene rimossa."
+        ],
+        "correctAnswer": "ha commesso un reato ed è accusato.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "140": {
+        "question": "Cosa fa un giudice popolare (Schöffe) in Germania? Egli/ella …",
+        "options": [
+            "decide insieme ai giudici professionali sulla colpevolezza e sulla pena.",
+            "dà consigli legali ai cittadini.",
+            "rilascia documenti ufficiali.",
+            "difende l'imputato."
+        ],
+        "correctAnswer": "decide insieme ai giudici professionali sulla colpevolezza e sulla pena.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "141": {
+        "question": "Chi consiglia le persone in Germania su questioni legali e le rappresenta in tribunale?",
+        "options": [
+            "un avvocato",
+            "un giudice",
+            "un giudice popolare",
+            "un pubblico ministero"
+        ],
+        "correctAnswer": "un avvocato",
+        "category": "Diritto e vita quotidiana"
+    },
+    "142": {
+        "question": "Qual è il compito principale di un giudice in Germania? Un giudice …",
+        "options": [
+            "rappresenta i cittadini in tribunale.",
+            "lavora in tribunale e emette sentenze.",
+            "modifica le leggi.",
+            "sostiene i giovani in tribunale."
+        ],
+        "correctAnswer": "lavora in tribunale e emette sentenze.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "143": {
+        "question": "Un giudice in Germania appartiene al …",
+        "options": [
+            "potere giudiziario.",
+            "potere esecutivo.",
+            "potere operativo.",
+            "potere legislativo."
+        ],
+        "correctAnswer": "potere giudiziario.",
+        "category": "Principi costituzionali"
+    },
+    "144": {
+        "question": "Un giudice in Germania appartiene al …",
+        "options": [
+            "potere esecutivo.",
+            "potere giudiziario.",
+            "potere di pianificazione.",
+            "potere legislativo."
+        ],
+        "correctAnswer": "potere giudiziario.",
+        "category": "Principi costituzionali"
+    },
+    "145": {
+        "question": "In Germania il potere statale è diviso. Per quale potere lavora un giudice? Il …",
+        "options": [
+            "potere giudiziario",
+            "potere esecutivo",
+            "stampa",
+            "potere legislativo"
+        ],
+        "correctAnswer": "potere giudiziario",
+        "category": "Principi costituzionali"
+    },
+    "146": {
+        "question": "Come si chiama un procedimento giudiziario in Germania?",
+        "options": [
+            "programma",
+            "procedura",
+            "protocollo",
+            "processo"
+        ],
+        "correctAnswer": "processo",
+        "category": "Diritto e vita quotidiana"
+    },
+    "147": {
+        "question": "Qual è il lavoro di un giudice in Germania?",
+        "options": [
+            "governare la Germania",
+            "amministrare la giustizia",
+            "creare piani",
+            "approvare leggi"
+        ],
+        "correctAnswer": "amministrare la giustizia",
+        "category": "Principi costituzionali"
+    },
+    "148": {
+        "question": "Qual è un compito della polizia in Germania?",
+        "options": [
+            "difendere il paese",
+            "spiare i cittadini",
+            "approvare leggi",
+            "controllare il rispetto delle leggi"
+        ],
+        "correctAnswer": "controllare il rispetto delle leggi",
+        "category": "Principi costituzionali"
+    },
+    "149": {
+        "question": "Qual è un esempio di comportamento antisemita?",
+        "options": [
+            "partecipare a una festa ebraica",
+            "criticare il governo israeliano",
+            "negare l'Olocausto",
+            "giocare a calcio contro ebrei"
+        ],
+        "correctAnswer": "negare l'Olocausto",
+        "category": "Convivenza interculturale"
+    },
+    "150": {
+        "question": "Un giudice popolare (Schöffe) in Germania è …",
+        "options": [
+            "il vicesindaco.",
+            "un giudice onorario.",
+            "un membro di un consiglio comunale.",
+            "una persona che ha studiato giurisprudenza."
+        ],
+        "correctAnswer": "un giudice onorario.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "151": {
+        "question": "Chi ha costruito il Muro di Berlino?",
+        "options": [
+            "Gran Bretagna",
+            "la DDR (Germania Est)",
+            "la Repubblica Federale di Germania",
+            "gli USA"
+        ],
+        "correctAnswer": "la DDR (Germania Est)",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "152": {
+        "question": "Quando i nazionalsocialisti sotto Adolf Hitler erano al potere in Germania?",
+        "options": [
+            "1918-1923",
+            "1932-1950",
+            "1933-1945",
+            "1945-1989"
+        ],
+        "correctAnswer": "1933-1945",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "153": {
+        "question": "Cosa è successo l'8 maggio 1945?",
+        "options": [
+            "Morte di Adolf Hitler",
+            "Inizio della costruzione del Muro di Berlino",
+            "Elezione di Konrad Adenauer come Cancelliere federale",
+            "Fine della Seconda Guerra Mondiale in Europa"
+        ],
+        "correctAnswer": "Fine della Seconda Guerra Mondiale in Europa",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "154": {
+        "question": "Quando è finita la Seconda Guerra Mondiale?",
+        "options": [
+            "1933",
+            "1945",
+            "1949",
+            "1961"
+        ],
+        "correctAnswer": "1945",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "155": {
+        "question": "Quando i nazionalsocialisti erano al potere in Germania?",
+        "options": [
+            "1888-1918",
+            "1921-1934",
+            "1933-1945",
+            "1949-1963"
+        ],
+        "correctAnswer": "1933-1945",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "156": {
+        "question": "In quale anno Hitler è diventato Cancelliere del Reich?",
+        "options": [
+            "1923",
+            "1927",
+            "1933",
+            "1936"
+        ],
+        "correctAnswer": "1933",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "157": {
+        "question": "Nel 1933 i nazionalsocialisti sotto Adolf Hitler hanno stabilito in Germania …",
+        "options": [
+            "una dittatura.",
+            "uno Stato democratico.",
+            "una monarchia.",
+            "un principato."
+        ],
+        "correctAnswer": "una dittatura.",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "158": {
+        "question": "Il \"Terzo Reich\" era una …",
+        "options": [
+            "dittatura.",
+            "democrazia.",
+            "monarchia.",
+            "repubblica dei consigli."
+        ],
+        "correctAnswer": "dittatura.",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "159": {
+        "question": "Cosa non esisteva in Germania durante il periodo nazionalsocialista?",
+        "options": [
+            "elezioni libere",
+            "censura della stampa",
+            "arresti arbitrari",
+            "persecuzione degli ebrei"
+        ],
+        "correctAnswer": "elezioni libere",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "160": {
+        "question": "Quale guerra è durata dal 1939 al 1945?",
+        "options": [
+            "la Prima Guerra Mondiale",
+            "la Seconda Guerra Mondiale",
+            "la guerra del Vietnam",
+            "la guerra del Golfo"
+        ],
+        "correctAnswer": "la Seconda Guerra Mondiale",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "161": {
+        "question": "Cosa caratterizzava lo Stato nazista? Una politica di …",
+        "options": [
+            "razzismo di Stato",
+            "libertà di espressione",
+            "libertà religiosa generale",
+            "sviluppo della democrazia"
+        ],
+        "correctAnswer": "razzismo di Stato",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "162": {
+        "question": "Claus Schenk Graf von Stauffenberg è diventato famoso per …",
+        "options": [
+            "aver vinto una medaglia d'oro alle Olimpiadi del 1936.",
+            "la costruzione dell'edificio del Reichstag.",
+            "la costruzione della Wehrmacht.",
+            "il tentativo di assassinio contro Hitler il 20 luglio 1944."
+        ],
+        "correctAnswer": "il tentativo di assassinio contro Hitler il 20 luglio 1944.",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "163": {
+        "question": "In quale anno i nazionalsocialisti hanno distrutto sinagoghe e negozi ebraici in Germania?",
+        "options": [
+            "1925",
+            "1930",
+            "1938",
+            "1945"
+        ],
+        "correctAnswer": "1938",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "164": {
+        "question": "Cosa è successo il 9 novembre 1938 in Germania?",
+        "options": [
+            "La Seconda Guerra Mondiale è iniziata con l'attacco alla Polonia.",
+            "I nazionalsocialisti hanno perso un'elezione e hanno sciolto il Reichstag.",
+            "I negozi ebraici e le sinagoghe sono stati distrutti dai nazionalsocialisti e dai loro sostenitori.",
+            "Hitler è diventato Presidente e ha vietato tutti i partiti."
+        ],
+        "correctAnswer": "I negozi ebraici e le sinagoghe sono stati distrutti dai nazionalsocialisti e dai loro sostenitori.",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "165": {
+        "question": "Chi è stato il primo Cancelliere federale della Repubblica Federale di Germania?",
+        "options": [
+            "Konrad Adenauer",
+            "Kurt Georg Kiesinger",
+            "Helmut Schmidt",
+            "Willy Brandt"
+        ],
+        "correctAnswer": "Konrad Adenauer",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "166": {
+        "question": "A quali manifestazioni in Germania la gente ha gridato \"Noi siamo il popolo\"?",
+        "options": [
+            "durante la rivolta operaia del 1953 nella DDR",
+            "durante le manifestazioni del 1968 nella Repubblica Federale di Germania",
+            "durante le manifestazioni antinucleari del 1985 nella Repubblica Federale di Germania",
+            "durante le manifestazioni del lunedì del 1989 nella DDR"
+        ],
+        "correctAnswer": "durante le manifestazioni del lunedì del 1989 nella DDR",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "167": {
+        "question": "Quali paesi erano chiamati \"potenze occupanti alleate\" in Germania dopo la Seconda Guerra Mondiale?",
+        "options": [
+            "Unione Sovietica, Gran Bretagna, Polonia, Svezia",
+            "Francia, Unione Sovietica, Italia, Giappone",
+            "USA, Unione Sovietica, Spagna, Portogallo",
+            "USA, Unione Sovietica, Gran Bretagna, Francia"
+        ],
+        "correctAnswer": "USA, Unione Sovietica, Gran Bretagna, Francia",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "168": {
+        "question": "Quale paese NON era una \"potenza occupante alleata\" in Germania?",
+        "options": [
+            "USA",
+            "Unione Sovietica",
+            "Francia",
+            "Giappone"
+        ],
+        "correctAnswer": "Giappone",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "169": {
+        "question": "Quando è stata fondata la Repubblica Federale di Germania?",
+        "options": [
+            "1939",
+            "1945",
+            "1949",
+            "1951"
+        ],
+        "correctAnswer": "1949",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "170": {
+        "question": "Cosa esisteva in Germania durante il periodo nazionalsocialista?",
+        "options": [
+            "il divieto dei partiti politici",
+            "il diritto al libero sviluppo della personalità",
+            "libertà di stampa",
+            "protezione della dignità umana"
+        ],
+        "correctAnswer": "il divieto dei partiti politici",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "171": {
+        "question": "L'economia sociale di mercato significa che l'economia …",
+        "options": [
+            "è regolata solo dall'offerta e dalla domanda.",
+            "è pianificata e controllata dallo Stato senza considerare l'offerta e la domanda.",
+            "è orientata alla domanda estera.",
+            "si basa sull'offerta e sulla domanda, ma lo Stato garantisce l'equilibrio sociale."
+        ],
+        "correctAnswer": "si basa sull'offerta e sulla domanda, ma lo Stato garantisce l'equilibrio sociale.",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "172": {
+        "question": "In quale zona di occupazione è stata fondata la DDR? Nella …",
+        "options": [
+            "zona di occupazione americana",
+            "zona di occupazione francese",
+            "zona di occupazione britannica",
+            "zona di occupazione sovietica"
+        ],
+        "correctAnswer": "zona di occupazione sovietica",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "173": {
+        "question": "La Repubblica Federale di Germania è membro fondatore di …",
+        "options": [
+            "l'Organizzazione del Trattato del Nord Atlantico (NATO).",
+            "l'Organizzazione delle Nazioni Unite (ONU).",
+            "l'Unione Europea (UE).",
+            "il Patto di Varsavia."
+        ],
+        "correctAnswer": "l'Unione Europea (UE).",
+        "category": "La Germania in Europa"
+    },
+    "174": {
+        "question": "Quando è stata fondata la DDR?",
+        "options": [
+            "1947",
+            "1949",
+            "1953",
+            "1956"
+        ],
+        "correctAnswer": "1949",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "175": {
+        "question": "Quante zone di occupazione c'erano in Germania dopo la Seconda Guerra Mondiale?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "4",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "176": {
+        "question": "Come erano distribuite le zone di occupazione della Germania dopo il 1945?",
+        "options": [
+            "1=Gran Bretagna, 2=Unione Sovietica, 3=Francia, 4=USA",
+            "1=Unione Sovietica, 2=Gran Bretagna, 3=USA, 4=Francia",
+            "1=Gran Bretagna, 2=Unione Sovietica, 3=USA, 4=Francia",
+            "1=Gran Bretagna, 2=USA, 3=Unione Sovietica, 4=Francia"
+        ],
+        "correctAnswer": "1=Unione Sovietica, 2=Gran Bretagna, 3=USA, 4=Francia",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "177": {
+        "question": "Quale città tedesca è stata divisa in quattro settori dopo la Seconda Guerra Mondiale?",
+        "options": [
+            "Monaco",
+            "Berlino",
+            "Dresda",
+            "Francoforte sull'Oder"
+        ],
+        "correctAnswer": "Berlino",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "178": {
+        "question": "Da giugno 1948 a maggio 1949, i cittadini di Berlino Ovest furono riforniti tramite un ponte aereo. Qual era la causa?",
+        "options": [
+            "Per la Francia, rifornire Berlino Ovest via aerea era più economico.",
+            "I soldati americani temevano attacchi durante il trasporto terrestre.",
+            "Per la Gran Bretagna, il rifornimento aereo era più veloce.",
+            "L'Unione Sovietica ha bloccato tutte le vie terrestri."
+        ],
+        "correctAnswer": "L'Unione Sovietica ha bloccato tutte le vie terrestri.",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "179": {
+        "question": "Come è finita ufficialmente la Seconda Guerra Mondiale in Europa?",
+        "options": [
+            "con la morte di Adolf Hitler",
+            "con la resa incondizionata della Germania",
+            "con il ritiro delle truppe tedesche dai territori occupati",
+            "con una rivoluzione in Germania"
+        ],
+        "correctAnswer": "con la resa incondizionata della Germania",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "180": {
+        "question": "Il primo Cancelliere federale della Repubblica Federale di Germania era …",
+        "options": [
+            "Ludwig Erhard.",
+            "Willy Brandt.",
+            "Konrad Adenauer.",
+            "Gerhard Schröder."
+        ],
+        "correctAnswer": "Konrad Adenauer.",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "181": {
+        "question": "Cosa voleva esprimere Willy Brandt con il suo inginocchiarsi nel 1970 davanti all'ex ghetto ebraico di Varsavia?",
+        "options": [
+            "Si è sottomesso agli ex Alleati.",
+            "Ha chiesto perdono alla Polonia e agli ebrei polacchi.",
+            "Ha mostrato umiltà verso il Patto di Varsavia.",
+            "Ha recitato una preghiera alla Tomba del Milite Ignoto."
+        ],
+        "correctAnswer": "Ha chiesto perdono alla Polonia e agli ebrei polacchi.",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "182": {
+        "question": "Come si chiama la casa di preghiera ebraica?",
+        "options": [
+            "Basilica",
+            "Moschea",
+            "Sinagoga",
+            "Chiesa"
+        ],
+        "correctAnswer": "Sinagoga",
+        "category": "Diversità religiosa"
+    },
+    "183": {
+        "question": "Quando si è verificato il \"miracolo economico\" nella Repubblica Federale di Germania?",
+        "options": [
+            "anni '40",
+            "anni '50",
+            "anni '70",
+            "anni '80"
+        ],
+        "correctAnswer": "anni '50",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "184": {
+        "question": "Su quale base giuridica è stato fondato lo Stato di Israele?",
+        "options": [
+            "una risoluzione delle Nazioni Unite",
+            "una decisione del Congresso sionista",
+            "una proposta del Governo federale",
+            "una proposta dell'URSS"
+        ],
+        "correctAnswer": "una risoluzione delle Nazioni Unite",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "185": {
+        "question": "Cosa rappresentava il termine \"Cortina di ferro\"? La separazione tra …",
+        "options": [
+            "il Patto di Varsavia e l'Occidente",
+            "la Germania del Nord e la Germania del Sud",
+            "la Germania nazista e gli Alleati",
+            "l'Europa e gli USA"
+        ],
+        "correctAnswer": "il Patto di Varsavia e l'Occidente",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "186": {
+        "question": "Nel 1953 ci fu una rivolta nella DDR che per molto tempo fu commemorata come giorno festivo nella Repubblica Federale di Germania. Quando avvenne?",
+        "options": [
+            "1° maggio",
+            "17 giugno",
+            "20 luglio",
+            "9 novembre"
+        ],
+        "correctAnswer": "17 giugno",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "187": {
+        "question": "Quale Stato tedesco aveva una bandiera nero-rosso-oro con martello, compasso e corona di spighe?",
+        "options": [
+            "Prussia",
+            "Repubblica Federale di Germania",
+            "\"Terzo Reich\"",
+            "DDR"
+        ],
+        "correctAnswer": "DDR",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "188": {
+        "question": "In quale anno è stato costruito il Muro di Berlino?",
+        "options": [
+            "1953",
+            "1956",
+            "1959",
+            "1961"
+        ],
+        "correctAnswer": "1961",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "189": {
+        "question": "Quando la DDR ha costruito il Muro di Berlino?",
+        "options": [
+            "1919",
+            "1933",
+            "1961",
+            "1990"
+        ],
+        "correctAnswer": "1961",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "190": {
+        "question": "Cosa significa l'abbreviazione DDR?",
+        "options": [
+            "Terzo servizio di radiodiffusione tedesco",
+            "La Repubblica tedesca",
+            "Terza Repubblica tedesca",
+            "Repubblica Democratica Tedesca"
+        ],
+        "correctAnswer": "Repubblica Democratica Tedesca",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "191": {
+        "question": "Quando il Muro di Berlino è stato aperto a tutti?",
+        "options": [
+            "1987",
+            "1989",
+            "1992",
+            "1995"
+        ],
+        "correctAnswer": "1989",
+        "category": "Riunificazione"
+    },
+    "192": {
+        "question": "Quale Land tedesco attuale apparteneva un tempo al territorio della DDR?",
+        "options": [
+            "Brandeburgo",
+            "Baviera",
+            "Saarland",
+            "Assia"
+        ],
+        "correctAnswer": "Brandeburgo",
+        "category": "Riunificazione"
+    },
+    "193": {
+        "question": "Dal 1961 al 1989, Berlino era …",
+        "options": [
+            "senza sindaco.",
+            "uno Stato indipendente.",
+            "divisa da un muro.",
+            "accessibile solo in aereo."
+        ],
+        "correctAnswer": "divisa da un muro.",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "194": {
+        "question": "Il 3 ottobre la Germania celebra il Giorno dell'Unità …",
+        "options": [
+            "tedesca.",
+            "nazionale.",
+            "dei Länder.",
+            "delle città."
+        ],
+        "correctAnswer": "tedesca.",
+        "category": "Riunificazione"
+    },
+    "195": {
+        "question": "Quale Land tedesco attuale apparteneva un tempo al territorio della DDR?",
+        "options": [
+            "Assia",
+            "Sassonia-Anhalt",
+            "Renania Settentrionale-Vestfalia",
+            "Saarland"
+        ],
+        "correctAnswer": "Sassonia-Anhalt",
+        "category": "Riunificazione"
+    },
+    "196": {
+        "question": "Perché il periodo dell'autunno 1989 nella DDR viene chiamato \"La svolta\" (Die Wende)? In quel periodo la DDR è cambiata politicamente …",
+        "options": [
+            "da una dittatura a una democrazia.",
+            "da un'economia di mercato liberale al socialismo.",
+            "da una monarchia alla socialdemocrazia.",
+            "da uno Stato religioso a uno Stato comunista."
+        ],
+        "correctAnswer": "da una dittatura a una democrazia.",
+        "category": "Riunificazione"
+    },
+    "197": {
+        "question": "Quale Land tedesco attuale apparteneva un tempo al territorio della DDR?",
+        "options": [
+            "Turingia",
+            "Assia",
+            "Baviera",
+            "Brema"
+        ],
+        "correctAnswer": "Turingia",
+        "category": "Riunificazione"
+    },
+    "198": {
+        "question": "Quale Land tedesco attuale apparteneva un tempo al territorio della DDR?",
+        "options": [
+            "Baviera",
+            "Bassa Sassonia",
+            "Sassonia",
+            "Baden-Württemberg"
+        ],
+        "correctAnswer": "Sassonia",
+        "category": "Riunificazione"
+    },
+    "199": {
+        "question": "Nella DDR, l'abbreviazione \"Stasi\" indicava …",
+        "options": [
+            "il parlamento.",
+            "il Ministero per la Sicurezza di Stato.",
+            "un partito al potere.",
+            "il Ministero dell'Istruzione."
+        ],
+        "correctAnswer": "il Ministero per la Sicurezza di Stato.",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "200": {
+        "question": "Quale Land tedesco attuale apparteneva un tempo al territorio della DDR?",
+        "options": [
+            "Assia",
+            "Schleswig-Holstein",
+            "Meclemburgo-Pomerania Anteriore",
+            "Saarland"
+        ],
+        "correctAnswer": "Meclemburgo-Pomerania Anteriore",
+        "category": "Riunificazione"
+    },
+    "201": {
+        "question": "Quale delle seguenti liste contiene solo Länder che appartenevano alla ex DDR?",
+        "options": [
+            "Bassa Sassonia, Renania Settentrionale-Vestfalia, Assia, Schleswig-Holstein, Brandeburgo",
+            "Meclemburgo-Pomerania Anteriore, Brandeburgo, Sassonia, Sassonia-Anhalt, Turingia",
+            "Baviera, Baden-Württemberg, Renania-Palatinato, Turingia, Sassonia",
+            "Sassonia, Turingia, Assia, Bassa Sassonia, Brandeburgo"
+        ],
+        "correctAnswer": "Meclemburgo-Pomerania Anteriore, Brandeburgo, Sassonia, Sassonia-Anhalt, Turingia",
+        "category": "Riunificazione"
+    },
+    "202": {
+        "question": "Durante la Guerra Fredda, a chi apparteneva la DDR?",
+        "options": [
+            "alle potenze occidentali",
+            "al Patto di Varsavia",
+            "alla NATO",
+            "al Movimento dei Non Allineati"
+        ],
+        "correctAnswer": "al Patto di Varsavia",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "203": {
+        "question": "Come si chiamava il sistema economico della DDR?",
+        "options": [
+            "economia di mercato",
+            "economia pianificata",
+            "offerta e domanda",
+            "capitalismo"
+        ],
+        "correctAnswer": "economia pianificata",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "204": {
+        "question": "Come sono diventati un unico Stato la Repubblica Federale di Germania e la DDR?",
+        "options": [
+            "La Repubblica Federale ha occupato la DDR.",
+            "I cinque attuali Länder orientali si sono uniti alla Repubblica Federale di Germania.",
+            "I Länder occidentali si sono uniti alla DDR.",
+            "La DDR ha occupato la Repubblica Federale."
+        ],
+        "correctAnswer": "I cinque attuali Länder orientali si sono uniti alla Repubblica Federale di Germania.",
+        "category": "Riunificazione"
+    },
+    "205": {
+        "question": "Con l'adesione della DDR alla Repubblica Federale di Germania, i nuovi Länder sono diventati parte anche di …",
+        "options": [
+            "l'Unione Europea.",
+            "il Patto di Varsavia.",
+            "l'OPEC.",
+            "la Comunità europea di difesa."
+        ],
+        "correctAnswer": "l'Unione Europea.",
+        "category": "Riunificazione"
+    },
+    "206": {
+        "question": "Cosa commemorano le cosiddette \"Stolpersteine\" (pietre d'inciampo) in Germania?",
+        "options": [
+            "famosi politici tedeschi",
+            "le vittime del nazionalsocialismo",
+            "le vittime di incidenti stradali",
+            "famosi musicisti ebrei"
+        ],
+        "correctAnswer": "le vittime del nazionalsocialismo",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "207": {
+        "question": "A quale alleanza militare apparteneva la DDR?",
+        "options": [
+            "NATO",
+            "Confederazione del Reno",
+            "Patto di Varsavia",
+            "Alleanza europea"
+        ],
+        "correctAnswer": "Patto di Varsavia",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "208": {
+        "question": "Cos'era la \"Stasi\"?",
+        "options": [
+            "il servizio segreto nel \"Terzo Reich\"",
+            "un famoso luogo commemorativo tedesco",
+            "il servizio segreto della DDR",
+            "un club sportivo tedesco durante la Seconda Guerra Mondiale"
+        ],
+        "correctAnswer": "il servizio segreto della DDR",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "209": {
+        "question": "Qual era lo stemma della Repubblica Democratica Tedesca?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 4",
+        "state": "Repubblica Democratica Tedesca",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "210": {
+        "question": "Cosa è successo il 17 giugno 1953 nella DDR?",
+        "options": [
+            "l'adesione ufficiale al Patto di Varsavia",
+            "scioperi nazionali e una rivolta popolare",
+            "il primo congresso del partito SED",
+            "la prima visita di Fidel Castro"
+        ],
+        "correctAnswer": "scioperi nazionali e una rivolta popolare",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "211": {
+        "question": "Quale politico è associato ai \"Trattati dell'Est\" (Ostverträge)?",
+        "options": [
+            "Helmut Kohl",
+            "Willy Brandt",
+            "Michail Gorbaciov",
+            "Ludwig Erhard"
+        ],
+        "correctAnswer": "Willy Brandt",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "212": {
+        "question": "Qual è il nome ufficiale completo della Germania?",
+        "options": [
+            "Stato Federale di Germania",
+            "Stati Federali di Germania",
+            "Repubblica Federale di Germania",
+            "Distretto Federale di Germania"
+        ],
+        "correctAnswer": "Repubblica Federale di Germania",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "213": {
+        "question": "Quanti abitanti ha la Germania?",
+        "options": [
+            "70 milioni",
+            "78 milioni",
+            "84 milioni",
+            "90 milioni"
+        ],
+        "correctAnswer": "84 milioni",
+        "category": "La Germania in Europa"
+    },
+    "214": {
+        "question": "Quali sono i colori della bandiera tedesca?",
+        "options": [
+            "nero-rosso-oro",
+            "rosso-bianco-nero",
+            "nero-rosso-verde",
+            "nero-giallo-rosso"
+        ],
+        "correctAnswer": "nero-rosso-oro",
+        "category": "Simboli dello Stato"
+    },
+    "215": {
+        "question": "Chi viene chiamato il \"Cancelliere dell'Unità tedesca\"?",
+        "options": [
+            "Gerhard Schröder",
+            "Helmut Kohl",
+            "Konrad Adenauer",
+            "Helmut Schmidt"
+        ],
+        "correctAnswer": "Helmut Kohl",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "216": {
+        "question": "Quale simbolo si può vedere nella sala plenaria del Bundestag tedesco?",
+        "options": [
+            "l'Aquila federale",
+            "la bandiera della città di Berlino",
+            "l'Aquila imperiale",
+            "la Corona imperiale"
+        ],
+        "correctAnswer": "l'Aquila federale",
+        "category": "Simboli dello Stato"
+    },
+    "217": {
+        "question": "Durante quale periodo è esistita la Repubblica Democratica Tedesca (DDR)?",
+        "options": [
+            "1919-1927",
+            "1933-1945",
+            "1945-1961",
+            "1949-1990"
+        ],
+        "correctAnswer": "1949-1990",
+        "category": "Tappe importanti dopo il 1945"
+    },
+    "218": {
+        "question": "Quanti Länder sono stati aggiunti alla Repubblica Federale di Germania durante la riunificazione nel 1990?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correctAnswer": "5",
+        "category": "Riunificazione"
+    },
+    "219": {
+        "question": "La Repubblica Federale di Germania ha i suoi attuali confini dal …",
+        "options": [
+            "1933",
+            "1949",
+            "1971",
+            "1990"
+        ],
+        "correctAnswer": "1990",
+        "category": "Riunificazione"
+    },
+    "220": {
+        "question": "Il 27 gennaio è un giorno commemorativo ufficiale in Germania. Cosa commemora questo giorno?",
+        "options": [
+            "la fine della Seconda Guerra Mondiale",
+            "l'adozione della Legge fondamentale",
+            "la riunificazione tedesca",
+            "le vittime del nazionalsocialismo (Liberazione del campo di sterminio di Auschwitz)"
+        ],
+        "correctAnswer": "le vittime del nazionalsocialismo (Liberazione del campo di sterminio di Auschwitz)",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "221": {
+        "question": "La Germania è membro dell'Accordo di Schengen. Cosa significa?",
+        "options": [
+            "I tedeschi possono viaggiare in molti paesi europei senza controllo del passaporto.",
+            "Tutte le persone possono entrare in Germania senza controlli di identità.",
+            "I tedeschi possono viaggiare in ogni paese senza controllo del passaporto.",
+            "I tedeschi possono pagare in euro in ogni paese."
+        ],
+        "correctAnswer": "I tedeschi possono viaggiare in molti paesi europei senza controllo del passaporto.",
+        "category": "La Germania in Europa"
+    },
+    "222": {
+        "question": "Quale paese è un paese confinante con la Germania?",
+        "options": [
+            "Ungheria",
+            "Portogallo",
+            "Spagna",
+            "Svizzera"
+        ],
+        "correctAnswer": "Svizzera",
+        "category": "La Germania in Europa"
+    },
+    "223": {
+        "question": "Quale paese è un paese confinante con la Germania?",
+        "options": [
+            "Romania",
+            "Bulgaria",
+            "Polonia",
+            "Grecia"
+        ],
+        "correctAnswer": "Polonia",
+        "category": "La Germania in Europa"
+    },
+    "224": {
+        "question": "Cosa significa l'abbreviazione UE?",
+        "options": [
+            "Imprese europee",
+            "Unione Europea",
+            "Unione unificata",
+            ""
+        ],
+        "correctAnswer": "Unione Europea",
+        "category": "La Germania in Europa"
+    },
+    "225": {
+        "question": "In quale altro paese c'è una grande popolazione di lingua tedesca?",
+        "options": [
+            "Repubblica Ceca",
+            "Norvegia",
+            "Spagna",
+            "Austria"
+        ],
+        "correctAnswer": "Austria",
+        "category": "La Germania in Europa"
+    },
+    "226": {
+        "question": "Qual è la bandiera dell'Unione Europea?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 2",
+        "state": "Unione Europea (UE)",
+        "category": "La Germania in Europa"
+    },
+    "227": {
+        "question": "Quale paese è un paese confinante con la Germania?",
+        "options": [
+            "Finlandia",
+            "Danimarca",
+            "Norvegia",
+            "Svezia"
+        ],
+        "correctAnswer": "Danimarca",
+        "category": "La Germania in Europa"
+    },
+    "228": {
+        "question": "Come si chiama generalmente l'adesione della DDR alla Repubblica Federale di Germania nel 1990?",
+        "options": [
+            "allargamento della NATO a est",
+            "allargamento dell'UE a est",
+            "riunificazione tedesca",
+            "Comunità Europea"
+        ],
+        "correctAnswer": "riunificazione tedesca",
+        "category": "Riunificazione"
+    },
+    "229": {
+        "question": "Quale paese è un paese confinante con la Germania?",
+        "options": [
+            "Spagna",
+            "Bulgaria",
+            "Norvegia",
+            "Lussemburgo"
+        ],
+        "correctAnswer": "Lussemburgo",
+        "category": "La Germania in Europa"
+    },
+    "230": {
+        "question": "Il Parlamento europeo viene eletto regolarmente ogni …",
+        "options": [
+            "5 anni.",
+            "6 anni.",
+            "7 anni.",
+            "8 anni."
+        ],
+        "correctAnswer": "5 anni.",
+        "category": "La Germania in Europa"
+    },
+    "231": {
+        "question": "Cosa significa il termine \"integrazione europea\"?",
+        "options": [
+            "Si riferisce agli immigrati americani in Europa.",
+            "Il termine significa fermare l'immigrazione in Europa.",
+            "Si riferisce agli emigranti europei negli USA.",
+            "Il termine significa l'unificazione degli Stati europei nell'UE."
+        ],
+        "correctAnswer": "Il termine significa l'unificazione degli Stati europei nell'UE.",
+        "category": "La Germania in Europa"
+    },
+    "232": {
+        "question": "Chi viene eletto nelle elezioni europee?",
+        "options": [
+            "La Commissione europea",
+            "I paesi che possono aderire all'UE",
+            "I membri del Parlamento europeo",
+            "La costituzione europea"
+        ],
+        "correctAnswer": "I membri del Parlamento europeo",
+        "category": "La Germania in Europa"
+    },
+    "233": {
+        "question": "Quale paese è un paese confinante con la Germania?",
+        "options": [
+            "Repubblica Ceca",
+            "Bulgaria",
+            "Grecia",
+            "Portogallo"
+        ],
+        "correctAnswer": "Repubblica Ceca",
+        "category": "La Germania in Europa"
+    },
+    "234": {
+        "question": "Dove si trova una sede del Parlamento europeo?",
+        "options": [
+            "Londra",
+            "Parigi",
+            "Berlino",
+            "Strasburgo"
+        ],
+        "correctAnswer": "Strasburgo",
+        "category": "La Germania in Europa"
+    },
+    "235": {
+        "question": "L'ex Presidente francese François Mitterrand e l'ex Cancelliere tedesco Helmut Kohl hanno commemorato insieme le vittime di entrambe le guerre mondiali a Verdun. Quale obiettivo dell'Unione Europea dimostra questo incontro?",
+        "options": [
+            "Amicizia tra Inghilterra e Germania",
+            "Libertà di viaggio in tutti i paesi dell'UE",
+            "Pace e sicurezza nei paesi dell'UE",
+            "Feste nazionali uniformi nei paesi dell'UE"
+        ],
+        "correctAnswer": "Pace e sicurezza nei paesi dell'UE",
+        "category": "La Germania in Europa"
+    },
+    "236": {
+        "question": "Quanti Stati membri ha attualmente l'UE?",
+        "options": [
+            "21",
+            "23",
+            "25",
+            "27"
+        ],
+        "correctAnswer": "27",
+        "category": "La Germania in Europa"
+    },
+    "237": {
+        "question": "Nel 2007 è stato celebrato il 50° anniversario dei \"Trattati di Roma\". Qual era il contenuto di questi trattati?",
+        "options": [
+            "l'adesione della Germania alla NATO",
+            "la fondazione della Comunità Economica Europea (CEE)",
+            "l'obbligo della Germania di pagare le riparazioni",
+            "l'istituzione della linea Oder-Neisse come confine orientale"
+        ],
+        "correctAnswer": "la fondazione della Comunità Economica Europea (CEE)",
+        "category": "La Germania in Europa"
+    },
+    "238": {
+        "question": "In quali città lavora il Parlamento europeo?",
+        "options": [
+            "Parigi, Londra e L'Aia",
+            "Strasburgo, Lussemburgo e Bruxelles",
+            "Roma, Berna e Vienna",
+            "Bonn, Zurigo e Milano"
+        ],
+        "correctAnswer": "Strasburgo, Lussemburgo e Bruxelles",
+        "category": "La Germania in Europa"
+    },
+    "239": {
+        "question": "Attraverso quali trattati la Repubblica Federale di Germania ha aderito ad altri Stati per formare la Comunità Economica Europea?",
+        "options": [
+            "Attraverso i \"Trattati di Amburgo\"",
+            "Attraverso i \"Trattati di Roma\"",
+            "Attraverso i \"Trattati di Parigi\"",
+            "Attraverso i \"Trattati di Londra\""
+        ],
+        "correctAnswer": "Attraverso i \"Trattati di Roma\"",
+        "category": "La Germania in Europa"
+    },
+    "240": {
+        "question": "Da quando i pagamenti in contanti in Germania si effettuano in euro?",
+        "options": [
+            "1995",
+            "1998",
+            "2002",
+            "2005"
+        ],
+        "correctAnswer": "2002",
+        "category": "La Germania in Europa"
+    },
+    "241": {
+        "question": "La signora Seger ha un figlio. Cosa deve fare per ricevere l'indennità parentale?",
+        "options": [
+            "Deve scrivere alla sua cassa malattia.",
+            "Deve presentare una domanda all'ufficio per l'indennità parentale.",
+            "Non deve fare nulla, perché riceve automaticamente l'indennità parentale.",
+            "Deve chiedere il permesso all'agenzia per l'impiego."
+        ],
+        "correctAnswer": "Deve presentare una domanda all'ufficio per l'indennità parentale.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "242": {
+        "question": "Chi decide se un bambino in Germania va all'asilo?",
+        "options": [
+            "Lo Stato",
+            "I Länder",
+            "I genitori/tutori legali",
+            "Le scuole"
+        ],
+        "correctAnswer": "I genitori/tutori legali",
+        "category": "Diritto e vita quotidiana"
+    },
+    "243": {
+        "question": "Maik e Sybille vogliono organizzare una manifestazione nella loro città natale tedesca. Cosa devono fare prima?",
+        "options": [
+            "Devono registrare la manifestazione.",
+            "Non devono fare nulla. Le manifestazioni sono sempre permesse ovunque in Germania.",
+            "Non possono fare nulla, perché le manifestazioni sono generalmente vietate in Germania.",
+            "Devono fondare una nuova associazione, perché solo le associazioni possono manifestare."
+        ],
+        "correctAnswer": "Devono registrare la manifestazione.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "244": {
+        "question": "Quale qualifica scolastica è normalmente richiesta per iniziare gli studi universitari in Germania?",
+        "options": [
+            "L'Abitur",
+            "Un diploma",
+            "Una procura commerciale",
+            "Un esame da maestro artigiano"
+        ],
+        "correctAnswer": "L'Abitur",
+        "category": "Istruzione"
+    },
+    "245": {
+        "question": "Chi non è autorizzato a vivere insieme come coppia in Germania?",
+        "options": [
+            "Hans (20 anni) e Marie (19 anni)",
+            "Tom (20 anni) e Klaus (45 anni)",
+            "Sofie (35 anni) e Lisa (40 anni)",
+            "Anne (13 anni) e Tim (25 anni)"
+        ],
+        "correctAnswer": "Anne (13 anni) e Tim (25 anni)",
+        "category": "Diritto e vita quotidiana"
+    },
+    "246": {
+        "question": "A che età una persona è legalmente adulta in Germania?",
+        "options": [
+            "16 anni",
+            "18 anni",
+            "19 anni",
+            "21 anni"
+        ],
+        "correctAnswer": "18 anni",
+        "category": "Diritto e vita quotidiana"
+    },
+    "247": {
+        "question": "Una donna è incinta ed è particolarmente protetta dalla legge poco prima e dopo il parto del bambino. Come si chiama questa protezione?",
+        "options": [
+            "Congedo parentale",
+            "Protezione della maternità",
+            "Preparazione al parto",
+            "Periodo post-parto"
+        ],
+        "correctAnswer": "Protezione della maternità",
+        "category": "Diritto e vita quotidiana"
+    },
+    "248": {
+        "question": "In Germania, l'educazione dei figli è principalmente responsabilità dei …",
+        "options": [
+            "Stato.",
+            "genitori.",
+            "nonni.",
+            "scuole."
+        ],
+        "correctAnswer": "genitori.",
+        "category": "Doveri"
+    },
+    "249": {
+        "question": "Chi è principalmente responsabile dell'educazione dei figli in Germania?",
+        "options": [
+            "lo Stato",
+            "i genitori",
+            "i parenti",
+            "le scuole"
+        ],
+        "correctAnswer": "i genitori",
+        "category": "Doveri"
+    },
+    "250": {
+        "question": "In Germania si hanno le migliori possibilità di ottenere un lavoro ben retribuito se si …",
+        "options": [
+            "è cattolici.",
+            "è ben istruiti.",
+            "è donne.",
+            "è membri di un partito politico."
+        ],
+        "correctAnswer": "è ben istruiti.",
+        "category": "Istruzione"
+    },
+    "251": {
+        "question": "Se qualcuno picchia un bambino in Germania, …",
+        "options": [
+            "non è affare di nessun altro.",
+            "è solo affare della famiglia.",
+            "non si può essere puniti per questo.",
+            "si può essere puniti per questo."
+        ],
+        "correctAnswer": "si può essere puniti per questo.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "252": {
+        "question": "In Germania …",
+        "options": [
+            "si può essere sposati con un solo partner alla volta.",
+            "si possono avere più coniugi contemporaneamente.",
+            "non ci si può risposare se si è già stati sposati una volta.",
+            "una donna non può risposarsi se il marito è morto."
+        ],
+        "correctAnswer": "si può essere sposati con un solo partner alla volta.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "253": {
+        "question": "Dove ci si deve registrare se ci si trasferisce a un nuovo indirizzo in Germania?",
+        "options": [
+            "all'ufficio anagrafe",
+            "all'ufficio di stato civile",
+            "all'ufficio dell'ordine pubblico",
+            "all'ufficio del commercio"
+        ],
+        "correctAnswer": "all'ufficio anagrafe",
+        "category": "Comune"
+    },
+    "254": {
+        "question": "In Germania, le coppie sposate possono divorziare. Di solito devono osservare l'\"anno di separazione\". Cosa significa?",
+        "options": [
+            "Il processo di divorzio dura un anno.",
+            "I coniugi devono essere sposati da un anno prima che il divorzio sia possibile.",
+            "I diritti di visita dei figli si applicano per un anno.",
+            "I coniugi devono vivere separati per almeno un anno prima che il divorzio sia possibile."
+        ],
+        "correctAnswer": "I coniugi devono vivere separati per almeno un anno prima che il divorzio sia possibile.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "255": {
+        "question": "In Germania, i genitori possono ricevere aiuto per problemi educativi dall' …",
+        "options": [
+            "ufficio dell'ordine pubblico.",
+            "autorità scolastica.",
+            "ufficio per l'assistenza ai giovani.",
+            "dipartimento di sanità."
+        ],
+        "correctAnswer": "ufficio per l'assistenza ai giovani.",
+        "category": "Comune"
+    },
+    "256": {
+        "question": "Una coppia sposata vuole aprire un ristorante in Germania. Di cosa ha assolutamente bisogno?",
+        "options": [
+            "un permesso della polizia",
+            "l'approvazione di un partito politico",
+            "l'approvazione dell'ufficio anagrafe",
+            "una licenza per ristorante dall'autorità competente"
+        ],
+        "correctAnswer": "una licenza per ristorante dall'autorità competente",
+        "category": "Comune"
+    },
+    "257": {
+        "question": "Una donna adulta vuole ottenere l'Abitur (qualifica di accesso all'università) in Germania più tardi nella vita. Può farlo in …",
+        "options": [
+            "un'università.",
+            "un liceo serale.",
+            "una scuola secondaria moderna.",
+            "un'università privata."
+        ],
+        "correctAnswer": "un liceo serale.",
+        "category": "Istruzione"
+    },
+    "258": {
+        "question": "Cosa può fare l'ufficio per l'assistenza ai giovani in Germania?",
+        "options": [
+            "Decidere a quale scuola va un bambino.",
+            "Togliere un bambino dalla famiglia se viene picchiato o lasciato morire di fame.",
+            "Pagare l'assegno familiare ai genitori.",
+            "Controllare se il bambino va all'asilo."
+        ],
+        "correctAnswer": "Togliere un bambino dalla famiglia se viene picchiato o lasciato morire di fame.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "259": {
+        "question": "Il Centro di informazione professionale (BIZ) presso l'Agenzia federale per l'impiego in Germania aiuta con …",
+        "options": [
+            "il calcolo della pensione.",
+            "la ricerca di un apprendistato.",
+            "le dichiarazioni dei redditi.",
+            "l'assicurazione sanitaria."
+        ],
+        "correctAnswer": "la ricerca di un apprendistato.",
+        "category": "Comune"
+    },
+    "260": {
+        "question": "In Germania, un bambino a scuola ha …",
+        "options": [
+            "il diritto a tempo libero illimitato.",
+            "libertà di scegliere tutte le materie.",
+            "il diritto di ricevere tasse scolastiche.",
+            "l'obbligo di frequenza."
+        ],
+        "correctAnswer": "l'obbligo di frequenza.",
+        "category": "Doveri"
+    },
+    "261": {
+        "question": "Un uomo di 30 anni in Germania vuole ottenere l'Abitur. Dove può farlo?",
+        "options": [
+            "in un'università.",
+            "in un liceo serale.",
+            "in una scuola secondaria moderna.",
+            "in un'università privata."
+        ],
+        "correctAnswer": "in un liceo serale.",
+        "category": "Istruzione"
+    },
+    "262": {
+        "question": "Cosa significa il principio di uguaglianza di trattamento in Germania?",
+        "options": [
+            "Nessuno può essere svantaggiato, ad esempio a causa di una disabilità.",
+            "Le persone possono svantaggiare gli altri se hanno motivi personali sufficienti.",
+            "Nessuno può presentare un reclamo se è stato svantaggiato.",
+            "È obbligatorio per tutti donare denaro ogni anno a gruppi svantaggiati."
+        ],
+        "correctAnswer": "Nessuno può essere svantaggiato, ad esempio a causa di una disabilità.",
+        "category": "Diritti fondamentali"
+    },
+    "263": {
+        "question": "In Germania i giovani sono penalmente responsabili a partire dai 14 anni. Questo significa: i giovani dai 14 anni in su che violano le leggi penali …",
+        "options": [
+            "vengono puniti.",
+            "vengono trattati come adulti.",
+            "condividono la punizione con i genitori.",
+            "non vengono puniti."
+        ],
+        "correctAnswer": "vengono puniti.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "264": {
+        "question": "A quale festa le persone in Germania indossano costumi colorati e maschere?",
+        "options": [
+            "il Lunedì delle Rose",
+            "il 1° maggio",
+            "all'Oktoberfest",
+            "a Pentecoste"
+        ],
+        "correctAnswer": "il Lunedì delle Rose",
+        "category": "Convivenza interculturale"
+    },
+    "265": {
+        "question": "Dove si deve andare prima in Germania se si vuole sposarsi?",
+        "options": [
+            "all'ufficio anagrafe",
+            "all'ufficio dell'ordine pubblico",
+            "all'agenzia per l'impiego",
+            "all'ufficio di stato civile"
+        ],
+        "correctAnswer": "all'ufficio di stato civile",
+        "category": "Comune"
+    },
+    "266": {
+        "question": "Quando inizia il periodo legale di silenzio notturno in Germania?",
+        "options": [
+            "al tramonto del sole",
+            "quando i vicini vanno a dormire",
+            "a mezzanotte",
+            "alle 22:00"
+        ],
+        "correctAnswer": "alle 22:00",
+        "category": "Diritto e vita quotidiana"
+    },
+    "267": {
+        "question": "Una giovane donna di 22 anni in Germania vive con il suo ragazzo. I suoi genitori non approvano. Cosa possono fare i genitori?",
+        "options": [
+            "Devono rispettare la decisione della loro figlia adulta.",
+            "Hanno il diritto di riportarla a casa dei genitori.",
+            "Possono denunciarla alla polizia.",
+            "Le trovano un altro uomo."
+        ],
+        "correctAnswer": "Devono rispettare la decisione della loro figlia adulta.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "268": {
+        "question": "Una giovane donna vuole prendere la patente di guida. Ha paura dell'esame perché il tedesco non è la sua lingua madre. Cosa è corretto?",
+        "options": [
+            "Deve vivere in Germania per almeno dieci anni prima di ottenere la patente.",
+            "Se non parla tedesco, non può ottenere la patente.",
+            "Deve sostenere l'esame in un paese in cui si parla la sua lingua.",
+            "Può sostenere l'esame teorico nella sua lingua madre. Sono disponibili più di dieci lingue."
+        ],
+        "correctAnswer": "Può sostenere l'esame teorico nella sua lingua madre. Sono disponibili più di dieci lingue.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "269": {
+        "question": "In Germania, i bambini dai tre anni fino all'inizio della scuola hanno diritto a …",
+        "options": [
+            "una paghetta mensile.",
+            "un posto in un club sportivo.",
+            "un posto all'asilo.",
+            "un pass vacanze."
+        ],
+        "correctAnswer": "un posto all'asilo.",
+        "category": "Istruzione"
+    },
+    "270": {
+        "question": "Il centro di educazione per adulti (Volkshochschule) in Germania è un'istituzione …",
+        "options": [
+            "per l'istruzione religiosa.",
+            "solo per i giovani.",
+            "per la formazione continua.",
+            "solo per i pensionati."
+        ],
+        "correctAnswer": "per la formazione continua.",
+        "category": "Istruzione"
+    },
+    "271": {
+        "question": "Qual è una tradizione natalizia in Germania?",
+        "options": [
+            "nascondere uova colorate",
+            "decorare un albero di Natale",
+            "indossare maschere e costumi",
+            "mettere le zucche fuori dalla porta"
+        ],
+        "correctAnswer": "decorare un albero di Natale",
+        "category": "Convivenza interculturale"
+    },
+    "272": {
+        "question": "Quale forma di convivenza non è permessa in Germania?",
+        "options": [
+            "Un uomo e una donna divorziati che vivono con nuovi partner.",
+            "Due donne che vivono insieme.",
+            "Un padre single che vive con i suoi due figli.",
+            "Un uomo sposato con due donne contemporaneamente."
+        ],
+        "correctAnswer": "Un uomo sposato con due donne contemporaneamente.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "273": {
+        "question": "In Germania, dove si va se si hanno problemi di educazione?",
+        "options": [
+            "da un medico",
+            "al dipartimento di sanità",
+            "all'ufficio anagrafe",
+            "all'ufficio per l'assistenza ai giovani"
+        ],
+        "correctAnswer": "all'ufficio per l'assistenza ai giovani",
+        "category": "Comune"
+    },
+    "274": {
+        "question": "In Germania hai aperto intenzionalmente una lettera indirizzata a qualcun altro. Cosa hai violato?",
+        "options": [
+            "il diritto di rimanere in silenzio",
+            "il segreto della corrispondenza",
+            "il segreto professionale",
+            "la libertà di espressione"
+        ],
+        "correctAnswer": "il segreto della corrispondenza",
+        "category": "Diritti fondamentali"
+    },
+    "275": {
+        "question": "Cosa è richiesto in Germania per un divorzio?",
+        "options": [
+            "il consenso dei genitori",
+            "un certificato medico",
+            "il consenso dei figli",
+            "il supporto di un avvocato"
+        ],
+        "correctAnswer": "il supporto di un avvocato",
+        "category": "Diritto e vita quotidiana"
+    },
+    "276": {
+        "question": "Cosa si deve fare se si viene trattati male dal proprio interlocutore in un'autorità tedesca?",
+        "options": [
+            "Non posso fare nulla.",
+            "Devo accettare questo trattamento.",
+            "Minaccio la persona.",
+            "Posso lamentarmi con il capo dell'autorità."
+        ],
+        "correctAnswer": "Posso lamentarmi con il capo dell'autorità.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "277": {
+        "question": "Una donna con un bambino di due anni fa domanda per un lavoro in Germania. Qual è un esempio di discriminazione? Non ottiene il lavoro solo perché …",
+        "options": [
+            "non parla inglese.",
+            "ha aspettative salariali troppo alte.",
+            "non ha esperienza nella professione.",
+            "è madre."
+        ],
+        "correctAnswer": "è madre.",
+        "category": "Diritti fondamentali"
+    },
+    "278": {
+        "question": "Un uomo su sedia a rotelle fa domanda per un posto di contabile in Germania. Qual è un esempio di discriminazione? Non ottiene il lavoro solo perché …",
+        "options": [
+            "usa una sedia a rotelle.",
+            "non ha esperienza.",
+            "ha aspettative salariali troppo alte.",
+            "non parla inglese."
+        ],
+        "correctAnswer": "usa una sedia a rotelle.",
+        "category": "Diritti fondamentali"
+    },
+    "279": {
+        "question": "Nella maggior parte dei condomini in Germania esiste un documento \"regolamento di casa\". Cosa contiene? Elenca …",
+        "options": [
+            "le regole per l'uso dei trasporti pubblici.",
+            "tutti gli inquilini dell'edificio.",
+            "le regole che tutti i residenti devono seguire.",
+            "l'indirizzo dell'ufficio dell'ordine pubblico più vicino."
+        ],
+        "correctAnswer": "le regole che tutti i residenti devono seguire.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "280": {
+        "question": "Se si vuole contestare un avviso di accertamento fiscale errato in Germania, si deve …",
+        "options": [
+            "non fare nulla.",
+            "gettare via l'avviso.",
+            "presentare un ricorso.",
+            "aspettare che arrivi un altro avviso."
+        ],
+        "correctAnswer": "presentare un ricorso.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "281": {
+        "question": "Due amici con la pelle scura vengono respinti all'ingresso di una piscina pubblica in Germania. Quale diritto viene violato in questa situazione? Il diritto a …",
+        "options": [
+            "la libertà di espressione",
+            "il trattamento uguale",
+            "la libertà di riunione",
+            "la libertà di circolazione"
+        ],
+        "correctAnswer": "il trattamento uguale",
+        "category": "Diritti fondamentali"
+    },
+    "282": {
+        "question": "Quale dovere civico volontario devono assumere i cittadini tedeschi se vengono chiamati a farlo?",
+        "options": [
+            "allenatore di club sportivo",
+            "scrutatore elettorale",
+            "supervisore di biblioteca",
+            "insegnante"
+        ],
+        "correctAnswer": "scrutatore elettorale",
+        "category": "Doveri"
+    },
+    "283": {
+        "question": "Cosa si fa se si riceve una fattura errata da un'autorità tedesca?",
+        "options": [
+            "Ignoro la fattura.",
+            "Presento un ricorso all'autorità.",
+            "Rispedisco la fattura all'autorità.",
+            "Vado all'ufficio delle imposte con la fattura."
+        ],
+        "correctAnswer": "Presento un ricorso all'autorità.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "284": {
+        "question": "Le competenze richieste per il lavoro cambiano molto rapidamente in futuro. Cosa si può fare?",
+        "options": [
+            "Non importa cosa si impara.",
+            "Gli adulti devono continuare a imparare anche dopo aver completato la formazione.",
+            "I bambini imparano tutto ciò che è importante per il lavoro a scuola e non hanno bisogno di ulteriore apprendimento.",
+            "Tutti devono smettere di lavorare prima perché tutto cambia."
+        ],
+        "correctAnswer": "Gli adulti devono continuare a imparare anche dopo aver completato la formazione.",
+        "category": "Istruzione"
+    },
+    "285": {
+        "question": "La signora Frost lavora come impiegata fissa in un ufficio. Cosa non deve pagare dal suo stipendio?",
+        "options": [
+            "imposta sul reddito",
+            "contributi all'assicurazione contro la disoccupazione",
+            "contributi all'assicurazione pensionistica e sanitaria",
+            "imposta sul valore aggiunto (IVA)"
+        ],
+        "correctAnswer": "imposta sul valore aggiunto (IVA)",
+        "category": "Sistema sociale"
+    },
+    "286": {
+        "question": "Quale organizzazione in un'azienda aiuta i dipendenti con problemi che coinvolgono il datore di lavoro?",
+        "options": [
+            "il consiglio di fabbrica",
+            "il revisore aziendale",
+            "il gruppo aziendale",
+            "la direzione aziendale"
+        ],
+        "correctAnswer": "il consiglio di fabbrica",
+        "category": "Diritto e vita quotidiana"
+    },
+    "287": {
+        "question": "Se si vuole terminare il proprio rapporto di lavoro in Germania, cosa si deve rispettare?",
+        "options": [
+            "i pagamenti dello stipendio",
+            "gli orari di lavoro",
+            "il periodo di preavviso",
+            "gli obblighi assicurativi"
+        ],
+        "correctAnswer": "il periodo di preavviso",
+        "category": "Diritto e vita quotidiana"
+    },
+    "288": {
+        "question": "Qual è la base della responsabilità speciale della Germania verso Israele?",
+        "options": [
+            "l'appartenenza all'Unione Europea (UE)",
+            "i crimini nazionalsocialisti contro gli ebrei",
+            "la Legge fondamentale della Repubblica Federale di Germania",
+            "la tradizione cristiana"
+        ],
+        "correctAnswer": "i crimini nazionalsocialisti contro gli ebrei",
+        "category": "Nazionalsocialismo e sue conseguenze"
+    },
+    "289": {
+        "question": "Un uomo con la pelle scura fa domanda per un posto di cameriere in un ristorante in Germania. Qual è un esempio di discriminazione? Non ottiene il lavoro solo perché …",
+        "options": [
+            "le sue conoscenze di tedesco sono insufficienti.",
+            "le sue aspettative salariali sono troppo alte.",
+            "ha la pelle scura.",
+            "non ha esperienza professionale."
+        ],
+        "correctAnswer": "ha la pelle scura.",
+        "category": "Diritti fondamentali"
+    },
+    "290": {
+        "question": "Hai comprato una televisione in Germania. A casa la apri e non funziona. Cosa puoi fare?",
+        "options": [
+            "presentare una denuncia alla polizia",
+            "restituire e reclamare la televisione",
+            "sostituire il dispositivo senza autorizzazione",
+            "prolungare la garanzia"
+        ],
+        "correctAnswer": "restituire e reclamare la televisione",
+        "category": "Diritto e vita quotidiana"
+    },
+    "291": {
+        "question": "Perché nella dichiarazione dei redditi in Germania si deve indicare se si appartiene a una chiesa o no? Perché …",
+        "options": [
+            "esiste un'imposta ecclesiastica legata all'imposta sul reddito e sul salario.",
+            "è importante per le statistiche in Germania.",
+            "si devono pagare più tasse se non si appartiene a una chiesa.",
+            "la chiesa è responsabile della dichiarazione dei redditi."
+        ],
+        "correctAnswer": "esiste un'imposta ecclesiastica legata all'imposta sul reddito e sul salario.",
+        "category": "Diritto e vita quotidiana"
+    },
+    "292": {
+        "question": "Le persone in Germania vivono secondo il principio della tolleranza religiosa. Cosa significa?",
+        "options": [
+            "Le moschee non possono essere costruite.",
+            "Tutte le persone credono in Dio.",
+            "Ognuno può credere ciò che vuole.",
+            "Lo Stato decide quale Dio le persone devono credere."
+        ],
+        "correctAnswer": "Ognuno può credere ciò che vuole.",
+        "category": "Diversità religiosa"
+    },
+    "293": {
+        "question": "Qual è una usanza tradizionale in Germania a Pasqua?",
+        "options": [
+            "mettere le zucche davanti alla porta",
+            "decorare un albero di Natale",
+            "dipingere le uova",
+            "lanciare razzi in aria"
+        ],
+        "correctAnswer": "dipingere le uova",
+        "category": "Convivenza interculturale"
+    },
+    "294": {
+        "question": "La Pentecoste è una …",
+        "options": [
+            "festa cristiana.",
+            "giornata commemorativa tedesca.",
+            "giornata internazionale di lutto.",
+            "usanza bavarese."
+        ],
+        "correctAnswer": "festa cristiana.",
+        "category": "Diversità religiosa"
+    },
+    "295": {
+        "question": "Quale religione ha plasmato la cultura europea e tedesca?",
+        "options": [
+            "Induismo",
+            "Cristianesimo",
+            "Buddhismo",
+            "Islam"
+        ],
+        "correctAnswer": "Cristianesimo",
+        "category": "Diversità religiosa"
+    },
+    "296": {
+        "question": "In Germania, le ultime quattro settimane prima di Natale si chiamano …",
+        "options": [
+            "Giorno della Penitenza e della Preghiera.",
+            "Festa del Raccolto.",
+            "periodo dell'Avvento.",
+            "Ognissanti."
+        ],
+        "correctAnswer": "periodo dell'Avvento.",
+        "category": "Diversità religiosa"
+    },
+    "297": {
+        "question": "Da quale paese è venuto il maggior numero di migranti in Germania?",
+        "options": [
+            "Italia",
+            "Polonia",
+            "Marocco",
+            "Turchia"
+        ],
+        "correctAnswer": "Turchia",
+        "category": "Storia della migrazione"
+    },
+    "298": {
+        "question": "Nella DDR (Germania Est), la maggior parte dei migranti proveniva da …",
+        "options": [
+            "Vietnam, Polonia, Mozambico.",
+            "Francia, Romania, Somalia.",
+            "Cile, Ungheria, Zimbabwe.",
+            "Corea del Nord, Messico, Egitto."
+        ],
+        "correctAnswer": "Vietnam, Polonia, Mozambico.",
+        "category": "Storia della migrazione"
+    },
+    "299": {
+        "question": "I lavoratori stranieri reclutati nella Germania Ovest negli anni '50 e '60 erano chiamati …",
+        "options": [
+            "lavoratori illegali.",
+            "lavoratori ospiti.",
+            "lavoratori temporanei.",
+            "lavoratori a turni."
+        ],
+        "correctAnswer": "lavoratori ospiti.",
+        "category": "Storia della migrazione"
+    },
+    "300": {
+        "question": "Da quale paese sono arrivati i primi lavoratori ospiti nella Repubblica Federale di Germania?",
+        "options": [
+            "Italia",
+            "Spagna",
+            "Portogallo",
+            "Turchia"
+        ],
+        "correctAnswer": "Italia",
+        "category": "Storia della migrazione"
+    },
+    "301": {
+        "question": "Quale stemma appartiene al Land del Baden-Württemberg?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 1",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "302": {
+        "question": "Quale dei seguenti è un distretto nel Baden-Württemberg?",
+        "options": [
+            "Mecklenburgische Seenplatte",
+            "Distretto di Neckar-Odenwald",
+            "Nordfriesland",
+            "Altötting"
+        ],
+        "correctAnswer": "Distretto di Neckar-Odenwald",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "303": {
+        "question": "Per quanti anni viene eletto il parlamento regionale (Landtag) nel Baden-Württemberg?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "304": {
+        "question": "Da quale età si può votare alle elezioni comunali nel Baden-Württemberg?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "305": {
+        "question": "Di quali colori è la bandiera del Land del Baden-Württemberg?",
+        "options": [
+            "blu-bianco-rosso",
+            "nero-oro",
+            "bianco-blu",
+            "verde-bianco-rosso"
+        ],
+        "correctAnswer": "nero-oro",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "306": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici nel Baden-Württemberg?",
+        "options": [
+            "all'ufficio dell'ordine pubblico del comune",
+            "al centro di consulenza ai consumatori",
+            "all'Agenzia statale per l'educazione civica",
+            "nelle chiese"
+        ],
+        "correctAnswer": "all'Agenzia statale per l'educazione civica",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "307": {
+        "question": "La capitale del Baden-Württemberg è …",
+        "options": [
+            "Heidelberg.",
+            "Stoccarda.",
+            "Karlsruhe.",
+            "Mannheim."
+        ],
+        "correctAnswer": "Stoccarda.",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "308": {
+        "question": "Quale Land è il Baden-Württemberg?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "309": {
+        "question": "Qual è il titolo del capo di governo nel Baden-Württemberg?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "310": {
+        "question": "Quale posizione ministeriale non ha il Baden-Württemberg?",
+        "options": [
+            "Ministro delle Finanze",
+            "Ministro della Giustizia",
+            "Ministro dell'Interno",
+            "Ministro degli Affari Esteri"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Baden-Württemberg",
+        "category": "Organi costituzionali"
+    },
+    "311": {
+        "question": "Quale stemma appartiene allo Stato Libero di Baviera?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 2",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "312": {
+        "question": "Quale è un distretto (Landkreis) in Baviera?",
+        "options": [
+            "Prignitz",
+            "Distretto di Rhein-Sieg",
+            "Nordfriesland",
+            "Altötting"
+        ],
+        "correctAnswer": "Altötting",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "313": {
+        "question": "Per quanti anni viene eletto il parlamento regionale (Landtag) in Baviera?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": "5",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "314": {
+        "question": "Da quale età si può votare alle elezioni locali in Baviera?",
+        "options": ["14", "16", "18", "20"],
+        "correctAnswer": "18",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "315": {
+        "question": "Di quali colori è la bandiera del Land della Baviera?",
+        "options": [
+            "blu-bianco-rosso",
+            "bianco-blu",
+            "verde-bianco-rosso",
+            "nero-giallo"
+        ],
+        "correctAnswer": "bianco-blu",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "316": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici in Baviera?",
+        "options": [
+            "all'ufficio dell'ordine pubblico del comune",
+            "al Centro statale per l'educazione politica",
+            "al centro di consulenza ai consumatori",
+            "nelle chiese"
+        ],
+        "correctAnswer": "al Centro statale per l'educazione politica",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "317": {
+        "question": "La capitale della Baviera è …",
+        "options": [
+            "Ingolstadt.",
+            "Ratisbona.",
+            "Norimberga.",
+            "Monaco."
+        ],
+        "correctAnswer": "Monaco.",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "318": {
+        "question": "Quale Land è la Baviera?",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": "4",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "319": {
+        "question": "Come si chiama il capo di governo in Baviera?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "320": {
+        "question": "Quale ministro non ha la Baviera?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Stato Libero di Baviera",
+        "category": "Organi costituzionali"
+    },
+    "321": {
+        "question": "Quale stemma appartiene al Land di Berlino?",
+        "options": ["Immagine 1", "Immagine 2", "Immagine 3", "Immagine 4"],
+        "correctAnswer": "Immagine 4",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+    "322": {
+        "question": "Quale è un distretto di Berlino?",
+        "options": [
+            "Altona",
+            "Prignitz",
+            "Pankow",
+            "Distretto dei laghi di Meclemburgo"
+        ],
+        "correctAnswer": "Pankow",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+    "323": {
+        "question": "Per quanti anni viene eletto il parlamento regionale a Berlino?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": "5",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+    "324": {
+        "question": "Da quale età si può votare alle elezioni locali (assemblea di distretto) a Berlino?",
+        "options": ["14", "16", "18", "20"],
+        "correctAnswer": "16",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+    "325": {
+        "question": "Di quali colori è la bandiera del Land di Berlino?",
+        "options": [
+            "blu-bianco-rosso",
+            "bianco-rosso",
+            "verde-bianco-rosso",
+            "nero-oro"
+        ],
+        "correctAnswer": "bianco-rosso",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+    "326": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici a Berlino?",
+        "options": [
+            "all'ufficio dell'ordine pubblico",
+            "nelle chiese",
+            "al centro di consulenza ai consumatori",
+            "al Centro statale per l'educazione politica"
+        ],
+        "correctAnswer": "al Centro statale per l'educazione politica",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+    "327": {
+        "question": "Quale Land è una città-stato?",
+        "options": [
+            "Berlino",
+            "Saarland",
+            "Brandeburgo",
+            "Assia"
+        ],
+        "correctAnswer": "Berlino",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+    "328": {
+        "question": "Quale Land è Berlino?",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": "4",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+    "329": {
+        "question": "Come si chiama il capo di governo della città-stato di Berlino?",
+        "options": [
+            "Ministro-presidente",
+            "Sindaco lord",
+            "Presidente del Senato",
+            "Sindaco governante"
+        ],
+        "correctAnswer": "Sindaco governante",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+    "330": {
+        "question": "Quale senatore non ha Berlino?",
+        "options": [
+            "Senatore delle Finanze",
+            "Senatore dell'Interno",
+            "Senatore per le Relazioni Estere",
+            "Senatore della Giustizia"
+        ],
+        "correctAnswer": "Senatore per le Relazioni Estere",
+        "state": "Berlino",
+        "category": "Organi costituzionali"
+    },
+        "331": {
+            "question": "A quale Land appartiene questo stemma? Brandeburgo",
+            "options": [
+                "Immagine 1",
+                "Immagine 2",
+                "Immagine 3",
+                "Immagine 4"
+            ],
+            "correctAnswer": "Immagine 1",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+        "332": {
+            "question": "Quale dei seguenti è un distretto (Landkreis) in Brandeburgo?",
+            "options": [
+                "Prignitz",
+                "Distretto Rhein-Sieg",
+                "Distretto di Vogtland",
+                "Amberg-Sulzbach"
+            ],
+            "correctAnswer": "Prignitz",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+        "333": {
+            "question": "Per quanti anni viene eletto il parlamento regionale (Landtag) in Brandeburgo?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correctAnswer": "5",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+        "334": {
+            "question": "Da quale età si può votare alle elezioni comunali in Brandeburgo?",
+            "options": [
+                "14",
+                "16",
+                "18",
+                "20"
+            ],
+            "correctAnswer": "16",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+        "335": {
+            "question": "Di quali colori è la bandiera del Land del Brandeburgo?",
+            "options": [
+                "blu-bianco-rosso",
+                "rosso-bianco",
+                "verde-bianco-rosso",
+                "nero-giallo"
+            ],
+            "correctAnswer": "rosso-bianco",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+        "336": {
+            "question": "Dove si possono ottenere informazioni su argomenti politici in Brandeburgo?",
+            "options": [
+                "nelle chiese",
+                "all'ufficio dell'ordine pubblico del comune",
+                "all'Agenzia statale per l'educazione civica",
+                "al centro di consulenza ai consumatori"
+            ],
+            "correctAnswer": "all'Agenzia statale per l'educazione civica",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+        "337": {
+            "question": "La capitale del Brandeburgo è …",
+            "options": [
+                "Potsdam.",
+                "Cottbus.",
+                "Brandeburgo.",
+                "Francoforte sull'Oder."
+            ],
+            "correctAnswer": "Potsdam.",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+        "338": {
+            "question": "Quale Land è il Brandeburgo?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correctAnswer": "4",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+        "339": {
+            "question": "Qual è il titolo del capo di governo in Brandeburgo?",
+            "options": [
+                "Primo ministro",
+                "Premier",
+                "Sindaco",
+                "Ministro-presidente"
+            ],
+            "correctAnswer": "Ministro-presidente",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+        "340": {
+            "question": "Quale ministro non ha il Brandeburgo?",
+            "options": [
+                "Ministro della Giustizia",
+                "Ministro degli Affari Esteri",
+                "Ministro delle Finanze",
+                "Ministro dell'Interno"
+            ],
+            "correctAnswer": "Ministro degli Affari Esteri",
+            "state": "Brandeburgo",
+            "category": "Organi costituzionali"
+        },
+    "341": {
+        "question": "Quale stemma appartiene alla Città Anseatica Libera di Brema?",
+        "options": ["Immagine 1", "Immagine 2", "Immagine 3", "Immagine 4"],
+        "correctAnswer": "Immagine 3",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "342": {
+        "question": "Quale è un distretto di Brema?",
+        "options": [
+            "Altona",
+            "Hemelingen",
+            "Pankow",
+            "Babelsberg"
+        ],
+        "correctAnswer": "Hemelingen",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "343": {
+        "question": "Per quanti anni viene eletto il parlamento regionale a Brema?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": "4",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "344": {
+        "question": "Da quale età si può votare alle elezioni del Parlamento di Brema (Bürgerschaft)?",
+        "options": ["14", "16", "18", "20"],
+        "correctAnswer": "16",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "345": {
+        "question": "Di quali colori è la bandiera del Land di Brema?",
+        "options": [
+            "blu-bianco-rosso",
+            "rosso-bianco",
+            "verde-bianco-rosso",
+            "nero-oro"
+        ],
+        "correctAnswer": "rosso-bianco",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "346": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici a Brema?",
+        "options": [
+            "all'ufficio dell'ordine pubblico",
+            "al Centro statale per l'educazione politica",
+            "nelle chiese",
+            "al centro di consulenza ai consumatori"
+        ],
+        "correctAnswer": "al Centro statale per l'educazione politica",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "347": {
+        "question": "Quale è una città-stato tedesca?",
+        "options": [
+            "Brema",
+            "Monaco",
+            "Francoforte",
+            "Erfurt"
+        ],
+        "correctAnswer": "Brema",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "348": {
+        "question": "Quale Land è Brema?",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": "1",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "349": {
+        "question": "Come si chiama il capo di governo della città-stato di Brema?",
+        "options": [
+            "Ministro-presidente",
+            "Primo sindaco",
+            "Presidente del Senato",
+            "Sindaco governante"
+        ],
+        "correctAnswer": "Presidente del Senato",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "350": {
+        "question": "Quale senatore non ha Brema?",
+        "options": [
+            "Senatore per le Relazioni Estere",
+            "Senatore delle Finanze",
+            "Senatore della Giustizia",
+            "Senatore dell'Interno"
+        ],
+        "correctAnswer": "Senatore per le Relazioni Estere",
+        "state": "Città Anseatica Libera di Brema",
+        "category": "Organi costituzionali"
+    },
+    "351": {
+        "question": "Quale stemma appartiene alla Città Anseatica Libera e Anseatica di Amburgo?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 2",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "352": {
+        "question": "Quale è un distretto di Amburgo?",
+        "options": [
+            "Altona",
+            "Hemelingen",
+            "Pankow",
+            "Distretto dei laghi di Meclemburgo"
+        ],
+        "correctAnswer": "Altona",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "353": {
+        "question": "Per quanti anni viene eletto il parlamento regionale ad Amburgo?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "354": {
+        "question": "Da quale età si può votare alle elezioni locali (elezione delle assemblee di distretto) ad Amburgo?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "355": {
+        "question": "Di quali colori è la bandiera del Land di Amburgo?",
+        "options": [
+            "blu-bianco-rosso",
+            "bianco-rosso",
+            "verde-bianco-rosso",
+            "nero-giallo"
+        ],
+        "correctAnswer": "bianco-rosso",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "356": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici ad Amburgo?",
+        "options": [
+            "all'ufficio dell'ordine pubblico",
+            "al centro di consulenza ai consumatori",
+            "nelle chiese",
+            "al Centro statale per l'educazione politica"
+        ],
+        "correctAnswer": "al Centro statale per l'educazione politica",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "357": {
+        "question": "Quale Land è una città-stato?",
+        "options": [
+            "Amburgo",
+            "Sassonia",
+            "Baviera",
+            "Turingia"
+        ],
+        "correctAnswer": "Amburgo",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "358": {
+        "question": "Quale Land è Amburgo?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "3",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "359": {
+        "question": "Come si chiama il capo di governo della città-stato di Amburgo?",
+        "options": [
+            "Ministro-presidente",
+            "Primo sindaco",
+            "Senatore governante",
+            "Sindaco lord"
+        ],
+        "correctAnswer": "Primo sindaco",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "360": {
+        "question": "Quale senatore non ha Amburgo?",
+        "options": [
+            "Senatore della Giustizia",
+            "Senatore per le Relazioni Estere",
+            "Senatore delle Finanze",
+            "Senatore dell'Interno"
+        ],
+        "correctAnswer": "Senatore per le Relazioni Estere",
+        "state": "Città Anseatica Libera e Anseatica di Amburgo",
+        "category": "Organi costituzionali"
+    },
+    "361": {
+        "question": "Quale stemma appartiene al Land dell'Assia?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 1",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "362": {
+        "question": "Quale è un distretto in Assia?",
+        "options": [
+            "Ammerland",
+            "Altötting",
+            "Prignitz",
+            "Distretto di Main-Taunus"
+        ],
+        "correctAnswer": "Distretto di Main-Taunus",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "363": {
+        "question": "Per quanti anni viene eletto il parlamento regionale (Landtag) in Assia?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "364": {
+        "question": "Da quale età si può votare alle elezioni locali in Assia?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "18",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "365": {
+        "question": "Di quali colori è la bandiera del Land dell'Assia?",
+        "options": [
+            "blu-bianco-rosso",
+            "rosso-bianco",
+            "nero-oro",
+            "verde-bianco-rosso"
+        ],
+        "correctAnswer": "rosso-bianco",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "366": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici in Assia?",
+        "options": [
+            "al Centro statale per l'educazione politica",
+            "al centro di consulenza ai consumatori",
+            "all'ufficio dell'ordine pubblico",
+            "nelle chiese"
+        ],
+        "correctAnswer": "al Centro statale per l'educazione politica",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "367": {
+        "question": "La capitale dell'Assia è …",
+        "options": [
+            "Kassel.",
+            "Darmstadt.",
+            "Francoforte.",
+            "Wiesbaden."
+        ],
+        "correctAnswer": "Wiesbaden.",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "368": {
+        "question": "Quale Land è l'Assia?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "369": {
+        "question": "Come si chiama il capo di governo in Assia?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Primo ministro",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "370": {
+        "question": "Quale ministro non ha l'Assia?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Assia",
+        "category": "Organi costituzionali"
+    },
+    "371": {
+        "question": "Quale stemma appartiene al Land del Meclemburgo-Pomerania Anteriore?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 3",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "372": {
+        "question": "Quale è un distretto nel Meclemburgo-Pomerania Anteriore?",
+        "options": [
+            "Prignitz",
+            "Distretto dei laghi di Meclemburgo",
+            "Distretto di Vogtland",
+            "Distretto di Rhein-Sieg"
+        ],
+        "correctAnswer": "Distretto dei laghi di Meclemburgo",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "373": {
+        "question": "Per quanti anni viene eletto il parlamento regionale (Landtag) nel Meclemburgo-Pomerania Anteriore?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "374": {
+        "question": "Da quale età si può votare alle elezioni locali nel Meclemburgo-Pomerania Anteriore?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "375": {
+        "question": "Di quali colori è la bandiera del Land del Meclemburgo-Pomerania Anteriore?",
+        "options": [
+            "nero-rosso-oro",
+            "blu-bianco-giallo-rosso",
+            "verde-bianco-rosso",
+            "nero-giallo"
+        ],
+        "correctAnswer": "blu-bianco-giallo-rosso",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "376": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici nel Meclemburgo-Pomerania Anteriore?",
+        "options": [
+            "al Centro statale per l'educazione politica",
+            "nelle chiese",
+            "all'ufficio dell'ordine pubblico",
+            "al centro di consulenza ai consumatori"
+        ],
+        "correctAnswer": "al Centro statale per l'educazione politica",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "377": {
+        "question": "La capitale del Meclemburgo-Pomerania Anteriore è …",
+        "options": [
+            "Greifswald.",
+            "Schwerin.",
+            "Rostock.",
+            "Wismar."
+        ],
+        "correctAnswer": "Schwerin.",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "378": {
+        "question": "Quale Land è il Meclemburgo-Pomerania Anteriore?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "379": {
+        "question": "Come si chiama il capo di governo nel Meclemburgo-Pomerania Anteriore?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "380": {
+        "question": "Quale ministro non ha il Meclemburgo-Pomerania Anteriore?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Meclemburgo-Pomerania Anteriore",
+        "category": "Organi costituzionali"
+    },
+    "381": {
+        "question": "Quale stemma appartiene al Land della Bassa Sassonia?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 3",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "382": {
+        "question": "Quale è un distretto nella Bassa Sassonia?",
+        "options": [
+            "Ammerland",
+            "Distretto di Rhein-Sieg",
+            "Nordfriesland",
+            "Distretto di Vogtland"
+        ],
+        "correctAnswer": "Ammerland",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "383": {
+        "question": "Per quanti anni viene eletto il parlamento regionale (Landtag) nella Bassa Sassonia?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "384": {
+        "question": "Da quale età si può votare alle elezioni locali nella Bassa Sassonia?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "385": {
+        "question": "Di quali colori è la bandiera del Land della Bassa Sassonia?",
+        "options": [
+            "bianco-blu",
+            "nero-rosso-oro",
+            "nero-giallo",
+            "blu-bianco-rosso"
+        ],
+        "correctAnswer": "nero-rosso-oro",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "386": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici nella Bassa Sassonia?",
+        "options": [
+            "al Centro statale per l'educazione politica",
+            "all'ufficio dell'ordine pubblico",
+            "all'ufficio dell'ordine pubblico",
+            "nelle chiese"
+        ],
+        "correctAnswer": "al Centro statale per l'educazione politica",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "387": {
+        "question": "La capitale della Bassa Sassonia è …",
+        "options": [
+            "Hannover.",
+            "Braunschweig.",
+            "Wolfsburg.",
+            "Osnabrück."
+        ],
+        "correctAnswer": "Hannover.",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "388": {
+        "question": "Quale Land è la Bassa Sassonia?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "389": {
+        "question": "Come si chiama il capo di governo nella Bassa Sassonia?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "390": {
+        "question": "Quale ministro non ha la Bassa Sassonia?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Bassa Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "391": {
+        "question": "Quale stemma appartiene al Land della Renania Settentrionale-Vestfalia?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 2",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "392": {
+        "question": "Quale è un distretto nella Renania Settentrionale-Vestfalia?",
+        "options": [
+            "Ammerland",
+            "Distretto di Rhein-Sieg",
+            "Nordfriesland",
+            "Distretto di Vogtland"
+        ],
+        "correctAnswer": "Distretto di Rhein-Sieg",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "393": {
+        "question": "Per quanti anni viene eletto il parlamento regionale (Landtag) nella Renania Settentrionale-Vestfalia?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "394": {
+        "question": "Da quale età si può votare alle elezioni locali nella Renania Settentrionale-Vestfalia?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "395": {
+        "question": "Di quali colori è la bandiera del Land della Renania Settentrionale-Vestfalia?",
+        "options": [
+            "rosso-bianco",
+            "verde-bianco-rosso",
+            "nero-oro",
+            "blu-bianco-rosso"
+        ],
+        "correctAnswer": "verde-bianco-rosso",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "396": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici nella Renania Settentrionale-Vestfalia?",
+        "options": [
+            "nelle chiese",
+            "all'ufficio dell'ordine pubblico",
+            "al centro di consulenza ai consumatori",
+            "al Centro statale per l'educazione politica"
+        ],
+        "correctAnswer": "al Centro statale per l'educazione politica",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "397": {
+        "question": "La capitale della Renania Settentrionale-Vestfalia è …",
+        "options": [
+            "Colonia.",
+            "Bonn.",
+            "Düsseldorf.",
+            "Dortmund."
+        ],
+        "correctAnswer": "Düsseldorf.",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "398": {
+        "question": "Quale Land è la Renania Settentrionale-Vestfalia?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "2",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "399": {
+        "question": "Come si chiama il capo di governo nella Renania Settentrionale-Vestfalia?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "400": {
+        "question": "Quale ministro non ha la Renania Settentrionale-Vestfalia?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Renania Settentrionale-Vestfalia",
+        "category": "Organi costituzionali"
+    },
+    "401": {
+        "question": "Quale stemma appartiene al Land della Renania-Palatinato?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 1",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "402": {
+        "question": "Quale dei seguenti è un distretto nella Renania-Palatinato?",
+        "options": [
+            "Distretto di Westerwald",
+            "Altötting",
+            "Emsland",
+            "Prignitz"
+        ],
+        "correctAnswer": "Distretto di Westerwald",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "403": {
+        "question": "Per quanti anni viene eletto il parlamento regionale nella Renania-Palatinato?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "404": {
+        "question": "Da quale età si può votare alle elezioni comunali nella Renania-Palatinato?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "18",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "405": {
+        "question": "Di quali colori è la bandiera del Land della Renania-Palatinato?",
+        "options": [
+            "bianco-rosso",
+            "nero-rosso-oro",
+            "nero-giallo",
+            "verde-bianco-rosso"
+        ],
+        "correctAnswer": "nero-rosso-oro",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "406": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici nella Renania-Palatinato?",
+        "options": [
+            "nelle chiese",
+            "al centro di consulenza ai consumatori",
+            "all'ufficio dell'ordine pubblico comunale",
+            "all'Agenzia statale per l'educazione civica"
+        ],
+        "correctAnswer": "all'Agenzia statale per l'educazione civica",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "407": {
+        "question": "La capitale della Renania-Palatinato è …",
+        "options": [
+            "Magonza.",
+            "Kaiserslautern.",
+            "Ludwigshafen.",
+            "Coblenza."
+        ],
+        "correctAnswer": "Magonza.",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "408": {
+        "question": "Quale Land è la Renania-Palatinato?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "409": {
+        "question": "Qual è il titolo del capo di governo nella Renania-Palatinato?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "410": {
+        "question": "Quale ministro la Renania-Palatinato NON ha?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Renania-Palatinato",
+        "category": "Organi costituzionali"
+    },
+    "411": {
+        "question": "Quale stemma appartiene al Land del Saarland?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 4",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "412": {
+        "question": "Quale dei seguenti è un distretto nel Saarland?",
+        "options": [
+            "Distretto dei laghi di Meclemburgo",
+            "Altötting",
+            "Neunkirchen",
+            "Distretto di Rhein-Sieg"
+        ],
+        "correctAnswer": "Neunkirchen",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "413": {
+        "question": "Per quanti anni viene eletto il parlamento regionale del Saarland?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "414": {
+        "question": "Da quale età si può votare alle elezioni comunali nel Saarland?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "415": {
+        "question": "Di quali colori è la bandiera del Land del Saarland?",
+        "options": [
+            "bianco-blu",
+            "nero-rosso-oro",
+            "nero-giallo",
+            "verde-bianco-rosso"
+        ],
+        "correctAnswer": "nero-rosso-oro",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "416": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici nel Saarland?",
+        "options": [
+            "nelle chiese",
+            "all'Agenzia statale per l'educazione civica",
+            "al centro di consulenza ai consumatori",
+            "all'ufficio dell'ordine pubblico comunale"
+        ],
+        "correctAnswer": "all'Agenzia statale per l'educazione civica",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "417": {
+        "question": "La capitale del Saarland è …",
+        "options": [
+            "Neunkirchen.",
+            "Homburg.",
+            "Saarbrücken.",
+            "Völklingen."
+        ],
+        "correctAnswer": "Saarbrücken.",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "418": {
+        "question": "Quale Land è il Saarland?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "2",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "419": {
+        "question": "Qual è il titolo del capo di governo del Saarland?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "420": {
+        "question": "Quale ministro il Saarland NON ha?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Saarland",
+        "category": "Organi costituzionali"
+    },
+    "421": {
+        "question": "Quale stemma appartiene allo Stato Libero di Sassonia?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 4",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "422": {
+        "question": "Quale dei seguenti è un distretto in Sassonia?",
+        "options": [
+            "Distretto di Vogtland",
+            "Altötting",
+            "Uckermark",
+            "Nordfriesland"
+        ],
+        "correctAnswer": "Distretto di Vogtland",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "423": {
+        "question": "Per quanti anni viene eletto il parlamento regionale in Sassonia?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "424": {
+        "question": "Da quale età si può votare alle elezioni comunali in Sassonia?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "18",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "425": {
+        "question": "Di quali colori è la bandiera del Land della Sassonia?",
+        "options": [
+            "blu-bianco-rosso",
+            "bianco-verde",
+            "verde-bianco-rosso",
+            "nero-giallo"
+        ],
+        "correctAnswer": "bianco-verde",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "426": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici in Sassonia?",
+        "options": [
+            "all'Agenzia statale per l'educazione civica",
+            "all'ufficio dell'ordine pubblico comunale",
+            "nelle chiese",
+            "al centro di consulenza ai consumatori"
+        ],
+        "correctAnswer": "all'Agenzia statale per l'educazione civica",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "427": {
+        "question": "La capitale della Sassonia è …",
+        "options": [
+            "Lipsia.",
+            "Dresda.",
+            "Chemnitz.",
+            "Zwickau."
+        ],
+        "correctAnswer": "Dresda.",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "428": {
+        "question": "Quale Land è la Sassonia?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "4",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "429": {
+        "question": "Qual è il titolo del capo di governo in Sassonia?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "430": {
+        "question": "Quale ministro la Sassonia NON ha?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Sassonia",
+        "category": "Organi costituzionali"
+    },
+    "431": {
+        "question": "Quale stemma appartiene al Land della Sassonia-Anhalt?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 4",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "432": {
+        "question": "Quale dei seguenti è un distretto nella Sassonia-Anhalt?",
+        "options": [
+            "Ammerland",
+            "Altötting",
+            "Uckermark",
+            "Börde"
+        ],
+        "correctAnswer": "Börde",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "433": {
+        "question": "Per quanti anni viene eletto il parlamento regionale in Sassonia-Anhalt?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "434": {
+        "question": "Da quale età si può votare alle elezioni comunali in Sassonia-Anhalt?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "435": {
+        "question": "Di quali colori è la bandiera del Land della Sassonia-Anhalt?",
+        "options": [
+            "blu-bianco-rosso",
+            "giallo-nero",
+            "verde-bianco-rosso",
+            "bianco-rosso"
+        ],
+        "correctAnswer": "giallo-nero",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "436": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici in Sassonia-Anhalt?",
+        "options": [
+            "nelle chiese",
+            "all'Agenzia statale per l'educazione civica",
+            "all'ufficio dell'ordine pubblico comunale",
+            "al centro di consulenza ai consumatori"
+        ],
+        "correctAnswer": "all'Agenzia statale per l'educazione civica",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "437": {
+        "question": "La capitale della Sassonia-Anhalt è …",
+        "options": [
+            "Halle.",
+            "Dessau.",
+            "Magdeburgo.",
+            "Wittenberg."
+        ],
+        "correctAnswer": "Magdeburgo.",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "438": {
+        "question": "Quale Land è la Sassonia-Anhalt?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "3",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "439": {
+        "question": "Qual è il titolo del capo di governo in Sassonia-Anhalt?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "440": {
+        "question": "Quale ministro la Sassonia-Anhalt NON ha?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Sassonia-Anhalt",
+        "category": "Organi costituzionali"
+    },
+    "441": {
+        "question": "Quale stemma appartiene al Land dello Schleswig-Holstein?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 3",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "442": {
+        "question": "Quale dei seguenti è un distretto nello Schleswig-Holstein?",
+        "options": [
+            "Ammerland",
+            "Distretto dei laghi di Meclemburgo",
+            "Nordfriesland",
+            "Distretto di Rhein-Sieg"
+        ],
+        "correctAnswer": "Nordfriesland",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "443": {
+        "question": "Per quanti anni viene eletto il parlamento regionale nello Schleswig-Holstein?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "444": {
+        "question": "Da quale età si può votare alle elezioni comunali nello Schleswig-Holstein?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "445": {
+        "question": "Di quali colori è la bandiera del Land dello Schleswig-Holstein?",
+        "options": [
+            "bianco-blu",
+            "blu-bianco-rosso",
+            "bianco-rosso",
+            "verde-bianco-rosso"
+        ],
+        "correctAnswer": "blu-bianco-rosso",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "446": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici nello Schleswig-Holstein?",
+        "options": [
+            "al centro di consulenza ai consumatori",
+            "all'ufficio dell'ordine pubblico comunale",
+            "al Commissario statale per l'educazione civica",
+            "nelle chiese"
+        ],
+        "correctAnswer": "al Commissario statale per l'educazione civica",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "447": {
+        "question": "La capitale dello Schleswig-Holstein è …",
+        "options": [
+            "Husum.",
+            "Flensburg.",
+            "Lubecca.",
+            "Kiel."
+        ],
+        "correctAnswer": "Kiel.",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "448": {
+        "question": "Quale Land è lo Schleswig-Holstein?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "1",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "449": {
+        "question": "Qual è il titolo del capo di governo nello Schleswig-Holstein?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "450": {
+        "question": "Quale ministro lo Schleswig-Holstein NON ha?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Schleswig-Holstein",
+        "category": "Organi costituzionali"
+    },
+    "451": {
+        "question": "Quale stemma appartiene allo Stato Libero di Turingia?",
+        "options": [
+            "Immagine 1",
+            "Immagine 2",
+            "Immagine 3",
+            "Immagine 4"
+        ],
+        "correctAnswer": "Immagine 4",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    },
+    "452": {
+        "question": "Quale dei seguenti è un distretto in Turingia?",
+        "options": [
+            "Ammerland",
+            "Altötting",
+            "Nordfriesland",
+            "Distretto di Wartburg"
+        ],
+        "correctAnswer": "Distretto di Wartburg",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    },
+    "453": {
+        "question": "Per quanti anni viene eletto il parlamento regionale (Landtag) in Turingia?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "5",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    },
+    "454": {
+        "question": "Da quale età si può votare alle elezioni comunali in Turingia?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "correctAnswer": "16",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    },
+    "455": {
+        "question": "Di quali colori è la bandiera del Land della Turingia?",
+        "options": [
+            "blu-bianco-rosso",
+            "bianco-rosso",
+            "verde-bianco-rosso",
+            "nero-oro"
+        ],
+        "correctAnswer": "bianco-rosso",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    },
+    "456": {
+        "question": "Dove si possono ottenere informazioni su argomenti politici in Turingia?",
+        "options": [
+            "Nelle chiese",
+            "Al centro di consulenza ai consumatori",
+            "Al Centro statale per l'educazione politica",
+            "All'ufficio dell'ordine pubblico comunale"
+        ],
+        "correctAnswer": "Al Centro statale per l'educazione politica",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    },
+    "457": {
+        "question": "La capitale della Turingia si chiama …",
+        "options": [
+            "Eisenach.",
+            "Erfurt.",
+            "Gera.",
+            "Jena."
+        ],
+        "correctAnswer": "Erfurt.",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    },
+    "458": {
+        "question": "Quale Land è la Turingia?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": "2",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    },
+    "459": {
+        "question": "Qual è il titolo del capo di governo in Turingia?",
+        "options": [
+            "Primo ministro",
+            "Primo ministro",
+            "Sindaco",
+            "Ministro-presidente"
+        ],
+        "correctAnswer": "Ministro-presidente",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    },
+    "460": {
+        "question": "Quale ministro la Turingia non ha?",
+        "options": [
+            "Ministro della Giustizia",
+            "Ministro degli Affari Esteri",
+            "Ministro delle Finanze",
+            "Ministro dell'Interno"
+        ],
+        "correctAnswer": "Ministro degli Affari Esteri",
+        "state": "Turingia",
+        "category": "Organi costituzionali"
+    }
+}

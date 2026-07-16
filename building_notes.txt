@@ -1,0 +1,82 @@
+
+My environment:
+- Flutter 3.44.6
+- Dart 3.12.2
+- Java 17
+
+ Building Steps
+
+1-Admob:
+
+- Create new admob account then get the App id and Ad Unit IDs.
+- Go to 'android/app/src/main/AndroidManifest.xml'
+- Scroll down to find the Google AdMob metadata tag and change the 'android:value' to your AdMob App ID.
+- Go to 'lib/widgets/ad/ad_helper.dart'
+- Change 'testBannerAdUnitId' and 'testInterstitialAdUnitId' (and optionally 'testRewardedAdUnitId') to your own ad unit IDs. Note: Since AdHelper returns these test variables directly on Android/iOS (even in non-debug mode), changing them here will apply to your production builds.
+
+2-App Icon:
+
+- If you want to change the app icon, add the new image to the 'assets/images/icons/' folder (or path of your choice).
+- Go to 'pubspec.yaml' then change the 'image_path' and 'adaptive_icon_foreground' of the 'flutter_launcher_icons' section to your new icon path.
+- Run the command 'dart run flutter_launcher_icons' to generate the new app icons.
+
+3-App Name:
+
+- Go to 'android/app/src/main/AndroidManifest.xml'
+- In the '<application>' tag, change 'android:label' to your own app name.
+
+4- App ID / Package Name:
+
+- Go to 'android/app/build.gradle.kts' file.
+- In the 'android' block, update 'namespace' to your new package name (e.g., "com.yourcompany.new_app_name").
+- In the 'defaultConfig' section, change 'applicationId' to your own application ID (typically matching the package name).
+- Rename the Kotlin directories under 'android/app/src/main/kotlin/' to match your new package name hierarchy (e.g., rename 'com/example/question_app' to 'com/yourcompany/new_app_name'), and move 'MainActivity.kt' inside it.
+- Open 'MainActivity.kt' and change the package declaration at the top of the file to your new package name.
+
+5- Sign App:
+
+- Generate a new keystore file by running the following command (on Windows PowerShell, '~' refers to your home directory):
+  keytool -genkey -v -keystore ~/upload-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+- Create a file named 'key.properties' in the 'android/' folder (NOT 'android/app/'). Add the following lines:
+  
+  storePassword=<password-from-previous-step>
+  keyPassword=<password-from-previous-step>
+  keyAlias=upload
+  storeFile=<absolute-path-to-keystore-file, e.g., C:/Users/username/upload-keystore.jks>
+
+- Configure Gradle to load 'key.properties' and sign the release build. Update 'android/app/build.gradle.kts':
+  
+  1. Add this snippet at the top of 'android/app/build.gradle.kts' (before the 'android { ... }' block) to load properties:
+     
+     import java.io.FileInputStream
+     import java.util.Properties
+
+     val keystoreProperties = Properties()
+     val keystorePropertiesFile = rootProject.file("key.properties")
+     if (keystorePropertiesFile.exists()) {
+         keystoreProperties.load(FileInputStream(keystorePropertiesFile))
+     }
+  
+  2. Inside the 'android { ... }' block, define the 'signingConfigs' block before 'buildTypes':
+     
+     signingConfigs {
+         create("release") {
+             keyAlias = keystoreProperties.getProperty("keyAlias")
+             keyPassword = keystoreProperties.getProperty("keyPassword")
+             storeFile = keystoreProperties.getProperty("storeFile")?.let { file(it) }
+             storePassword = keystoreProperties.getProperty("storePassword")
+         }
+     }
+  
+  3. Inside the 'buildTypes { release { ... } }' block, change the signing config from 'debug' to 'release':
+     
+     buildTypes {
+         release {
+             signingConfig = signingConfigs.getByName("release")
+         }
+     }
+
+- Run command 'flutter build appbundle' to build the release app bundle.
+- Run command 'flutter build apk' to build the release apk.
+
+Check this link for more details: https://docs.flutter.dev/deployment/android
