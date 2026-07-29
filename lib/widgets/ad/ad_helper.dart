@@ -7,11 +7,11 @@ import 'package:question_app/data/data.dart';
 
 class AdHelper {
   static const String testBannerAdUnitId =
-      'ca-app-pub-3940256099942544/6300978111';
+      'ca-app-pub-2715802718577529/6531618861';
   static const String testInterstitialAdUnitId =
-      'ca-app-pub-3940256099942544/1033173712';
+      'ca-app-pub-2715802718577529/6168536647';
   static const String testRewardedAdUnitId =
-      'ca-app-pub-3940256099942544/5224354917';
+      'ca-app-pub-2715802718577529/7078413774';
   static InterstitialAd? _interstitialAd;
   static bool _isLoading = false;
   static StreamSubscription<List<ConnectivityResult>>? _networkSubscription;

@@ -579,7 +579,7 @@
       "Die Bürgerinnen und Bürger entscheiden über Gesetze.",
       "Der Staat muss die Gesetze einhalten."
     ],
-    "correctAnswer": "Der Staat hat Recht.",
+    "correctAnswer": "Der Staat muss die Gesetze einhalten.",
     "category": "Verfassungsprintipien"
   },
   {
@@ -700,7 +700,7 @@
       "16 Kantone.",
       "Bund, Länder und Kommunen."
     ],
-    "correctAnswer": "Bund, Länder und Kommunen",
+    "correctAnswer": "Bund, Länder und Kommunen.",
     "category": "Föderalismus"
   },
   {
@@ -752,10 +752,10 @@
     "options": [
       "Stadträte",
       "Landräte",
-      "Gemeinden",
+      "Gemeinden und Kommunen",
       "Bezirksämter"
     ],
-    "correctAnswer": "Gemeinden",
+    "correctAnswer": "Gemeinden und Kommunen",
     "category": "kommune"
   },
   {
@@ -799,7 +799,7 @@
       "FDP und SPD.",
       "Die Linke und FDP."
     ],
-    "correctAnswer": "CDU/CSU und SPD",
+    "correctAnswer": "CDU/CSU und SPD.",
     "category": "Parteien"
   },
   {
@@ -920,7 +920,7 @@
       "repräsentiert das Land.",
       "überwacht die Einhaltung der Gesetze."
     ],
-    "correctAnswer": "repräsentiert das Land",
+    "correctAnswer": "repräsentiert das Land.",
     "category": "Verfassungsorgane"
   },
   {
@@ -964,7 +964,7 @@
       "bestimmt, wer im Bundesrat sitzt.",
       "schlägt die Regierungschefinnen/Regierungschefs der Länder vor."
     ],
-    "correctAnswer": "kontrolliert die Regierung",
+    "correctAnswer": "kontrolliert die Regierung.",
     "category": "Verfassungsorgane"
   },
   {
@@ -986,7 +986,7 @@
       "den Bundestag.",
       "die Bundesregierung. "
     ],
-    "correctAnswer": "den Bundesrat",
+    "correctAnswer": "den Bundesrat.",
     "category": "Verfassungsorgane"
   },
   {
@@ -1401,7 +1401,7 @@
     "options": [
       "Abgeordnete.",
       "Kanzlerinnen/Kanzler.",
-      "otschafterinnen/Botschafter. ",
+      "Botschafterinnen/Botschafter.",
       "Ministerpräsidentinnen/Ministerpräsidenten."
     ],
     "correctAnswer": "Abgeordnete.",
@@ -2458,7 +2458,7 @@
       "Europäische Unternehmen",
       "Europäische Union",
       "Einheitliche Union",
-      ""
+      "Euro Union"
     ],
     "correctAnswer": "Europäische Union",
     "category": "Deutschland in Europa"
@@ -3391,7 +3391,7 @@
       "3",
       "4"
     ],
-    "correctAnswer": "1",
+    "correctAnswer": "2",
     "state": "Baden-Württemberg",
     "category": "Verfassungsorgane"
   },
@@ -3917,7 +3917,7 @@
       "Altona",
       "Hemelingen",
       "Pankow",
-      "Mecklenburgische Seenplatte"
+      "Demmin"
     ],
     "correctAnswer": "Altona",
     "state": "Freie und Hansestadt Hamburg",
@@ -4111,7 +4111,7 @@
       "3",
       "4"
     ],
-    "correctAnswer": "1",
+    "correctAnswer": "3",
     "state": "Hessen",
     "category": "Verfassungsorgane"
   },
@@ -4120,7 +4120,7 @@
     "options": [
       "Erste Ministerin/Erster Minister",
       "Premierministerin/Premierminister",
-      "Premierministerin/Premierminister",
+      "Bürgermeister/Bürgermeisterin",
       "Ministerpräsidentin/Ministerpräsident"
     ],
     "correctAnswer": "Ministerpräsidentin/Ministerpräsident",
@@ -4207,7 +4207,7 @@
       "beim Ordnungsamt der Gemeinde",
       "bei der Verbraucherzentrale"
     ],
-    "correctAnswer": "bei der Landeszentrale für bpolitische Bildung",
+    "correctAnswer": "bei der Landeszentrale für politische Bildung",
     "state": "Mecklenburg-Vorpommern",
     "category": "Verfassungsorgane"
   },
@@ -4231,7 +4231,7 @@
       "3",
       "4"
     ],
-    "correctAnswer": "1",
+    "correctAnswer": "3",
     "state": "Mecklenburg-Vorpommern",
     "category": "Verfassungsorgane"
   },
@@ -4324,7 +4324,7 @@
     "options": [
       "bei der Landeszentrale für politische Bildung",
       "beim Ordnungsamt der Gemeinde",
-      "beim Ordnungsamt der Gemeinde",
+      "bei der Verbraucherzentrale",
       "bei den Kirchen"
     ],
     "correctAnswer": "bei der Landeszentrale für politische Bildung",
@@ -4471,7 +4471,7 @@
       "3",
       "4"
     ],
-    "correctAnswer": "2",
+    "correctAnswer": "3",
     "state": "Nordrhein-Westfalen",
     "category": "Verfassungsorgane"
   },

@@ -753,10 +753,10 @@
         "options": [
             "conseils municipaux",
             "administrateurs de district",
-            "communes",
+            "municipalités et autorités locales",
             "bureaux de district"
         ],
-        "correctAnswer": "communes",
+        "correctAnswer": "municipalités et autorités locales",
         "category": "Municipalité"
     },
     "70": {
@@ -2460,7 +2460,7 @@
             "Entreprises européennes",
             "Union européenne",
             "Union unifiée",
-            ""
+            "Union européenne"
         ],
         "correctAnswer": "Union européenne",
         "category": "L'Allemagne en Europe"
@@ -3394,7 +3394,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "2",
         "state": "Bade-Wurtemberg",
         "category": "Organes constitutionnels"
     },
@@ -3865,7 +3865,7 @@
             "Altona",
             "Hemelingen",
             "Pankow",
-            "District des lacs de Mecklembourg"
+            "Demmin"
         ],
         "correctAnswer": "Altona",
         "state": "Ville hanséatique libre et hanséatique de Hambourg",
@@ -4059,7 +4059,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Hesse",
         "category": "Organes constitutionnels"
     },
@@ -4068,7 +4068,7 @@
         "options": [
             "Premier ministre",
             "Premier ministre",
-            "Premier ministre",
+            "Maire",
             "Ministre-président"
         ],
         "correctAnswer": "Ministre-président",
@@ -4179,7 +4179,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Mecklembourg-Poméranie occidentale",
         "category": "Organes constitutionnels"
     },
@@ -4272,7 +4272,7 @@
         "options": [
             "au Centre d'État pour l'éducation politique",
             "au bureau de l'ordre public",
-            "au bureau de l'ordre public",
+            "au centre de conseils aux consommateurs",
             "aux églises"
         ],
         "correctAnswer": "au Centre d'État pour l'éducation politique",
@@ -4419,7 +4419,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "2",
+        "correctAnswer": "3",
         "state": "Rhénanie-du-Nord-Westphalie",
         "category": "Organes constitutionnels"
     },

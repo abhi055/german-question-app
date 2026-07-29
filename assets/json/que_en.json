@@ -581,7 +581,7 @@
             "Citizens decide on laws.",
             "The state must obey the law."
         ],
-        "correctAnswer": "The state is always right.",
+        "correctAnswer": "The state must obey the law.",
         "category": "Constitutional Principles"
     },
     "54": {
@@ -755,10 +755,10 @@
         "options": [
             "city councils",
             "district administrators",
-            "municipalities",
+            "Municipalities and local authorities",
             "district offices"
         ],
-        "correctAnswer": "municipalities",
+        "correctAnswer": "Municipalities and local authorities",
         "category": "Municipality"
     },
     "70": {
@@ -2465,7 +2465,7 @@
         "European Enterprises",
         "European Union",
         "Unified Union",
-        ""
+        "European Union"
     ],
     "correctAnswer": "European Union",
     "category": "Germany in Europe"
@@ -3399,7 +3399,7 @@
         "3",
         "4"
     ],
-    "correctAnswer": "1",
+    "correctAnswer": "2",
     "state": "Baden-Württemberg",
     "category": "Constitutional Bodies"
 },
@@ -3870,7 +3870,7 @@
         "Altona",
         "Hemelingen",
         "Pankow",
-        "Mecklenburg Lake District"
+        "Demmin"
     ],
     "correctAnswer": "Altona",
     "state": "Free and Hanseatic City of Hamburg",
@@ -4064,7 +4064,7 @@
         "3",
         "4"
     ],
-    "correctAnswer": "1",
+    "correctAnswer": "3",
     "state": "Hesse",
     "category": "Constitutional Bodies"
 },
@@ -4073,7 +4073,7 @@
     "options": [
         "First Minister",
         "Prime Minister",
-        "Prime Minister",
+        "Mayor",
         "Minister-President"
     ],
     "correctAnswer": "Minister-President",
@@ -4184,7 +4184,7 @@
         "3",
         "4"
     ],
-    "correctAnswer": "1",
+    "correctAnswer": "3",
     "state": "Mecklenburg-Western Pomerania",
     "category": "Constitutional Bodies"
 },
@@ -4277,7 +4277,7 @@
     "options": [
         "at the State Center for Political Education",
         "at the public order office",
-        "at the public order office",
+        "at the consumer advice center",
         "at the churches"
     ],
     "correctAnswer": "at the State Center for Political Education",
@@ -4424,7 +4424,7 @@
         "3",
         "4"
     ],
-    "correctAnswer": "2",
+    "correctAnswer": "3",
     "state": "North Rhine-Westphalia",
     "category": "Constitutional Bodies"
 },

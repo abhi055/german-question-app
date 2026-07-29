@@ -753,10 +753,10 @@
         "options": [
             "consigli comunali",
             "amministratori di distretto",
-            "comuni",
+            "comuni e autorità locali",
             "uffici di distretto"
         ],
-        "correctAnswer": "comuni",
+        "correctAnswer": "comuni e autorità locali",
         "category": "Comune"
     },
     "70": {
@@ -2460,7 +2460,7 @@
             "Imprese europee",
             "Unione Europea",
             "Unione unificata",
-            ""
+            "Unione Europea"
         ],
         "correctAnswer": "Unione Europea",
         "category": "La Germania in Europa"
@@ -3394,7 +3394,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "2",
         "state": "Baden-Württemberg",
         "category": "Organi costituzionali"
     },
@@ -3865,7 +3865,7 @@
             "Altona",
             "Hemelingen",
             "Pankow",
-            "Distretto dei laghi di Meclemburgo"
+            "Demmin"
         ],
         "correctAnswer": "Altona",
         "state": "Città Anseatica Libera e Anseatica di Amburgo",
@@ -4059,7 +4059,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Assia",
         "category": "Organi costituzionali"
     },
@@ -4068,7 +4068,7 @@
         "options": [
             "Primo ministro",
             "Primo ministro",
-            "Primo ministro",
+            "Sindaco",
             "Ministro-presidente"
         ],
         "correctAnswer": "Ministro-presidente",
@@ -4179,7 +4179,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Meclemburgo-Pomerania Anteriore",
         "category": "Organi costituzionali"
     },
@@ -4272,7 +4272,7 @@
         "options": [
             "al Centro statale per l'educazione politica",
             "all'ufficio dell'ordine pubblico",
-            "all'ufficio dell'ordine pubblico",
+            "presso il centro di consulenza per i consumatori",
             "nelle chiese"
         ],
         "correctAnswer": "al Centro statale per l'educazione politica",
@@ -4419,7 +4419,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "2",
+        "correctAnswer": "3",
         "state": "Renania Settentrionale-Vestfalia",
         "category": "Organi costituzionali"
     },

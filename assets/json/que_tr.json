@@ -753,10 +753,10 @@
         "options": [
             "belediye meclisleri",
             "ilçe yöneticileri",
-            "belediyeler",
+            "belediyeler ve yerel yönetimler",
             "ilçe idareleri"
         ],
-        "correctAnswer": "belediyeler",
+        "correctAnswer": "belediyeler ve yerel yönetimler",
         "category": "Belediye"
     },
     "70": {
@@ -2460,7 +2460,7 @@
             "Avrupa İşletmeleri",
             "Avrupa Birliği",
             "Birleşik Birlik",
-            ""
+            "Avrupa Birliği"
         ],
         "correctAnswer": "Avrupa Birliği",
         "category": "Avrupa'da Almanya"
@@ -3394,7 +3394,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "2",
         "state": "Baden-Württemberg",
         "category": "Anayasal Organlar"
     },
@@ -3920,7 +3920,7 @@
             "Altona",
             "Hemelingen",
             "Pankow",
-            "Mecklenburg Göl Bölgesi"
+            "Demmin"
         ],
         "correctAnswer": "Altona",
         "state": "Özgür ve Hanseatik Şehir Hamburg",
@@ -4114,7 +4114,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Hessen",
         "category": "Anayasal Organlar"
     },
@@ -4234,7 +4234,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Mecklenburg-Vorpommern",
         "category": "Anayasal Organlar"
     },
@@ -4327,7 +4327,7 @@
         "options": [
             "Eyalet Siyasi Eğitim Merkezi'nden",
             "kamu düzeni dairesinden",
-            "kamu düzeni dairesinden",
+            "tüketici danışma merkezinde",
             "kilise"
         ],
         "correctAnswer": "Eyalet Siyasi Eğitim Merkezi'nden",
@@ -4474,7 +4474,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "2",
+        "correctAnswer": "3",
         "state": "Kuzey Ren-Vestfalya",
         "category": "Anayasal Organlar"
     },

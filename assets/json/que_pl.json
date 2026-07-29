@@ -753,10 +753,10 @@
         "options": [
             "rady miejskie",
             "administratorzy powiatów",
-            "gminy",
+            "gminy i władze lokalne",
             "urzędy powiatowe"
         ],
-        "correctAnswer": "gminy",
+        "correctAnswer": "gminy i władze lokalne",
         "category": "Gmina"
     },
     "70": {
@@ -2460,7 +2460,7 @@
             "Europejskie Przedsiębiorstwa",
             "Unia Europejska",
             "Zjednoczona Unia",
-            ""
+            "Unia Euro"
         ],
         "correctAnswer": "Unia Europejska",
         "category": "Niemcy w Europie"
@@ -3394,7 +3394,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "2",
         "state": "Badenia-Wirtembergia",
         "category": "Organy konstytucyjne"
     },
@@ -3865,7 +3865,7 @@
             "Altona",
             "Hemelingen",
             "Pankow",
-            "Mecklenburg Lake District"
+            "Demmin"
         ],
         "correctAnswer": "Altona",
         "state": "Wolne i Hanzeatyckie Miasto Hamburg",
@@ -4059,7 +4059,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Hesja",
         "category": "Organy konstytucyjne"
     },
@@ -4068,7 +4068,7 @@
         "options": [
             "Pierwszy Minister",
             "Premier",
-            "Premier",
+            "Burmistrz",
             "Minister-prezydent"
         ],
         "correctAnswer": "Minister-prezydent",
@@ -4179,7 +4179,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Meklemburgia-Pomorze Przednie",
         "category": "Organy konstytucyjne"
     },
@@ -4272,7 +4272,7 @@
         "options": [
             "w Państwowym Centrum Edukacji Politycznej",
             "w urzędzie porządku publicznego",
-            "w urzędzie porządku publicznego",
+            "w centrum porad konsumenckich",
             "w kościołach"
         ],
         "correctAnswer": "w Państwowym Centrum Edukacji Politycznej",
@@ -4419,7 +4419,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "2",
+        "correctAnswer": "3",
         "state": "Nadrenia Północna-Westfalia",
         "category": "Organy konstytucyjne"
     },

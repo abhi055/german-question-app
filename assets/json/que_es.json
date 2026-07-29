@@ -753,10 +753,10 @@
         "options": [
             "consejos municipales",
             "administradores de distrito",
-            "municipios",
+            "municipios y autoridades locales",
             "oficinas de distrito"
         ],
-        "correctAnswer": "municipios",
+        "correctAnswer": "municipios y autoridades locales",
         "category": "Municipio"
     },
     "70": {
@@ -2460,7 +2460,7 @@
             "Empresas Europeas",
             "Unión Europea",
             "Unión Unida",
-            ""
+            "Unión Euro"
         ],
         "correctAnswer": "Unión Europea",
         "category": "Alemania en Europa"
@@ -3394,7 +3394,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "2",
         "state": "Baden-Wurtemberg",
         "category": "Órganos constitucionales"
     },
@@ -3920,7 +3920,7 @@
             "Altona",
             "Hemelingen",
             "Pankow",
-            "Distrito de los Lagos de Mecklemburgo"
+            "Demmin"
         ],
         "correctAnswer": "Altona",
         "state": "Ciudad Libre y Hanseática de Hamburgo",
@@ -4114,7 +4114,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Hesse",
         "category": "Órganos constitucionales"
     },
@@ -4123,7 +4123,7 @@
         "options": [
             "Primer ministro",
             "Premier",
-            "Premier",
+            "Alcalde",
             "Ministro-presidente"
         ],
         "correctAnswer": "Ministro-presidente",
@@ -4234,7 +4234,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "1",
+        "correctAnswer": "3",
         "state": "Mecklemburgo-Pomerania Occidental",
         "category": "Órganos constitucionales"
     },
@@ -4327,7 +4327,7 @@
         "options": [
             "en el Centro Estatal de Educación Política",
             "en la oficina de orden público",
-            "en la oficina de orden público",
+            "en el centro de asesoramiento al consumidor",
             "en las iglesias"
         ],
         "correctAnswer": "en el Centro Estatal de Educación Política",
@@ -4474,7 +4474,7 @@
             "3",
             "4"
         ],
-        "correctAnswer": "2",
+        "correctAnswer": "3",
         "state": "Renania del Norte-Westfalia",
         "category": "Órganos constitucionales"
     },
