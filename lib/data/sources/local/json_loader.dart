@@ -239,6 +239,8 @@ class JsonLoader {
       return 'assets/json/questions.json';
     } else if (currentLanguage == "Französisch") {
       return 'assets/json/que_fr.json';
+      } else if (currentLanguage == "Hindi") {
+      return 'assets/json/que_hi.json';
     } else if (currentLanguage == "Italienisch") {
       return 'assets/json/que_it.json';
     } else if (currentLanguage == "Polnisch") {

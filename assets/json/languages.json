@@ -12,6 +12,9 @@
         "text":"Französisch",
         "image":"assets/images/languages/Französisch.png"
     },{
+        "text":"Hindi",
+        "image":"assets/images/languages/Italienisch.png"
+    },{
         "text":"Italienisch",
         "image":"assets/images/languages/Italienisch.png"
     },{
@@ -25,7 +28,7 @@
         "image":"assets/images/languages/Spanisch.png"
     },{
         "text":"Türkisch",
-        "image":"assets/images/languages/Türkisch.png"
+        "image":"assets/images/languages/Tuerkisch.png"
     },{
         "text":"Ukrainisch",
         "image":"assets/images/languages/Ukrainisch.png"
